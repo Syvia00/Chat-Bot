@@ -1,0 +1,20 @@
+Resins Supercast X old and new
+ Hello,
+
+There are different material files depending on the expiry date of the resin.
+
+You may need to change to using a different material file to get the best results with the resin you have.
+
+Please check the expiry date of the resin, if the Supercast X resin has Expiry: 2023/07 or earlier, use the material file labelled Supercast X old. If it is from 2023/08 or later, please use the material file Supercast X.
+
+The files are available from here: https://myaccount.asiga.com/accounts/resources/Materials/Asiga/385%20nm/
+
+Recent versions of Composer have the newer material file for Supercast X, which only works with resin made during or after August 2021.
+
+You can find the latest Composer here:
+
+https://myaccount.asiga.com/accounts/software/
+
+Please let us know if any further help is needed.
+
+Regards, 

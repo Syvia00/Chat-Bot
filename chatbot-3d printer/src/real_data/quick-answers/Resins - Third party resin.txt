@@ -1,0 +1,11 @@
+Resins Third party resin
+ If you use a third party resin but don't have the right material file for this material, then it will be a trial and error to get the right print parameters. Also it's possible that the dimensions won't be accurate, because there wouldn't be parameters for the XY compensation, which compensates for any shrinkage or growth of the resin.
+
+Perhaps you could ask in the Asiga Dental Experts facebook group if someone has a material file for this resin or more accurate print parameters.
+
+Alternately there would be the possibility, if you really want to use this resin, to get in contact with Asiga Germany, you can send them 1KG of this resin and they will create a material file for you free of charge.
+
+For the time being, to get a better adhesion of the model on the build platform, you can increase the Exposure Time for the Burn-in. Depending what the current default value is and how well it works, you could either double the current default burn-in exposure time, or if it's below 60 seconds, to set it to 60 seconds right away. If you are already above 60 seconds and still have detachments issues, then you can increase the burn-in to 120 seconds.
+For the rest of the model, should there be any detachments, you would need to increase the normal exposure time. Here you shouldn't increase the value by too much, otherwise it can overcure the model. Here we could recommend to increase in increments of 50% from the default parameter, until the parts prints well.
+
+Please let me know if you have further questions.

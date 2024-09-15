@@ -1,0 +1,10 @@
+General Bottom limit
+ It also looks like the calibration of the z-stage is off. Currently:
+Limit Pos=
+Zero Pos=
+
+The Limit Position should be at 84.5, so the Zero Position becomes automatically 84mm.
+You would need to re-do the bottom limit calibration and then the zero position. You need to be cautious when doing the bottom limit. You can cause damage to the z-stage or the glass if you move too low. Remove the tray from the printer and raise the platform to the top, Maintenance> Sensors> Status> Home. Then go to Maintenance> Service> Bottom Limit, then when it comes to moving down the platform, move it down until you reach approx. -84.5. Here the goal is to hit exactly -84.5, so you may need to tap the Move up and Move down button several times, until you reach exactly -84.5. Once you got that, do the zero position calibration as usual. Here you should now see -84mm when you move the platform all the way down.
+
+Then send us the updated printer ini file for us to check.
+Regards, 

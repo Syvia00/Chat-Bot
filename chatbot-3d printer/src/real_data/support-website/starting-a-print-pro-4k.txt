@@ -1,0 +1,90 @@
+Install Composer 
+
+Composer is the bridge between design software & Asiga 3D printers.Use Composer to prepare parts for 3D printing including nesting, scaling, positioning, supporting & more. 
+
+Download Composer
+
+Download Composer User Manual
+
+Composer is compatible with a range of file formats including:STLSLCPLYSTM
+Install Composer
+Composer is the bridge between design software & Asiga 3D printers.Use Composer to prepare parts for 3D printing including nesting, scaling, positioning, supporting & more.
+Download Composer
+Download Composer User Manual
+Composer is compatible with a range of file formats including:STLSLCPLYSTM
+Composer is compatible with a range of file formats including:
+STLSLCPLYSTM
+STL
+SLC
+PLY
+STM
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/asiga-software.jpg
+Setting up your first print in Composer
+Watch the below video to learn about starting a new print in Composer.Before starting a new print ensure you have correctly set up your printer.It is essential that your printer is correctly set up before starting a print to avoid failures.Click here to learn how to set up the PRO 4K
+Watch the below video to learn about starting a new print in Composer.
+Before starting a new print ensure you have correctly set up your printer.It is essential that your printer is correctly set up before starting a print to avoid failures.
+set up your printer.
+Click here to learn how to set up the PRO 4K
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/composer-start-a-new-print.jpg
+Access printer via web interface 
+
+The printer’s web interface allows you to interact with the printer from the comfort of your desk.Learn more here >
+Access printer via web interface
+The printer’s web interface allows you to interact with the printer from the comfort of your desk.Learn more here >
+The printer’s web interface allows you to interact with the printer from the comfort of your desk.
+Learn more here >
+Stirring material
+A crucial step in starting a print is ensuring the material is stirred.Pigments in resin will settle over time making this such an important step.Note: the video below shows the process on a MAX, but it is identical on PRO 4K.
+A crucial step in starting a print is ensuring the material is stirred.Pigments in resin will settle over time making this such an important step.
+Note: the video below shows the process on a MAX, but it is identical on PRO 4K.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/MAX-validate-calibration.jpg
+Starting a print 
+
+When a build has been submitted to the printer, follow the steps below to start a print.To start a print from the web interface  click here > 
+
+On the printer Main MenuSelect Print 
+
+Select one of the following options:Next Build: lists the next build in the print queue.Repeat Build:Allows you to repeat the previous print.Select Build:Select from a list of all builds in the print queue. If nothing is visible, check that Composer has correctly transferred the build. 
+
+Auto shutdown is an option that will turn the printer off when the print is finished.Select Continue. 
+
+Confirm that your tray is filled with the correct material and select Yes.
+Starting a print
+When a build has been submitted to the printer, follow the steps below to start a print.To start a print from the web interface  click here >
+When a build has been submitted to the printer, follow the steps below to start a print.
+To start a print from the web interface  click here >
+click here >
+On the printer Main MenuSelect Print
+On the printer Main Menu
+Select Print
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Main-Menu-Print.jpg
+Select one of the following options:Next Build: lists the next build in the print queue.Repeat Build:Allows you to repeat the previous print.Select Build:Select from a list of all builds in the print queue. If nothing is visible, check that Composer has correctly transferred the build.
+Select one of the following options:
+Next Build: lists the next build in the print queue.Repeat Build:Allows you to repeat the previous print.Select Build:Select from a list of all builds in the print queue.
+Next Build: lists the next build in the print queue.
+Next Build:
+Repeat Build:Allows you to repeat the previous print.
+Repeat Build:
+Select Build:Select from a list of all builds in the print queue.
+Select Build:
+If nothing is visible, check that Composer has correctly transferred the build.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Print-Menu.jpg
+Auto shutdown is an option that will turn the printer off when the print is finished.Select Continue.
+Auto shutdown is an option that will turn the printer off when the print is finished.
+Select Continue.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Print-time.jpg
+Confirm that your tray is filled with the correct material and select Yes.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Material-selection.jpg
+Removing a build 
+
+When the printer has finished a build, you can now start to post-process the parts.Click here to learn more about removing parts & post processing.
+Removing a build
+When the printer has finished a build, you can now start to post-process the parts.Click here to learn more about removing parts & post processing.
+When the printer has finished a build, you can now start to post-process the parts.
+Click here to learn more about removing parts & post processing.
+Click here
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro4k-xl-print.png
+NextWeb interface – PRO 4KNext
+NextWeb interface – PRO 4K
+Next
+Web interface – PRO 4K

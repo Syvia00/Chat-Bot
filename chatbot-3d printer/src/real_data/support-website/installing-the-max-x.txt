@@ -1,0 +1,177 @@
+Printer components 
+
+The diagram below illustrates the main components of your MAX X. 
+
+HoodBuild platform knobBuild platformBuild tray clampsBasinTouch screen
+Printer components
+The diagram below illustrates the main components of your MAX X.
+HoodBuild platform knobBuild platformBuild tray clampsBasinTouch screen
+Hood
+Build platform knob
+Build platform
+Build tray clamps
+Basin
+Touch screen
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/test.jpg
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/MAX-Rear-Crldrw.jpg
+Connecting to power 
+
+The MAX X is supplied with an external power supply and a power lead with a plug type suited to your region.The external power supply automatically regulates to adapt to the local voltage in your region.The power supply is safe to use from 100V to 240V. 
+
+Place the printer on a sturdy surface.Connect the power cable to the printer and a power outlet. 
+
+Flip the Power Switch at the rear of the printer & turn the printer on with the power button on top.The power button should turn green when turned on.
+Connecting to power
+The MAX X is supplied with an external power supply and a power lead with a plug type suited to your region.The external power supply automatically regulates to adapt to the local voltage in your region.The power supply is safe to use from 100V to 240V.
+The MAX X is supplied with an external power supply and a power lead with a plug type suited to your region.The external power supply automatically regulates to adapt to the local voltage in your region.
+The power supply is safe to use from 100V to 240V.
+Place the printer on a sturdy surface.Connect the power cable to the printer and a power outlet.
+Place the printer on a sturdy surface.
+Connect the power cable to the printer and a power outlet.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/MAX-Power-Cable.jpg
+Flip the Power Switch at the rear of the printer & turn the printer on with the power button on top.The power button should turn green when turned on.
+Flip the Power Switch at the rear of the printer & turn the printer on with the power button on top.
+The power button should turn green when turned on.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/MAX-Power-Switch.jpg
+Language selection 
+
+When the MAX X has been plugged in and powered on, there are a few steps that need to be performed before printing. 
+
+First you must select your desired language.
+Language selection
+When the MAX X has been plugged in and powered on, there are a few steps that need to be performed before printing.
+First you must select your desired language.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Language-Selection.jpg
+Printer registration 
+
+Please create an Asiga account to access the Material library, software downloads & technical support.Learn more > 
+
+Navigate to www.asiga.com/register and insert the printer serial number displayed on screen. 
+
+Fill out the following fields & click Activate.Serial NumberPrinter Location  
+
+ Enter this activation code on the front panel of your MAX. 
+
+Once the code has been succesfully entered, tap on register.Your printer should now be fully operational.
+Printer registration
+Please create an Asiga account to access the Material library, software downloads & technical support.Learn more >
+Learn more >
+Navigate to www.asiga.com/register and insert the printer serial number displayed on screen.
+www.asiga.com/register
+the printer serial number displayed on screen.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Product-Registration_1000JPG.jpg
+Fill out the following fields & click Activate.Serial NumberPrinter Location
+Fill out the following fields & click Activate.
+Serial NumberPrinter Location
+Serial Number
+Printer Location
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Registration_Asiga-Admin.jpg
+Enter this activation code on the front panel of your MAX.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Registration_Asiga_Admin_activationcode.jpg
+Once the code has been succesfully entered, tap on register.Your printer should now be fully operational.
+Once the code has been succesfully entered, tap on register.
+Your printer should now be fully operational.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Product-Registrationn.jpg
+Connecting to your MAX X 
+
+There are three ways to connect to your MAX X 3D printer:Wired/ethernet connectionWifiWireless directSee below a summary of each of these networking methods. 
+
+Wired/Ethernet connection 
+
+From the Main Menu select Settings. 
+
+Select wired network. 
+
+If your network cable is connected properly, you should see an IP Address here.If there is nothing visible,  check the network cable on the rear of the printer or router. 
+
+Assign fixed IP address 
+
+If you wish to assign a fixed IP address to your printer, follow the steps below. 
+
+Select Settings > Wired Network 
+
+Toggle off ‘Automatic Configuration’Enter the IP Address & select save.Enter the Subnet Mask & select save.Setting the Gateway, Primary DNS and Secondary DNS are optional & may be left blank. 
+
+WiFi connection 
+
+From the Main Menu select Settings. 
+
+To set up a WiFi Connection,  select wireless network. 
+
+Select Network Name and find your network from the dropdown list.Note: Wireless Direct must be turned off! 
+
+Wireless direct 
+
+Wireless Direct allows the printer to act as a wireless access point. This can be used if there is no router available.From the Main Menu select Settings. 
+
+Select Wireless DirectNote: This will prevent any WiFi connections to be performed. 
+
+Default settings for Wireless Direct:Wireless Network: Printer nameIP address: 172.27.10.1Subnet Mask: 255.255.255.0
+Connecting to your MAX X
+There are three ways to connect to your MAX X 3D printer:Wired/ethernet connectionWifiWireless directSee below a summary of each of these networking methods.
+There are three ways to connect to your MAX X 3D printer:
+Wired/ethernet connectionWifiWireless directSee below a summary of each of these networking methods.
+Wired/ethernet connection
+Wifi
+Wireless directSee below a summary of each of these networking methods.
+See below a summary of each of these networking methods.
+Wired/Ethernet connection
+From the Main Menu select Settings.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Main-Menu.jpg
+Select wired network.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Settings-Menu.jpg
+If your network cable is connected properly, you should see an IP Address here.If there is nothing visible,  check the network cable on the rear of the printer or router.
+If your network cable is connected properly, you should see an IP Address here.
+If there is nothing visible,  check the network cable on the rear of the printer or router.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Settings-Wired-Menu.jpg
+Assign fixed IP address
+If you wish to assign a fixed IP address to your printer, follow the steps below.
+Select Settings > Wired Network
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/settings-wired-selected.jpg
+Toggle off ‘Automatic Configuration’Enter the IP Address & select save.Enter the Subnet Mask & select save.Setting the Gateway, Primary DNS and Secondary DNS are optional & may be left blank.
+Toggle off ‘Automatic Configuration’
+Enter the IP Address & select save.
+Enter the Subnet Mask & select save.
+Setting the Gateway, Primary DNS and Secondary DNS are optional & may be left blank.
+WiFi connection
+To set up a WiFi Connection,  select wireless network.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Settings-Wireless.jpg
+Select Network Name and find your network from the dropdown list.Note: Wireless Direct must be turned off!
+Select Network Name and find your network from the dropdown list.
+Note: Wireless Direct must be turned off!
+Note:
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Settings-Wireless-Menu.jpg
+Wireless direct
+Wireless Direct allows the printer to act as a wireless access point. This can be used if there is no router available.From the Main Menu select Settings.
+Wireless Direct allows the printer to act as a wireless access point. This can be used if there is no router available.
+Select Wireless DirectNote: This will prevent any WiFi connections to be performed.
+Select Wireless Direct
+Note: This will prevent any WiFi connections to be performed.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Settings-WirelessDirect-1.jpg
+Default settings for Wireless Direct:Wireless Network: Printer nameIP address: 172.27.10.1Subnet Mask: 255.255.255.0
+Default settings for Wireless Direct:
+Wireless Network: Printer nameIP address: 172.27.10.1Subnet Mask: 255.255.255.0
+Wireless Network: Printer name
+IP address: 172.27.10.1
+Subnet Mask: 255.255.255.0
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Settings-Wireless-Direct-Menu-enabled.jpg
+Build platform calibration
+Build Platform Calibration must be performed regularly to ensure optimal performance from your printer.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/MAX-platform-calibration.jpg
+Build platform validation
+To finalise the build platform calibration, follow the below video.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/MAX-validate-calibration.jpg
+Inserting build tray & resin
+The final step to getting your printer print ready!
+Eye or skin contact with uncured resin may cause irritation.					
+
+						Always wear nitrile gloves.
+.a7281554-3fab-45ce-ad7c-74af7e37b99f{fill:#ffd520;}.b84d29f4-9f86-42a4-b2cc-1a9fe90a145b{fill:#231f20;}
+Eye or skin contact with uncured resin may cause irritation.
+Always wear nitrile gloves.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/max-tray-add.jpg
+PrevPreviousUnboxing your MAX X
+Prev
+PreviousUnboxing your MAX X
+Previous
+Unboxing your MAX X

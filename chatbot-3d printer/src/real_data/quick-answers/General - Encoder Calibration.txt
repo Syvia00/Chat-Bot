@@ -1,0 +1,18 @@
+General Encoder Calibration
+ If you change an encoder, or change the encoder board, it is necessary to recalibrate the encoders. 
+
+To do this, remove the basin of the printer, then go to Maintenance> Service> Position Encoders, Calibrate Position Encoders and enter the mass of your calibration weight. Then place the weight on each of the encoders in turn, as the process instructs. Then you can zero the encoders, and check each one individually, that the blue dot moves to the correct corner when you apply pressure. zero again and check for stability. After replacing the basin, zero again.
+
+There are instructions in the Max manual, starting at page 56.
+
+https://myaccount.asiga.com/accounts/resources/MAX/1%20-%20Quick%20Start%20Guide/MAX%20User%20Guide%2020210712.pdf
+
+
+There are instructions in the Pro 4k manual, starting at page 61.
+
+https://myaccount.asiga.com/accounts/resources/PRO%204K/1%20-%20Quick%20Start%20Guide/PRO%204K%20User%20Guide%2020210712.pdf
+
+
+Please let us know if you need any further help.
+
+Regards, 

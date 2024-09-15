@@ -1,0 +1,33 @@
+Resins Keysplint soft
+ Since the Keysplint Soft material is relatively sticky and viscous, you would need to set up the model in a specific way.
+
+If you havent read the material guide for this resin already, please have a look at following file: https://www.asiga.com/accounts/resources/Materials/KeyStone/Keysplint%20Soft%20-%20Advanced%20Supportstrategy%20Recommendation.pdf
+
+The 2 most important aspects for this resin are:
+
+1. The orientation
+2. A good contact width of the supports
+
+To 1: Keysplint used to recommend an orientation of 45 degrees, they now changed their recommendation to an angle of 75-90 degrees, trying to expose as less of the surface of the model as possible
+
+2. The contact width of the supports is very important. Its recommended to use very thick supports for the base of the model. Here its recommended to use a contact width of 2mm (anchor support) and 1.5mm to further support the base.
+Then for the rest of the model you can consider 0.8-1mm contact width
+
+Please also ensure you have the latest firmware installed for your machine, as well as the latest Composer version.
+Please also check if there was an update for the Keysplint Soft material ini. In addition, there is a customized material ini file online, called  Keyprint KeySplintSoft_V2.0_SW_008-stronger supports.ini. If you have not used that version, I would also recommend to try that material file.
+
+
+Since the Keysplint material is relatively sticky and viscous, you would need to set up the model in a specific way. I would perhaps also recommend that you contact your reseller, they might have practical print experience with the Keysplint resin and could guide you directly.
+
+Otherwise please check the Supporting-guide for the keysplint resin, this can be found in your Asiga account, here would be the direct link:
+https://www.asiga.com/accounts/resources/Materials/KeyStone/Keysplint%20Soft%20-%20Advanced%20Supportstrategy%20Recommendation.pdf
+
+The 2 most important aspects:
+
+1. A good and solid supporting, as you will see in the guide. It will recommend placing a few quite thick supports (anchor supports) at critical base layers. Then for the rest of the model, an array of thinner supports
+
+2. The orientation of the model. You would need to tilt the model, recommended would be an angle of 75-90°. 
+
+Please also ensure youre using the latest material.ini file for the keysplint material, (Keyprint KeySplintSoft_V2.0_SW_009-advanced_stability.ini).
+
+Regards, 

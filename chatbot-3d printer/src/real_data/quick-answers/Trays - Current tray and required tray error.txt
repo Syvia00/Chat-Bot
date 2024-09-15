@@ -1,0 +1,8 @@
+Trays Current tray and required tray error
+ Fortunately, there is nothing wrong with the printer or the tray, it is just that the job was submitted to the printer with the other tray in place (it may be a different tray type).
+
+If you can please delete the print job from the printer, and leave in the tray you would like to use, then resubmit the print job from composer, then all should be well.
+
+To delete the print job from the please use the web interface. Open Composer, click New Build, click your target printer, then click the blue globe icon in the top right corner, a web browser will open, and then you can click on the red X to delete the print job.
+
+Best regards, 

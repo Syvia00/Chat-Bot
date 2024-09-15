@@ -1,0 +1,6 @@
+General Focus Image
+ For us to check the projector output, please remove the tray and platform, and go in the menu to Maintenance> Focus. Wear the orange glasses, and use the focus plate accessory to show the image. 
+
+Can you please attach a photo of the focus image to the ticket? 
+
+It can also be useful to see 'stuck on' pixels to check in  Maintenance> Service> LED> Radiometer.

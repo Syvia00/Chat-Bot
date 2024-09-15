@@ -1,0 +1,10 @@
+Composer Multistack
+ To use the multistack feature, please open a second build tab for the upper layer, and put parts and supports in there. For the lower layer, with parts and supports added, you can click multi stack. If under scaffold plate, you click apply, the baseplate will appear. Then under scaffold columns, click add, you can then left click on the plate to add the columns.
+
+When you print, there is a multi stack list, to select the different build tabs as layers, and the order they print in.
+
+If you go to the help feature (F1), please see chapter seven in the manual for a detailed explanation of this.
+
+There is also a video on youtube explaining the process :
+
+https://www.youtube.com/watch?v=aW9epdEawrA

@@ -1,0 +1,19 @@
+Uncategorised Print took a long time
+ If the customer in his last print was printing at 25 microns, was this intended?
+
+Also using a material that I'm not familiar with. Means if it's specifically sticky or viscous, it can extend the build times, but not to such an extend.
+
+If a print takes much longer than the estimated time, it could be due to an incorrect build platform calibration, debris in the build tray or hollow models with trapped volume, so it takes extra time with each and every layer to print.
+
+If you were printing with a 10 micron layer thickness, the small layer thickness is the most likely reason, as it takes time to squeeze out the resin between exposures.
+
+If you repeat the print, the estimate should be closer to correct, as the printer uses the time of last print to help work out the estimate for the current print.
+
+Last possibility could be that the positon encoders have an issue, but in this case your customer should already encounter problems when doing the build platform calibration, when it gets to the "Auto Detect". The auto detect usually takes 10-15 seconds, if it takes way longer than that, then there could be an issue with the encoder calibration.
+We will be able to see in the printer.ini if the encoder calibration is off.
+
+Do you usually print with such a small layer thickness? What are you printing that requires this? If you are able to increase the layer thickness, the print times will improve.
+
+Please let us know if you have any further questions.
+
+Regards, 

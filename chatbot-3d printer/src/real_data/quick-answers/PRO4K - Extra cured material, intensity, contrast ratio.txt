@@ -1,0 +1,29 @@
+PRO4K Extra cured material, intensity, contrast ratio
+ 
+Additional troubleshooting is required to diagnose this issue.
+
+Stage 1.
+Ensure the glass on the basin is clean.
+To check for dirt or marks on the glass we recommend using a torch and by shining it onto the glass from different angles you will see whether there are marks or smudges present.
+
+Cleaning the glass.
+Watch the following video: https://support.asiga.com/maintenance-schedule-pro-4k/#cleaning-the-glass-surfaces
+
+
+Stage 2.
+Check LED intensity using an external radiometer.
+
+- Wear the orange UV protective glasses supplied in the printer toolkit
+- Go to Control> LED and turn on the projector LED
+- Measure light intensity in 5 spots or even 7 spots for a greater sample: in the top left corner, top right corner, center, center left, center right, bottom left, and bottom right corner.  Make notes of these measurements.
+
+Provide this data in the support ticket.
+
+Stage 3.
+Verify contrast ratio of projector using an external radiometer.
+
+- Place the external radiometer head in the center of the build area
+- Measure the light intensity under Control > LED, and note down the value as seen on the external radiometer
+- Check the light intensity under Maintenance> Service> LED> Radiometer and note down the measured value, as seen on the external radiometer
+
+Please provide this data in the support ticket.

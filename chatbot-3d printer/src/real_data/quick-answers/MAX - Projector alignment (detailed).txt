@@ -1,0 +1,36 @@
+MAX Projector alignment (detailed)
+ Hello ,
+
+First you will need to swap the projector, then align it, then print test prints to check that the alignment is correct.
+
+To swap the projector, turn off the printer, remove the side panels, and the curved back panel, and the bottom panel of the printer.
+
+Remove the two screws on the sliding lens cover that goes into the dustbox (one each side) and slide it forwards.
+
+You will then be able to remove the four screws that hold the projector in place, (underneath) and unplug the cables that go to the projector. (the HDMI cable is a locking cable, so slide the lock back to reveal the green plastic before removing the cable)
+
+You can then install the replacement projector, and perform the alignment.
+
+After plugging in and installing the projector in the printer, first focus the image onto the focus glass (Maintenance> Focus). Then turn off the image, and move the sliding lens cover off the end of the projector lens.
+
+1. Attach the mirror, and put the periscope and flat mirror on the basin glass.
+
+2. Loosen only the screws to allow for vertical adjustment, and with the mirrors in place, adjust vertical alignment. Tighten all screws. Check alignment vertically is still correct.
+
+3. Loosen only the screws to allow for horizontal adjustment, and with the mirror in place, adjust horizontal alignment. Check carefully the alignment is correct.
+
+4. Now the image is square to the glass (aligned), but might be in the wrong position. Check if it is centred. Leave the screws to allow for horizontal adjustment loose, remove the mirrors, install the focus glass, and turn on the focus image. 
+
+5. To successfully move the image without drastically affecting the alignment, turn the pair of screws shown at the bottom of page 6. (middle picture)
+
+6. To move focus image left, turn each screw anti clockwise BY THE SAME AMOUNT eg two turns.  To move focus image right, turn each screw clockwise BY THE SAME AMOUNT eg two turns.  This will move the image to the centre of the glass. Go one or two turns of the screws at a time to see the image shift across.
+
+7. When the image is correctly positioned, it will still be approximately aligned. Turn off the focus image, and reinstall the mirrors. 
+
+8. Tweak horizontal alignment, it shouldnt be out far, and tighten the screws for the horizontal adjustment.  Check alignment horizontally is still correct after screws are tightened.
+
+9. Now that all screws are tightened, double check vertical and horizontal alignment are correct.
+
+You can then proceed with printing the corners print to assess the alignment. This is shown in the alignment videos.
+
+Please let us know if any further help is needed.

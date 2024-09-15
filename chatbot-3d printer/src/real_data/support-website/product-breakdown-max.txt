@@ -1,0 +1,95 @@
+Printer overview 
+
+The diagram below illustrates the main components of your MAX. 
+
+HoodBuild platform knobBuild PlatformBuild tray clampsBasinFront Panel/LCD screen
+Printer overview
+The diagram below illustrates the main components of your MAX.
+HoodBuild platform knobBuild PlatformBuild tray clampsBasinFront Panel/LCD screen
+Hood
+Build platform knob
+Build Platform
+Build tray clamps
+Basin
+Front Panel/LCD screen
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/max-test.jpg
+Bodywork 
+
+Below is a summary of the main components on the MAX. 
+
+Hood
+The MAX Hood is constructed of UV blocking hard plastic. This protects the resin from being cured by natural light & the user from UV light emitted.
+Bodywork
+Below is a summary of the main components on the MAX.
+Hood
+The MAX Hood is constructed of UV blocking hard plastic. This protects the resin from being cured by natural light & the user from UV light emitted.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/MAX-front-no-bg.jpg
+Front Panel
+The front panel is the white surround that contains the LCD screen.
+The LCD screen is the main control panel for the printer.
+Front Panel
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/MAX-frontpanel-on.jpg
+Rear coverThe rear cover is constructed of a curved black metal sheet with cut-outs housing the power and network plugs.This panel can be quickly removed for service and access to all printer electronics.The stainless steel panel on the lower half is the bottom rear cover.
+Rear cover
+The rear cover is constructed of a curved black metal sheet with cut-outs housing the power and network plugs.This panel can be quickly removed for service and access to all printer electronics.
+The stainless steel panel on the lower half is the bottom rear cover.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/MAX-rear_no_bg.jpg
+Power/Network connection panel 
+
+On the rear of the printer is a connectivity panel. See diagram below for all inputs.There is a power ON/OFF button on the top of the printer.
+Power/Network connection panel
+On the rear of the printer is a connectivity panel. See diagram below for all inputs.There is a power ON/OFF button on the top of the printer.
+On the rear of the printer is a connectivity panel. See diagram below for all inputs.
+There is a power ON/OFF button on the top of the printer.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/MAX-Rear-Crldrw.jpg
+Side panels 
+
+The side panels are constructed of metal and painted white.These can be removed by disengaging the black plastic clip and hinge open.
+Side panels
+The side panels are constructed of metal and painted white.These can be removed by disengaging the black plastic clip and hinge open.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/MAX-left-noBG.jpg
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/MAX-right-noBG.jpg
+Under the hood 
+
+Build Platform HolderThe build platform holder is the arm that protrudes from the vertical stage.The build platform calibration screw is located here.
+Under the hood
+Build Platform HolderThe build platform holder is the arm that protrudes from the vertical stage.The build platform calibration screw is located here.
+Build Platform Holder
+The build platform holder is the arm that protrudes from the vertical stage.The build platform calibration screw is located here.
+build platform calibration
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/max-build-platform-holder.jpg
+Build Platform
+The build platform is the centerpiece of the MAX.
+It is engineered from anodised steel making it extremely durable.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/MAX-Build-platform-1.jpg
+BasinThe basin holds the resin tray and acts as a gateway between the resin and UV light. This glass plate must be kept crystal clean and free from debris.
+The basin holds the resin tray and acts as a gateway between the resin and UV light. This glass plate must be kept crystal clean and free from debris.
+basin
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/max-x-basin-1.jpg
+Build TrayBuild trays contain the resin during the printing process.They are constructed of a flexible film within a rigid plastic frame.Do not use the same Build Tray for multiple materials as this may create material cross-contamination and transfer of uncured materials.
+Build Tray
+Build trays contain the resin during the printing process.They are constructed of a flexible film within a rigid plastic frame.
+Build trays
+Do not use the same Build Tray for multiple materials as this may create material cross-contamination and transfer of uncured materials.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/MAX-lowforce-build-tray.jpg
+Build Tray clamps
+The clamps are designed to hold the basin in place during the printing process.
+Build Tray clamps
+The clamps
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/max-x-platform-clamps-1.jpg
+Asiga SPS™ technology
+Asiga SPS™ technology is managed by 4 position encoders that surround the basin glass.
+These sensors detect actual build platform positioning to ensure the layers in your 3D printed part are formed accurately.
+Asiga SPS™ technology
+PrevPreviousMAX user manual 
+
+NextSafety with Asiga DLP 3D printers – MAXNext
+PrevPreviousMAX user manual
+Prev
+PreviousMAX user manual
+Previous
+MAX user manual
+NextSafety with Asiga DLP 3D printers – MAXNext
+NextSafety with Asiga DLP 3D printers – MAX
+Next
+Safety with Asiga DLP 3D printers – MAX

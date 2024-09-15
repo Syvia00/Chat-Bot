@@ -1,0 +1,107 @@
+Printer Overview 
+
+The diagram below illustrates the main components of your PRO 4K. 
+
+HoodBuild Platform KnobBuild PlatformBuild TrayBasinTouch ScreenWheels
+Printer Overview
+The diagram below illustrates the main components of your PRO 4K.
+HoodBuild Platform KnobBuild PlatformBuild TrayBasinTouch ScreenWheels
+Hood
+Build Platform Knob
+Build Platform
+Build Tray
+Basin
+Touch Screen
+Wheels
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro4k-nobg-numbers.jpg
+Bodywork 
+
+Below is a summary of the main Components on the PRO 4K. 
+
+Hood
+The PRO 4K Hood is constructed of UV blocking hard plastic. This protects the resin from being cured by natural light & the user from UV light emitted.
+Bodywork
+Below is a summary of the main Components on the PRO 4K.
+Hood
+The PRO 4K Hood is constructed of UV blocking hard plastic. This protects the resin from being cured by natural light & the user from UV light emitted.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro4k-hood.png
+Front Panel
+The front panel is the white surround that contains the LCD screen.
+The LCD screen is the main control panel for the printer.
+Front Panel
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro4k-screen.png
+Rear CoversThe top cover is constructed of white aluminium and a crisp black plastic fan cover that houses the power/connectivity ports.
+Rear Covers
+The top cover is constructed of white aluminium and a crisp black plastic fan cover that houses the power/connectivity ports.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro4k-rear-nobg.jpg
+Power/Network connection panel​
+
+Ethernet port
+Printer serial
+Power switch
+Power connector
+Power/Network connection panel​
+Ethernet port
+Printer serial
+Power switch
+Power connector
+Ethernet port
+Printer serial
+Power switch
+Power connector
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro4k-networkpanel-scaled.jpg
+Side panels 
+
+The side panels are constructed of metal and painted white.These can be removed by disengaging the black plastic clips and hinge open.
+Side panels
+The side panels are constructed of metal and painted white.These can be removed by disengaging the black plastic clips and hinge open.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro4k-sideview-nobg.jpg
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro4k-right-nobg.jpg
+WheelsThe PRO 4K comes with four wheels.Two leader wheels that lock in place and two followers.
+The PRO 4K comes with four wheels.Two leader wheels that lock in place and two followers.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro4k-wheel.jpg
+Under the hood 
+
+Build Platform Holder​
+The build platform holder is the arm that protrudes from the vertical stage.
+The build platform calibration screw is located here.
+Under the hood
+Build Platform Holder​
+The build platform holder is the arm that protrudes from the vertical stage.
+The build platform calibration screw is located here.
+Build Platform Holder​
+build platform calibration
+See the following image https://support.asiga.com/wp-content/uploads/2022/09/pro-4k-platform-holder.jpg
+Build Platform
+The build platform is the centerpiece of the PRO 4K.
+It is engineered from anodised steel which makes it extremely durable.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro4k-buildplatform.jpg
+BasinThe basin holds the resin tray and acts as a gateway between the resin and UV light. This glass plate must be kept crystal clean and free from debris.
+The basin holds the resin tray and acts as a gateway between the resin and UV light. This glass plate must be kept crystal clean and free from debris.
+basin
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro4k-basin.jpg
+Build Tray Sliders
+Anodised steel sliders to hold the build tray in place during printing.
+Build Tray Sliders
+See the following image https://support.asiga.com/wp-content/uploads/2022/09/pro4k-basin-slider.jpg
+Build TrayBuild trays contain the resin during the printing process.They are constructed of a flexible film within a rigid plastic frame.Asiga recommends one Build Tray per material.  Do not use the same Build Tray for multiple materials as this may create material cross-contamination and transfer of uncured materials.
+Build trays contain the resin during the printing process.They are constructed of a flexible film within a rigid plastic frame.
+Build trays
+Asiga recommends one Build Tray per material.  Do not use the same Build Tray for multiple materials as this may create material cross-contamination and transfer of uncured materials.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro4k-build-tray.png
+SPS™ Positioning Encoders
+Asiga SPS™ technology is managed by 4 position encoders that surround the basin glass.
+These sensors detect actual build platform positioning to ensure the layers in your 3D printed part are formed accurately.
+SPS™ Positioning Encoders
+PrevPreviousPRO 4K user manual 
+
+NextSafety with Asiga DLP 3D printers – PRO 4KNext
+PrevPreviousPRO 4K user manual
+Prev
+PreviousPRO 4K user manual
+Previous
+PRO 4K user manual
+NextSafety with Asiga DLP 3D printers – PRO 4KNext
+NextSafety with Asiga DLP 3D printers – PRO 4K
+Next
+Safety with Asiga DLP 3D printers – PRO 4K

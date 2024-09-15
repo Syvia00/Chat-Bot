@@ -1,0 +1,11 @@
+Composer STL not visible in Composer 1.3
+ Please ask the customer to try setting Options → Preferences… → OpenGL and turn off vertex buffer object?
+
+Otherwise, can you attach the latest Composer.log file from a temporary folder? 
+To get the Composer.log file:
+
+1. With Composer running
+2. Open Windows Explorer
+3. Enter into the address bar %TEMP%
+4. Open the last (most recently) modified Composer.*~ folder
+5. Log files will be in the folder.

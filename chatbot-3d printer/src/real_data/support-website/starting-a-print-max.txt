@@ -1,0 +1,70 @@
+System requirements 
+
+Operating System 
+
+Windows 
+
+Mac 
+
+Linux 
+
+Windows 
+
+Mac 
+
+Linux
+System requirements 
+
+Operating System
+System requirements
+Operating System
+Windows 
+
+Mac 
+
+Linux
+.aafac8ac-8828-4a29-8eeb-1001848295b5{fill:#f35326;}.a94116e0-44ad-4e6b-afb8-1458865d920c{fill:#80bc0a;}.bec628f2-42bd-49e3-991c-da51ba5cb9cc{fill:#ffba0f;}.b9d2c946-4089-47ce-bf6c-db70ad7505ba{fill:#08a6f0;}
+Windows
+Mac
+.b98d4438-ad23-43b4-8875-cb8756d26bce{fill:none;}.b3a1e342-c8bd-4ec9-9df9-43952f65e041{fill:#020204;}.b0b15ab6-3b85-4ab4-a238-8e17fa4bd928{fill:#fdfdfb;}.a10fffe7-6c3e-4fc3-aba0-c7678f7a5950{fill-opacity:0.26;}.a0205119-5799-4581-9712-ca2bf233f147{opacity:0.3;}.a0205119-5799-4581-9712-ca2bf233f147,.a888c3c9-b1e9-4a3c-8a96-7d689ac9ff34,.a9a5a816-3c7a-4324-82dc-2ed481f778c8,.abe2c4e8-4159-4817-8ec8-252aa2e4df50,.acd31efb-1561-4489-9338-56c6e9acc003,.ae12a117-016e-485a-9669-d191207547a7,.b2ee21aa-ad71-423e-977b-dd8560af7d55,.b48f490b-f431-49b8-ac38-b9218d0b1e71,.b6195c52-72d5-43df-ab86-a67fedc54d80,.bd40d0d8-005d-4cc8-bfc2-eaa5064cceda,.f945524e-cc6a-4355-8d96-29c9bbb2809d{isolation:isolate;}.ee25cef8-50a4-42bd-b5ec-869edc9a66a3{fill:url(#b63a8c77-4a5f-4f1c-a186-be2dd117aa89);}.e70278a5-2194-4538-885d-612267675813{fill:url(#b06fb376-68c2-4b0a-a4da-6552ff62d223);}.a403472a-3967-42fb-a097-b3271984397e{fill:url(#adcc7250-63fa-4609-9e94-b2e50489f013);}.a9a5a816-3c7a-4324-82dc-2ed481f778c8,.acd31efb-1561-4489-9338-56c6e9acc003,.ae12a117-016e-485a-9669-d191207547a7,.b14da037-b821-4739-a364-57f20b84b797{fill:#7c7c7c;}.f8102c72-9073-4e7c-bcc7-a863456229d5{fill:#141413;}.f382ce75-679e-4e20-b7d1-573e5a520347{fill:url(#e1325887-7b8b-43bc-9449-3854457ac041);}.ebba3e48-8a87-4d9c-be0a-58782a0e5d23{clip-path:url(#f5c94083-4446-43b0-bccc-c4809de6e065);}.e7a7dea2-8e27-4746-86bd-67f935e43390{fill:url(#f737a949-fbff-43bf-ad52-1a6da23484db);}.adf4b505-8a56-47c6-8cf0-f0c092fa768e{fill:url(#ba765aa0-b71e-4b0a-982d-ced96191f5c6);}.a6507753-b3de-4dee-b857-07eb2f91ec33{fill:url(#f24e5d0c-6fd3-4a17-9f1a-0387c2d838a1);}.eb5db52d-7b98-4c08-a93c-8697619b94ca{fill:url(#ebb2d988-3043-4b85-b32e-ccd645f4c711);}.bc2686a7-17d3-482d-8f04-46893318e68b{fill:url(#a451e91b-6318-4d05-9b9f-b48f49cf0a92);}.f615031e-298e-4ea2-9f4e-79c967411fb8{fill:#d9b30d;}.abfc38f9-0bec-4b22-884a-7d9169bf6994{fill:#604405;}.b06d5746-1398-421a-a04d-3c4dfed46a18{fill:url(#abc83ecf-5ccd-49ce-94dc-abf5d76b740d);}.e7abfb3f-b999-4035-8eac-7f032914a080{fill:#f6da4a;}.b2ee21aa-ad71-423e-977b-dd8560af7d55,.bd40d0d8-005d-4cc8-bfc2-eaa5064cceda{opacity:0.8;}.bd40d0d8-005d-4cc8-bfc2-eaa5064cceda{fill:url(#f46badc0-6f32-4a91-84b4-f8cc91fa3b41);}.b2ee21aa-ad71-423e-977b-dd8560af7d55{fill:url(#ab54b6e0-7ebd-4df9-8526-0f7baade872d);}.b99ead4e-e136-4f9c-9d57-8794ba76725d{fill:url(#b481c767-1acd-4789-9dd4-9d6a75c6a75c);}.ea91bc28-21e6-4618-9737-ee8595816994{clip-path:url(#e8da3944-5099-42d0-a03a-49fd864178d9);}.bd5b73b1-369d-42de-a6ce-82c98bc93941{fill:url(#e74b4ead-54b6-4634-8aa0-ddcf76eb731b);}.b8f38849-4a59-4d79-aa65-ffaae2732aa8{clip-path:url(#a4d6383f-635b-4e46-b4ef-dcd2539586b2);}.fb5aab97-890c-4784-b09c-b5e421a3c7de{fill:#838384;}.acd31efb-1561-4489-9338-56c6e9acc003,.b6195c52-72d5-43df-ab86-a67fedc54d80{opacity:0.25;}.b6195c52-72d5-43df-ab86-a67fedc54d80{fill:url(#b849a211-ef56-458b-b685-239f6c6aa0ea);}.b48f490b-f431-49b8-ac38-b9218d0b1e71{opacity:0.42;fill:url(#e4c8dd32-65e6-4e2e-8b88-6a836ec62c3b);}.a888c3c9-b1e9-4a3c-8a96-7d689ac9ff34,.abe2c4e8-4159-4817-8ec8-252aa2e4df50{opacity:0.2;}.a888c3c9-b1e9-4a3c-8a96-7d689ac9ff34{fill:url(#acdd4597-70b9-44a9-89f5-5d14757ffc31);}.f945524e-cc6a-4355-8d96-29c9bbb2809d{opacity:0.1;}.abe2c4e8-4159-4817-8ec8-252aa2e4df50{fill:url(#a3e2156b-f86e-446a-a700-56dae319843c);}.b80a0e30-ccb8-4df5-b8d5-acfc8584bfaa{clip-path:url(#a9ef7ae9-744e-4ebd-a26d-fc0361587905);}.a0e99b08-5b94-4ed3-bfb9-4496c45340aa{fill:url(#e79abd75-ad98-49c5-bcd6-4e711d0ec124);}.f9076425-5baf-45a1-bfc6-ca560d71bbb7{fill:#cd8907;}.ad32d568-5850-4d6d-ac8e-f5d39710e5c1{clip-path:url(#a1a35259-48d8-4702-93b5-9f31fa456efa);}.a043e38f-930e-4bfe-ab4c-2ebb9ec57a0f{fill:#f5c021;}.eedf3bfc-372c-4b57-b404-5d5f5f30e156{fill:url(#bacc8908-33f7-40f2-acdf-1d241703a4c7);}.ae12a117-016e-485a-9669-d191207547a7{opacity:0.75;}.befad33a-6f41-4fa5-b2b8-2eac5377fc31{fill:url(#e34a3909-9929-40b0-be6a-3c622703c3c0);}.e2845a9f-08ac-424f-8b4c-c5d3861a106c{fill:url(#be3620ac-c9e8-4a1f-816c-e7ca2894f41d);}.bdb1051e-6bed-4653-afa0-8b18fe51ee58{clip-path:url(#e904d8bd-77fa-497d-bb86-4297e7e1685a);}.e8bdf16b-12d4-4ab1-aef9-657c468f1fec{fill:url(#a6f394c3-f784-4762-b563-450989a027f0);}.a8378f13-38da-4aee-830f-fd7e6180cd7f{fill:url(#e7adeb1d-c6e4-4ace-806f-9a5a93d60769);}.b841b51b-8490-4349-a1d6-90e028aa3fe3{clip-path:url(#ffec6a3c-f757-4c6c-b87f-1bfbb2f9d23a);}.a9a5a816-3c7a-4324-82dc-2ed481f778c8{opacity:0.95;}.fb6d179d-c0e5-4c24-b54d-c6b819b6e590{clip-path:url(#aa62fe24-1329-48d9-8a0d-40132f7a24d6);}.bb9c3ef9-b3fe-417c-880f-0090fcae9a36{fill:url(#b6a05229-5b06-4989-a864-8db400689da7);}.a20fa313-da88-4da2-bec0-0a28ccb1924c{fill:#d99a03;}.b3c3a02a-353c-4f00-855b-0d7d53c2909e{fill:#f5bd0c;}.ee5c4990-59ec-4681-8328-ca7e0a4b22dc{fill:url(#e0b773fa-558d-444f-8833-508f3a5e487e);}
+Linux
+Windows 
+
+Mac 
+
+Linux
+Processer: 
+
+1.6 GHz multi-core 
+
+Memory: 
+
+2 GB 
+
+Graphics: 
+
+64 MB, OpenGL 2.0 or later 
+
+Mouse: 
+
+3 button with scroll wheel / trackpad
+Processer: 
+
+1.6 GHz multi-core
+Processer:
+1.6 GHz multi-core
+Memory: 
+
+2 GB
+Memory:
+2 GB
+Graphics: 
+
+64 MB, OpenGL 2.0 or later
+Graphics:
+64 MB, OpenGL 2.0 or later
+Mouse: 
+
+3 button with scroll wheel / trackpad
+Mouse:
+3 button with scroll wheel / trackpad

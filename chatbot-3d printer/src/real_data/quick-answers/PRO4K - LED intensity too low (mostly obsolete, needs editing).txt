@@ -1,0 +1,22 @@
+PRO4K LED intensity too low (mostly obsolete, needs editing)
+ (delete if LED power level is already at 80%)
+
+Can you please try to reduce the LED power level? Go to Maintenance> LED> Power Level, reduce it to 80% and save it, and see if the error message reappears.
+
+Further on, please check the HDMI cable is plugged in on both ends, on the projector and the motherboard.
+
+Another test is to unplug the HDMI cable from the projector, plug it into a 1080p computer monitor, and show the printer focus image. Does it show up on the screen?
+
+This will help to determine if the computer board is sending the picture and if the HDMI cable is functioning.
+
+Also, while the printer is on, please take a photo of the electronic boards, the green power board near the bottom (behind the right-hand side panel), and also the other boards behind the LCD screen door. Please see attached photos for how to access there. 
+
+At the moment it looks like 3 possibilities:
+
+1. First could be just a glitch. In this case it would be good if you could toggle the 4K mode OFF and then ON again, then go to Control> LED and see if you can see the full light intensity being projected there. I would think if you go to Control> LED now and turn the LED on, you will only see a very faint light coming up. To toggle the 4K mode OFF and ON again, please go to the Settings menu, there you will see the 4K, toggle it OFF and then ON again, and then check under Control> LED if you can see bright LED light there
+
+2. Its possible that the HDMI cable is not properly connected
+2b. Or the HDMI cable could be faulty
+
+Please try re-seating the HDMI cable on both ends, on the projector and on the motherboard. Please see attached pictures for your reference. Please let me know if reseating the cable works, otherwise we will send you a replacement HDMI cable from here
+

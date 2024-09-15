@@ -1,0 +1,13 @@
+Resins SuperWAX handling
+ Although the printer allows for a target temperature of 50 C in the software, it is normal for the printer to only reach about 35 C - 40 C. For the purpose of printing with the SuperWAX, it is only necessary for the printer to maintain the temperature at 32 C - 35 C. Also it is important not to microwave the tray to melt the wax, as it will damage the RFID tag. Furthermore, the tray should not be subjected to high temperatures, as it can melt.
+
+Once the SuperWAX is in the tray, the recommendation would be to put it on a piece of cardboard, and heat it in an oven, (not microwave) that is at a temperature of not more than 40 C. 
+This will take several hours, and the resin may need monitoring, and stirring along the way.
+
+Possibly an easier way is to use the heater in the printer overnight.
+If you can go to Settings> Temperature on your printer, you can turn on the heater independent of the printing process. Use the Controller slider to turn on the heater and fan, after setting the target temperature to warm the resin.
+Let this run overnight before you print. It may take 10 hours to melt the resin.
+
+For the SuperWAX, you would need to add a scale of around 2%, to compensate for the shrinkage in postcuring.
+
+Best regards

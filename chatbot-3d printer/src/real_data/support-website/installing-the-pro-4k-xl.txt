@@ -1,0 +1,146 @@
+Printer components 
+
+The diagram below illustrates the main components of your PRO 4K XL 
+
+HoodBuild Platform KnobBuild PlatformBasinTouch ScreenWheels
+Printer components
+The diagram below illustrates the main components of your PRO 4K XL
+HoodBuild Platform KnobBuild PlatformBasinTouch ScreenWheels
+Hood
+Build Platform Knob
+Build Platform
+Basin
+Touch Screen
+Wheels
+See the following image https://support.asiga.com/wp-content/uploads/2022/09/pro4k-xl-open-numbers.png
+Connecting to power 
+
+How to power ON the PRO 4K XL. 
+
+Connect the power cable to the printer and a power outlet. 
+
+ The power button should turn green when turned on.
+Connecting to power
+How to power ON the PRO 4K XL.
+Connect the power cable to the printer and a power outlet.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro4k-networkpanel-cropped.jpg
+The power button should turn green when turned on.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro4k-top-cover-no-bg.jpg
+Printer registration 
+
+When the PRO 4K XL has been plugged in and powered on, there are a few steps that need to be performed before printing. 
+
+First you must select your desired language. 
+
+You will be prompted for product registration.Product registration will allow Asiga to link the printer to your account.Please navigate to www.asiga.com/register and make note of the printer serial number displayed on screen. 
+
+Fill out the following fields & click Activate.Serial NumberPrinter Location  
+
+Enter this activation code on the front panel of your PRO 4K. 
+
+Once the code has been succesfully entered, tap on register.Your printer should now be fully operational.
+Printer registration
+When the PRO 4K XL has been plugged in and powered on, there are a few steps that need to be performed before printing.
+First you must select your desired language.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Language-Selection.jpg
+You will be prompted for product registration.Product registration will allow Asiga to link the printer to your account.Please navigate to www.asiga.com/register and make note of the printer serial number displayed on screen.
+You will be prompted for product registration.
+Product registration will allow Asiga to link the printer to your account.
+Please navigate to www.asiga.com/register and make note of the printer serial number displayed on screen.
+www.asiga.com/register
+of the printer serial number displayed on screen.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Product-Registration_1000JPG.jpg
+Fill out the following fields & click Activate.Serial NumberPrinter Location
+Fill out the following fields & click Activate.
+Serial NumberPrinter Location
+Serial Number
+Printer Location
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Registration_Asiga-Admin.jpg
+Enter this activation code on the front panel of your PRO 4K.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Registration_Asiga_Admin_activationcode.jpg
+Once the code has been succesfully entered, tap on register.Your printer should now be fully operational.
+Once the code has been succesfully entered, tap on register.
+Your printer should now be fully operational.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Product-Registrationn.jpg
+Connecting to your PRO 4K XL. 
+
+There are three ways to connect to your PRO 4K 3D printerWired/ethernet connectionWiFiWireless Direct 
+
+Wired/Ethernet connection 
+
+From the Main Menu select Settings. 
+
+Select wired network. 
+
+If your network cable is connected properly, you should see an IP Address here.If there is nothing visible,  check the network cable on the rear of the printer or router. 
+
+WiFi connection 
+
+From the Main Menu select Settings. 
+
+To set up a WiFi Connection,  select wireless network. 
+
+Tap on Network Name and select your network from the dropdown list.Note: Wireless Direct must be turned off. 
+
+Wireless direct 
+
+Wireless Direct allows the printer to act as a wireless access point. This can be used if there is no router available.From the Main Menu select Settings. 
+
+Select Wireless Direct.Note: This will prevent any WiFi connections to be performed. 
+
+Default settings for Wireless Direct:Wireless Network: Printer nameIP address: 172.27.10.1Subnet Mask: 255.255.255.0
+Connecting to your PRO 4K XL.
+There are three ways to connect to your PRO 4K 3D printerWired/ethernet connectionWiFiWireless Direct
+There are three ways to connect to your PRO 4K 3D printer
+Wired/ethernet connectionWiFiWireless Direct
+Wired/ethernet connection
+WiFi
+Wireless Direct
+Wired/Ethernet connection
+From the Main Menu select Settings.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Main-Menu.jpg
+Select wired network.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Settings-Menu.jpg
+If your network cable is connected properly, you should see an IP Address here.If there is nothing visible,  check the network cable on the rear of the printer or router.
+If your network cable is connected properly, you should see an IP Address here.
+If there is nothing visible,  check the network cable on the rear of the printer or router.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Settings-Wired-Menu.jpg
+WiFi connection
+To set up a WiFi Connection,  select wireless network.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Settings-Wireless.jpg
+Tap on Network Name and select your network from the dropdown list.Note: Wireless Direct must be turned off.
+Tap on Network Name and select your network from the dropdown list.
+Note: Wireless Direct must be turned off.
+Note:
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Settings-Wireless-Menu.jpg
+Wireless direct
+Wireless Direct allows the printer to act as a wireless access point. This can be used if there is no router available.From the Main Menu select Settings.
+Wireless Direct allows the printer to act as a wireless access point. This can be used if there is no router available.
+Select Wireless Direct.Note: This will prevent any WiFi connections to be performed.
+Select Wireless Direct.
+Note: This will prevent any WiFi connections to be performed.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Settings-WirelessDirect-1.jpg
+Default settings for Wireless Direct:Wireless Network: Printer nameIP address: 172.27.10.1Subnet Mask: 255.255.255.0
+Default settings for Wireless Direct:
+Wireless Network: Printer nameIP address: 172.27.10.1Subnet Mask: 255.255.255.0
+Wireless Network: Printer name
+IP address: 172.27.10.1
+Subnet Mask: 255.255.255.0
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Settings-Wireless-Direct-Menu-enabled.jpg
+Build platform calibration
+Build Platform Calibration must be performed regularly to ensure optimal performance from your printer.Asiga recommends calibrating once a month.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro4k-platform-calibration.jpg
+Inserting build tray & resin
+The final step to getting your printer print ready!
+Eye or skin contact with uncured resin may cause irritation.					
+
+						Always wear nitrile gloves.
+.a7281554-3fab-45ce-ad7c-74af7e37b99f{fill:#ffd520;}.b84d29f4-9f86-42a4-b2cc-1a9fe90a145b{fill:#231f20;}
+Eye or skin contact with uncured resin may cause irritation.
+Always wear nitrile gloves.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro4k-build-tray-insert.jpg
+PrevPreviousUnboxing your PRO 4K XL
+Prev
+PreviousUnboxing your PRO 4K XL
+Previous
+Unboxing your PRO 4K XL

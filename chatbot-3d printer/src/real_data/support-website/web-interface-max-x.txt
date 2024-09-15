@@ -1,0 +1,93 @@
+Access printer via web interface 
+
+The printer’s web interface allows you to interact with the printer from your computer.
+It also allows you to control the print queue, update the firmware & access error logs.There are two ways to access the web interface. 
+
+Autodetect in Composer 
+
+Ensure your printer is connected to your network.Select New 
+
+Select your target printerClick on the Earth Icon 
+
+Known IP address or printer name 
+
+Open your web browserType into the address bar: http://<printer name or IP address>Hit enter
+Access printer via web interface
+The printer’s web interface allows you to interact with the printer from your computer.
+It also allows you to control the print queue, update the firmware & access error logs.There are two ways to access the web interface.
+The printer’s web interface allows you to interact with the printer from your computer.
+It also allows you to control the print queue, update the firmware & access error logs.
+There are two ways to access the web interface.
+Autodetect in Composer
+Ensure your printer is connected to your network.Select New
+Ensure your printer is connected to your network.
+Select New
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Main-Screen.jpg
+Select your target printerClick on the Earth Icon
+Select your target printer
+Click on the Earth Icon
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/new-build.jpg
+Known IP address or printer name
+Open your web browserType into the address bar: http://<printer name or IP address>Hit enter
+Open your web browser
+Type into the address bar: http://<printer name or IP address>
+Hit enter
+Build Queue 
+
+The build queue provides you with an overview of print jobs queued in your printer.
+Build Queue
+The build queue provides you with an overview of print jobs queued in your printer.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/Build-queue.jpg
+Front Panel 
+
+The front panel allows you to view in real time what your printer is doing.It can also act as a remote control allowing you to control the printer from the comfort of your desk.
+Front Panel
+The front panel allows you to view in real time what your printer is doing.It can also act as a remote control allowing you to control the printer from the comfort of your desk.
+The front panel allows you to view in real time what your printer is doing.
+It can also act as a remote control allowing you to control the printer from the comfort of your desk.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/Front-panel.jpg
+Settings 
+
+In the settings tab you can view your printer’s build extents hide certain menu features.This is a handy feature in a production environment if no settings are to be changed without autorisation.Asiga does not advise modifying the build extents without supervision from an authorised reseller or Asiga. Changing the build extents will cause loss of accuracy!
+Settings
+In the settings tab you can view your printer’s build extents hide certain menu features.This is a handy feature in a production environment if no settings are to be changed without autorisation.Asiga does not advise modifying the build extents without supervision from an authorised reseller or Asiga. Changing the build extents will cause loss of accuracy!
+In the settings tab you can view your printer’s build extents hide certain menu features.This is a handy feature in a production environment if no settings are to be changed without autorisation.
+Asiga does not advise modifying the build extents without supervision from an authorised reseller or Asiga. Changing the build extents will cause loss of accuracy!
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/Settings.jpg
+System information 
+
+System information provides you with operational information on your printer like printer name and printer uptime.The most important function of this tab is access to all the printer logs.The following logs are available:– Debug Information– Error log– Buildlog– Printer ini These logs are very important for any technical support request as they will provide our Asiga technicians with invaluable technical information specific to your printer.To download the logs, please right click and “save as”.
+System information
+System information provides you with operational information on your printer like printer name and printer uptime.The most important function of this tab is access to all the printer logs.The following logs are available:– Debug Information– Error log– Buildlog– Printer ini These logs are very important for any technical support request as they will provide our Asiga technicians with invaluable technical information specific to your printer.To download the logs, please right click and “save as”.
+System information provides you with operational information on your printer like printer name and printer uptime.
+The most important function of this tab is access to all the printer logs.
+The following logs are available:
+– Debug Information
+– Error log
+– Buildlog
+– Printer ini
+These logs are very important for any technical support request as they will provide our Asiga technicians with invaluable technical information specific to your printer.
+To download the logs, please right click and “save as”.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/System-Information.jpg
+Update Firmware 
+
+To update the firmware of your printer, please click here  to download the latest version for the MAX X.Click “choose file” and navigate to the downloaded file.When finished uploading, your printer will automatically restart and your new firmware has been succesfully installed.
+Update Firmware
+To update the firmware of your printer, please click here  to download the latest version for the MAX X.Click “choose file” and navigate to the downloaded file.When finished uploading, your printer will automatically restart and your new firmware has been succesfully installed.
+To update the firmware of your printer, please click here  to download the latest version for the MAX X.
+please click here
+Click “choose file” and navigate to the downloaded file.
+When finished uploading, your printer will automatically restart and your new firmware has been succesfully installed.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/Update-Firmware.jpg
+PrevPreviousStarting a print – MAX X 
+
+NextEnvironmental controls – MAX XNext
+PrevPreviousStarting a print – MAX X
+Prev
+PreviousStarting a print – MAX X
+Previous
+Starting a print – MAX X
+NextEnvironmental controls – MAX XNext
+NextEnvironmental controls – MAX X
+Next
+Environmental controls – MAX X

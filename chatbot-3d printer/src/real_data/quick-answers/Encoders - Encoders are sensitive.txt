@@ -1,0 +1,39 @@
+Encoders Encoders are sensitive
+ Is the printer near any vibrating machine, such as a milling machine? if so the vibrations may be upsetting the encoders. 
+
+Ensure the printer is in a place free of vibrations. Then, if you go to Maintenance> Position Encoders> Zero Position Encoders, with the platform raised, and the resin tray removed, does zeroing the encoders return the blue dot to the middle for a while?
+If so, the behaviour is normal, you can then press on each corner of the basin in turn, and the blue dot will move to the appropriate corner. Then zero again.
+
+If the encoders are immediately causing the blue dot to jump around after zeroing, then you should remove the basin and inspect the encoders for any issues, eg foreign objects, or a resin spill. 
+
+Then perform the encoder calibration, as shown in the max manual, starting at page 56.
+
+https://www.asiga.com/accounts/resources/MAX/1%20-%20Quick%20Start%20Guide/MAX%20User%20Guide%2020210712.pdf
+
+Then perform the encoder calibration, as shown in the pro4k manual, starting at page 61.
+
+https://www.asiga.com/accounts/resources/PRO%204K/1%20-%20Quick%20Start%20Guide/PRO%204K%20User%20Guide%2020210712.pdf
+
+Do you have the calibration weight if this process is required? 
+
+If you remove the tray, and zero the encoders the blue dot should go to the centre again. After 10-20 seconds it might jump around a little, this is because of how sensitive they are. If you have been printing, and have the resin there, then the encoders are zeroed by the printer as it progresses through printing every single layer as a way of allowing for their sensitivity.
+
+When the customer checks in Maintenance> Position Encoders> Zero Position Encoders, the blue dot can often appear unstable initially. The encoders are very sensitive, so although it can look like there is a problem, the behaviour is normal. If you zero the encoders, the blue dot will return to the centre. You can then press on each corner of the basin in turn, and the blue dot will move to the appropriate corner. Then zero again.
+
+The video shows the blue dot going to the corner. This is normal as the encoders are very sensitive.
+The video did not show what happens if the encoders are zeroed.
+Also, its not clear if the resin tray is in the printer or not.
+
+With the platform raised, and the basin removed, does the zeroing the encoders return the blue dot to the middle for a while? If so, the behaviour is normal and nothing needs to be changed.
+
+For us to verify any issues, we need to see what happens after the encoders are zeroed. 
+
+Please send us the updated printer ini after doing this for us to check.
+
+The calibration weight is a tool for dealers, not end users, which is why it is part of the kit. 
+
+If you do feel there is an issue with the encoders, please check carefully as described, and please send a video showing what happens after recalibration and zeroing.
+
+If needed, the basin encoders are PN/02477 and are dealer price $18usd, and rrp $25usd.
+
+Regards 

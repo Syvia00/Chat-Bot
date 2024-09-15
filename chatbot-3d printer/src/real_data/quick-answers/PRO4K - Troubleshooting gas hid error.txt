@@ -1,0 +1,39 @@
+PRO4K Troubleshooting gas hid error
+ Hi,
+
+Your photos indicate when this problem occurs the printer is not connected to network which could indicate the wifi stopped working at the same time the projector HID errors occurred. Was the printer connected to network using wifi when this issue occurred?
+
+Did the errors occur only just when the print was started or was it after some layers were successfully printed?
+
+Let's try to collect some more information when this error occurs.
+
+1. Connect printer using ethernet cable.
+2. Continue running printer until projector HID errors occur again
+3. After projector HID read/write errors occur, please go to printer's web interface, click System Information tab and click Debug Information.
+   The address bar of the web browser will have something like http://192.168.1.123/debug. Please add "?k=1" to the end of the address in the address bar (e.g. http://192.168.1.123/debug?k=1, but with your actual printer IP address instead of 192.168.1.123) and press enter.
+   Save the complete log to file and attach to ticket.
+
+Now, let's try checking if wifi dongle is causing issue by disconnecting the wifi from USB hub and running printer using ethernet cable.
+
+1. Power off printer
+2. Unplug USB extension for wifi from USB hub
+3. Power on printer
+4. Continue running printer and see if the projector HID errors occur again. After projector HID read/write errors occur, please go to printer's web interface, click System Information tab and click Debug Information.
+   The address bar of the web browser will have something like http://192.168.1.123/debug. Please add "?k=1" to the end of the address in the address bar (e.g. http://192.168.1.123/debug?k=1, but with your actual printer IP address instead of 192.168.1.123) and press enter.
+   Save the complete log to file and attach to ticket with comment that debug log was saved when wifi is unplugged.
+
+If the error occurs again, try bypassing the USB hub and connecting projector directly to Olimex.
+You will need a longer USB-A male to USB-B male cable to connect projector directly to Olimex. The current USB cable between USB hub and projector is quite short so it can't be reused to connect projector directly to Olimex.
+
+1. Power off printer
+2. Unplug power from USB hub
+3. Unplug USB hub from Olimex
+4. Unplug USB cable from projector
+5. Connect USB-A male to USB-B male cable from Olimex to projector
+6. Power on printer
+7. Continue running printer and see if the projector HID errors occur again. After projector HID read/write errors occur, please go to printer's web interface, click System Information tab and click Debug Information.
+   The address bar of the web browser will have something like http://192.168.1.123/debug. Please add "?k=1" to the end of the address in the address bar (e.g. http://192.168.1.123/debug?k=1, but with your actual printer IP address instead of 192.168.1.123) and press enter.
+   Save the complete log to file and attach to ticket with comment that debug log was saved when projector is connected directly to Olimex.
+
+Thanks.
+

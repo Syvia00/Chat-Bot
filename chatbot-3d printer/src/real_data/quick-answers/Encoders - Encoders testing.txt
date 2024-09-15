@@ -1,0 +1,10 @@
+Encoders Encoders testing
+ Could you check that the encoders are all responding on the printer?
+
+Remove the tray and platform from the printer.
+
+Go to Maintenance> Position Encoders> Zero Position Encoders. The blue dot can often appear unstable initially, as the encoders are very sensitive, so although it can look like there is a problem, the behaviour is normal if it is moving around. 
+
+If you zero the encoders, the blue dot will return to the centre. You can then press on each corner of the basin in turn, and the blue dot will move to the appropriate corner. Then zero again.
+
+Regards, 

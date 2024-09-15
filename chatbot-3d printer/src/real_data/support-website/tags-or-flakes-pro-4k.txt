@@ -1,0 +1,25 @@
+Why are there tags or flakes on my prints?
+If you’re experiencing extra cured material on your prints, this page will explain why this is happening & how to prevent it.
+See the following image https://support.asiga.com/wp-content/uploads/2022/09/tags-flakes.jpg
+See the following image https://support.asiga.com/wp-content/uploads/2022/09/dirty-optical-path.jpg
+Extra cured material is caused by light scattering.Light scattering is an effect created when an obstacle is partially blocking the light from reaching it’s destination.This effect is caused by dirty optics:Dirty basin glassDamaged build tray
+Extra cured material is caused by light scattering.Light scattering is an effect created when an obstacle is partially blocking the light from reaching it’s destination.This effect is caused by dirty optics:
+Dirty basin glassDamaged build tray
+Dirty basin glass
+Damaged build tray
+Dirty basin
+If the basin has smudges or cured resin over it, it will cause light scattering.Use a torch to enhance visibility of the glass.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro-4k-basin-dirty_5.jpg
+The below video demonstrates the recommended way to clean the basin glass.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro-4k-clean.jpg
+If the build tray film is damaged it can cause print issues.It’s important to maintain the build tray for maximum performance.If the build tray is damaged or stretched out, consider replacing it with a new one to prevent the possibility of misprints.
+If the build tray film is damaged it can cause print issues.It’s important to maintain the build tray for maximum performance.
+maintain the build tray
+If the build tray is damaged or stretched out, consider replacing it with a new one to prevent the possibility of misprints.
+See the following image https://support.asiga.com/wp-content/uploads/2022/09/damaged-tray.jpg
+See the following image https://support.asiga.com/wp-content/uploads/2022/09/damaged-trays.jpg
+PrevPreviousDelamination-PRO 4K
+Prev
+PreviousDelamination-PRO 4K
+Previous
+Delamination-PRO 4K

@@ -1,0 +1,12 @@
+Resins Fusion Grey
+ The FusionGray can solidify and crystalize, especially when the environment is a bit cooler, or for example during air transport.
+
+In this case, it is required to warm up the resin, please see the Instructions for Use (IFU) from the Asiga account: 
+https://www.asiga.com/accounts/resources/Materials/Asiga/IFU%20%28Instructions%20for%20Use%29/Asiga%20FusionGRAY%20IFU.pdf
+
+The guide mentions 3 possibilities to heat up the resin.
+There would be one more recommendation which is for you personally, I cant make this an official Asiga recommendation. The quickest and most efficient way would be to place the build tray with the solidified/crystalized FusionGray into the microwave, its just super important to remove the RFID tag from the tray before placing it into the microwave, since the RFID tag contains aluminum, and will burn out. I think you will have the right feeling to peel off the RFID tag from the tray, but I wouldnt be able to recommend that to all end users, as there is a chance they can damage the RFID tag.
+Then place the build tray with resin into the microwave for 20 seconds, full power (1000W) take it out and you will see that the resin will come out really smooth. If you still see little grains, then you can run it for another 15-20 seconds.
+If this is something the end-user could do without damaging the RFID tag, then I leave it up to you to pass this tip onto your customer. Otherwise they would need to apply the 3 ways mentioned in the IFU.
+
+Best regards, 

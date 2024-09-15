@@ -1,0 +1,26 @@
+PRO4K Printer turns off
+ Are you using an uninterruptible power supply (UPS)? If so, it needs to be at least 600W, preferably 750W.
+
+Please confirm when the printer turns off, is the green illumination on the power button gone?
+
+If not, the LCD screen could be going dark if the computer board is crashing, which would not be a power issue.
+If it is, this will confirm if the power is really cutting out, and we can look for why there is a power issue.
+
+The projector and the heating circuit draw the most power from the internal power supply.
+
+To isolate the issue, please test the heater when the projector is unplugged, and then test the projector when the heater is unplugged.
+
+If you remove the side panel, you will see the four power connectors circled in the picture.
+
+Turn the printer off, and unplug the two heater power plugs, circled in green on the left. Turn the printer on, go to Control> LED and turn on the LED of the projector, and let it run for about 5 minutes. Then run a print job to test the projector further while the heaters are unplugged.
+
+Does this induce the shutdown? 
+
+Then turn off the printer, plug in the two heater plugs, and unplug the two projector power plugs (circled in red, on the right) then test the heater. NB serial will show as zeros if projector power is unplugged, this is normal.
+Turn on the heater of the machine under Settings> Temperature, set a Setpoint of 35C degrees and turn on the controller.
+
+Let this run for a couple of hours, to see if this makes the printer shutdown.
+
+Please let us know your testing results, this will help us to identify if the shutdown is caused by the heater only, or the projector only. If they are both causing an issue, the problem could be the internal power supply.
+
+Can you give us the debug log, / error log as well, thanks. To get those files, please open Composer, click New Build, click your target printer, then click the blue globe icon in the top right corner, a web browser will open, please go to the tab System Information and you will see View debug log, and error log. Right click that file and click Save Target As/ Save Link As to download the text file. Please then attach the files onto this ticket.

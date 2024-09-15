@@ -1,0 +1,18 @@
+Uncategorised Intensity now too high
+ Hello,
+
+Asking in general, is the printer in the same room as milling machines or possibly where gypsum models are being processed, so there's potentially lots of microdust in the room?
+
+If that is the case, you may want to consider changing the location of the printer to a less dusty room.
+
+Currently, the internal UV sensor is reading a higher value than the actual calibrated light intensity, this will cause Composer to calculate shorter exposure times, which will lead to printing issues.
+
+We can fix this remotely, to do so please do as follow:
+
+- remove the build tray from the printer and ensure the build platform is clean
+- close the hood of the printer, as were going to show LED light
+- then go to Maintenance> Service> LED> Calibrate Radiometer and confirm and SAVE the value that you can see there, which should be 13.56
+- then to verify if the internal UV sensor successfully took these changes, go to Maintenance> Service> LED> Radiometer and check if the value there reads approximately around the calibrated value of 13.56
+
+And please send us the printer.ini once more, to see if the changes were successful.
+

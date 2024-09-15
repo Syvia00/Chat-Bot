@@ -1,0 +1,79 @@
+Build tray options 
+
+There are multiple options available when choosing a build tray for your PRO 4K. 
+
+Asiga PRO 4K build trays are available in the following configurations:2 liter5 liter10 liter 
+
+Build trays have a set lifespan programmed into them. This is controlled by the RFID tag on the back of each tray. 
+
+Why do build trays expire? 
+
+Asiga PRO 4K build trays are built with a flexible membrane to house resin during the printing process.This membrane is subject to wear&tear during the printing process and stretches over time.If the build tray becomes damaged, it may cause a resin spill or worse – damage to your printer.To prevent unwanted spills or damage, Asiga programs the build trays to stop working when their intended lifecycle has been reached.
+Build tray options
+There are multiple options available when choosing a build tray for your PRO 4K.
+Asiga PRO 4K build trays are available in the following configurations:2 liter5 liter10 liter
+Asiga PRO 4K build trays are available in the following configurations:
+2 liter5 liter10 liter
+2 liter
+5 liter
+10 liter
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro4k-build-tray.png
+Build trays have a set lifespan programmed into them. This is controlled by the RFID tag on the back of each tray.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/max-tray-rear-.jpg
+Why do build trays expire?
+Asiga PRO 4K build trays are built with a flexible membrane to house resin during the printing process.This membrane is subject to wear&tear during the printing process and stretches over time.If the build tray becomes damaged, it may cause a resin spill or worse – damage to your printer.To prevent unwanted spills or damage, Asiga programs the build trays to stop working when their intended lifecycle has been reached.
+Asiga PRO 4K build trays are built with a flexible membrane to house resin during the printing process.
+This membrane is subject to wear&tear during the printing process and stretches over time.
+If the build tray becomes damaged, it may cause a resin spill or worse – damage to your printer.
+To prevent unwanted spills or damage, Asiga programs the build trays to stop working when their intended lifecycle has been reached.
+Cleaning the build tray
+To ensure your build tray works for it intended lifecycle, please follow the below video when you have a print failure.Print failures can cause debris in the build tray. This debris can puncture the tray causing a resin spill.
+To ensure your build tray works for it intended lifecycle, please follow the below video when you have a print failure.
+Print failures can cause debris in the build tray. This debris can puncture the tray causing a resin spill.
+Storage 
+
+When the build tray is not in use it’s best practice to keep it stored away in a dark environment away from potential contaminates.Asiga offers an affordable solution for this that allows you to stack build trays.Check with your reseller about our Build Tray Containers.
+Storage
+When the build tray is not in use it’s best practice to keep it stored away in a dark environment away from potential contaminates.Asiga offers an affordable solution for this that allows you to stack build trays.Check with your reseller about our Build Tray Containers.
+When the build tray is not in use it’s best practice to keep it stored away in a dark environment away from potential contaminates.
+Asiga offers an affordable solution for this that allows you to stack build trays.Check with your reseller about our Build Tray Containers.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/asiga-tray-max-pico-storage-case.jpg
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/asiga-tray-pro4k-storage-case.jpg
+Build tray lifetime monitoring 
+
+How do you know when a build tray is about to expire? 
+
+Each time a new print is submitted, the PRO 4K will automatically read the RFID tag on the tray.You can check the usage and other information of your current tray by following these steps:Select System from the Main Menu 
+
+Select Tray Data 
+
+When the build trage usage reaches 100%, the tray will automatically stop working.
+Build tray lifetime monitoring
+How do you know when a build tray is about to expire?
+Each time a new print is submitted, the PRO 4K will automatically read the RFID tag on the tray.You can check the usage and other information of your current tray by following these steps:Select System from the Main Menu
+Each time a new print is submitted, the PRO 4K will automatically read the RFID tag on the tray.
+You can check the usage and other information of your current tray by following these steps:
+Select System from the Main Menu
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/Main-Menu-System.jpg
+Select Tray Data
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/System-TrayData.jpg
+When the build trage usage reaches 100%, the tray will automatically stop working.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/Tray-data.jpg
+Disposing of or replacing the build tray
+Uncured resin is classified as hazardous to aquatic life.
+.b17f727b-3053-4cc6-84b7-7d7986292497{fill:#ffd520;}.ab5d09a9-e79e-4f4b-8a73-d0572702b517{fill:#231f20;}
+Eye or skin contact with uncured resin may cause irritation.					
+
+						Always wear nitrile gloves.
+.a7281554-3fab-45ce-ad7c-74af7e37b99f{fill:#ffd520;}.b84d29f4-9f86-42a4-b2cc-1a9fe90a145b{fill:#231f20;}
+Eye or skin contact with uncured resin may cause irritation.
+Always wear nitrile gloves.
+When the build tray has reached 100%, it must be replaced.Old build trays contain uncured resin that must be dealt with according to local laws.Place the build tray in direct sunlight or a UV chamber until all the remaining resin has cured. How do you change the build tray on your PRO 4K?
+When the build tray has reached 100%, it must be replaced.Old build trays contain uncured resin that must be dealt with according to local laws.Place the build tray in direct sunlight or a UV chamber until all the remaining resin has cured.
+How do you change the build tray on your PRO 4K?
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro4k-build-tray-insert.jpg
+PrevPreviousMaintenance schedule – PRO 4K
+Prev
+PreviousMaintenance schedule – PRO 4K
+Previous
+Maintenance schedule – PRO 4K

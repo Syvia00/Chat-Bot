@@ -1,0 +1,50 @@
+Heater controls 
+
+Asiga 3D printers automatically heat resin to a set temperature while printing.
+The printer will not wait until the temperature has been reached unless a manual temperature has been set.
+To manually set the temperature, follow the instructions below. 
+
+Select Settings from Main Menu. 
+
+Select Temperature from Settings Menu. 
+
+Select desired setpoint from Temperature Menu.Slide Controller on.Heaters will now heat the build chamber.
+Heater controls
+Asiga 3D printers automatically heat resin to a set temperature while printing.
+The printer will not wait until the temperature has been reached unless a manual temperature has been set.
+To manually set the temperature, follow the instructions below.
+Asiga 3D printers automatically heat resin to a set temperature while printing.
+The printer will not wait until the temperature has been reached unless a manual temperature has been set.
+To manually set the temperature, follow the instructions below.
+Select Settings from Main Menu.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/MM-Settings.jpg
+Select Temperature from Settings Menu.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Settings-Menu-Temperature.jpg
+Select desired setpoint from Temperature Menu.Slide Controller on.Heaters will now heat the build chamber.
+Select desired setpoint from Temperature Menu.
+Slide Controller on.
+Heaters will now heat the build chamber.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Settings-Temperature-Setpoint.jpg
+Print end 
+
+During the printing process the resin remains heated to maintain optimal temperature.Once the print is completed, the heater will switch off and the printer will cool down.Note: There is no danger in touching the print or the printer immediately after a print is finished. It will be around 30 °C (86°F).
+Print end
+During the printing process the resin remains heated to maintain optimal temperature.Once the print is completed, the heater will switch off and the printer will cool down.Note: There is no danger in touching the print or the printer immediately after a print is finished. It will be around 30 °C (86°F).
+During the printing process the resin remains heated to maintain optimal temperature.
+Once the print is completed, the heater will switch off and the printer will cool down.
+Note: There is no danger in touching the print or the printer immediately after a print is finished. It will be around 30 °C (86°F).
+Note:
+°
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Temperature-warming.png
+PrevPreviousWeb interface – PRO 4K 
+
+NextBuild Tray life – PRO 4KNext
+PrevPreviousWeb interface – PRO 4K
+Prev
+PreviousWeb interface – PRO 4K
+Previous
+Web interface – PRO 4K
+NextBuild Tray life – PRO 4KNext
+NextBuild Tray life – PRO 4K
+Next
+Build Tray life – PRO 4K

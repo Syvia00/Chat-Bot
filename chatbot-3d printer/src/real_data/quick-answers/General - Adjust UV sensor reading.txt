@@ -1,0 +1,4 @@
+General Adjust UV sensor reading
+ I can see that the internal UV sensor has slightly drifted. The calibrated LED intensity should be around XXXXmW, but the internal UV sensor is currently reading XXXXmW. This may be causing an exposure issue.
+
+To adjust the internal UV sensor again, please remove the build tray from the printer and ensure the build platform is free from any resin, then go to Maintenance> Service> LED> Calibrate Radiometer, re-confirm the current value that you can see there (which should be XXXX) and Save it, that will re-adjust the internal UV sensor 

@@ -1,0 +1,13 @@
+Trays Low force trays
+ The Low Force tray consists of 2 thinner films which in total are as thick as the regular tray film.
+
+The appearance is more matte and homogeneous compared to the regular ones. So the parts look more beautiful, which is great for show-off prototypes and they are also slightly smoother, so its good for casting/moulding as well.
+
+The Separation Forces are a lot less, but the films are more fragile. So handle them with greater care.
+When possible use Separation Acceleration of 0.1 to make the separation even more gentle.
+
+The films work very well with Fast Print and Separation Detection, as the Separation takes place much earlier than on regular films.
+
+There is no advantage when printing large cross section (on the contrary, the pulling force of larger areas can stretch the thin films easier)
+
+It will print with less stress on printed parts, and is recommended for resins that are viscous in the tray, or flexible when printed.

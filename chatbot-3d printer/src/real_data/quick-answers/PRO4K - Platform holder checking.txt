@@ -1,0 +1,8 @@
+PRO4K Platform holder checking
+ Please check the platform carefully, and the tray and glass for any cured resin that may be preventing the platform from sitting flat, or damaging a tray.
+
+Please check the platform holder is working well. With the calibration screw and the grub screw tight, raise the platform and try to move it from side to side while applying moderate force, it should not move.
+
+Next, please loosen the calibration screw, the grub screw, and the black knob. Remove the platform from the printer and you will see two semicircular pieces of metal under the black knob. Please check that the flat piece in between them can move up and down, and side to side when everything is loosened. This will verify that the platform holder is working properly in a way that will allow the platform to sit flat on the glass.
+
+If the platform holder is working well, then to ensure that the platform is parallel to the glass when calibrating, please apply downward pressure to the black knob when tightening the calibration screw and the grub screw. You can check with a piece of paper that there are no gaps between the platform and the glass after doing this, as seen in this video: https://support.asiga.com/maintenance-schedule-pro-4k/#platform-validation

@@ -1,0 +1,64 @@
+General housekeeping 
+
+Asiga printers require very little preventative maintenance.It’s best practice to keep your Asiga printer as clean as possible. This means cleaning up resin drops or spills with IPA (Isopropyl Alcohol) but also preventing dust build up.Asiga recommends using a microfibre cloth with cold water to wipe down the outside of the printer.Follow all instructions and safety advisories mentioned below.
+General housekeeping
+Asiga printers require very little preventative maintenance.It’s best practice to keep your Asiga printer as clean as possible. This means cleaning up resin drops or spills with IPA (Isopropyl Alcohol) but also preventing dust build up.Asiga recommends using a microfibre cloth with cold water to wipe down the outside of the printer.Follow all instructions and safety advisories mentioned below.
+Asiga printers require very little preventative maintenance.
+It’s best practice to keep your Asiga printer as clean as possible. This means cleaning up resin drops or spills with IPA (Isopropyl Alcohol) but also preventing dust build up.
+resin drops or spills
+Asiga recommends using a microfibre cloth with cold water to wipe down the outside of the printer.
+Follow all instructions and safety advisories mentioned below.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/MAX-rear.jpg
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/MAX-side.jpg
+Cleaning the glass surfaces
+Eye or skin contact with uncured resin may cause irritation.					
+
+						Always wear nitrile gloves.
+.a7281554-3fab-45ce-ad7c-74af7e37b99f{fill:#ffd520;}.b84d29f4-9f86-42a4-b2cc-1a9fe90a145b{fill:#231f20;}
+Eye or skin contact with uncured resin may cause irritation.
+Always wear nitrile gloves.
+IPA is a flammable chemical.
+.b13ad627-8e2f-46fa-9ae4-d3a112aa17fa{fill:#ffd520;}.e622e3a1-377a-4973-abe4-1f942493b29a{fill:#231f20;}
+Inspect the mirror underneath the glass basin. This can attract dust & may cause print defects.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/MAX-Dirty-Glass.jpg
+If the glass is dirty:Remove the basin by unscrewing these 4 screws.Carefully blow away the dust. Avoid touching the mirror as it may smudge.If the mirror is too dirty, consider replacing it.
+If the glass is dirty:
+Remove the basin by unscrewing these 4 screws.Carefully blow away the dust. Avoid touching the mirror as it may smudge.If the mirror is too dirty, consider replacing it.
+Remove the basin by unscrewing these 4 screws.
+Carefully blow away the dust. Avoid touching the mirror as it may smudge.
+If the mirror is too dirty, consider replacing it.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/max-basin-left.jpg
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/max-basin-right.jpg
+MAX Basin Glass
+Keeping the basin glass clean on your MAX is extremely important.The projector will reflect the image through this window & smudges will impact it’s performance.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/MAX-Smudged-glass.jpg
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/MAX-Smudgy-glass.jpg
+Watch the below video on how to clean the basin glass.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/MAX-cleaning-basin.jpg
+Platform calibration
+Regular platform calibration will ensure your MAX keeps running smoothly.Asiga recommends calibrating once a month or ever 20-30 prints.
+Regular platform calibration will ensure your MAX keeps running smoothly.
+Asiga recommends calibrating once a month or ever 20-30 prints.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/MAX-validate-calibration.jpg
+Validating the Calibration
+After the platform calibration, Asiga recommends double checking & validating the calibration.This will ensure your printer remains running as smoothly as possible.
+Firmware & software 
+
+We are continuously working hard to improve our products.There are regular new firm/software releases with exciting features or speed improvements.To check if there is a new firmware available for your printer, click on the “ASIGA” logo in Composer for recent announcements! 
+
+ Download the latest versionUpload the firmware to your MAX here
+Firmware & software
+We are continuously working hard to improve our products.There are regular new firm/software releases with exciting features or speed improvements.To check if there is a new firmware available for your printer, click on the “ASIGA” logo in Composer for recent announcements!
+We are continuously working hard to improve our products.
+There are regular new firm/software releases with exciting features or speed improvements.
+To check if there is a new firmware available for your printer, click on the “ASIGA” logo in Composer for recent announcements!
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/Asiga-announcements.jpg
+Download the latest versionUpload the firmware to your MAX here
+Download the latest version
+Upload the firmware to your MAX here
+here
+See the following image https://support.asiga.com/wp-content/uploads/2022/09/firmware.jpg
+NextMaintaining the build tray – MAXNext
+NextMaintaining the build tray – MAX
+Next
+Maintaining the build tray – MAX

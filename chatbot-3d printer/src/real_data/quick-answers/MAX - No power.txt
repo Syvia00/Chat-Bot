@@ -1,0 +1,11 @@
+MAX No power
+ Does the power switch at the top of the printer stay lit in green when you try turning on the printer or does it stay off?
+
+Please check the LED on the power brick is green all the time. 
+
+Then check the two LEDs on the back of the printer are on, when the switch is on. The third LED should come on when the button on top of the printer is pressed. 
+
+Does anything show on the LCD screen of the printer? 
+
+If you remove the curved back panel, can you take a photo or a video of the LEDs on the boards that come on when the power button is pressed? 
+

@@ -1,0 +1,17 @@
+Multi-Range
+Multi-Range allows users to select different layer thicknesses or change advanced parameters throughout a build using print ranges. This also allows users to print using different materials together.
+See the following image https://support.asiga.com/wp-content/uploads/2022/09/multi-material.jpg
+How do I use Multi-Range?
+See the following image https://support.asiga.com/wp-content/uploads/2022/09/Multi-range-thumbnail.jpg
+PrevPreviousDuplicated facets & faulty slices 
+
+NextMulti-StackingNext
+PrevPreviousDuplicated facets & faulty slices
+Prev
+PreviousDuplicated facets & faulty slices
+Previous
+Duplicated facets & faulty slices
+NextMulti-StackingNext
+NextMulti-Stacking
+Next
+Multi-Stacking

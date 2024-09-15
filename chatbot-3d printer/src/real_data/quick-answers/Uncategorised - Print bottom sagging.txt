@@ -1,0 +1,11 @@
+Uncategorised Print bottom sagging
+ The reason why you can see the bottom of the surface sagging has typically 2 reasons:
+
+1. Insufficient supports for a model with a large cross section. Means if you don't place enough supports underneath, the layers will sag down.
+
+2. If you don't have enough resin in your build tray, it's possible the part will raise out of the build tray, will trap air between the bottom side of the model and the build platform, when moving back down in the resin, the trapped air can deform the bottom layer. The solution for that would be to add more resin into the build tray, perhaps by 3/4.
+
+3. Last possibility would be to change the orientation of the model to an upwards position or a tilted angle, this will require less supports at the bottom side of the model, and you can avoid the layers sagging down.
+
+Please let me know if that's clear or if you would have further questions.
+Regards, 

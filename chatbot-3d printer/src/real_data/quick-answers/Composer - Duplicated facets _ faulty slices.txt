@@ -1,0 +1,8 @@
+Composer Duplicated facets & faulty slices
+ When you get the duplicated facets error, you can click show details, if Composer says the error message is with the STM file, that won't cause an issue. This means the supports on the model are overlapping and Composer thinks they're duplicated facets.
+
+However, when you click show details and it says the error is with the actual STL file, then there is an issue with the actual STL file.
+
+The same for faulty slices, which means the file contains multiple faulty layers. Composer will attempt to replace the faulty slices with the last well working one, if there are too many faulty slices, we could expect unusual print outcomes.
+
+You can repair these files in your design software, with functions called mesh repair, mesh heal, boolean, etc.

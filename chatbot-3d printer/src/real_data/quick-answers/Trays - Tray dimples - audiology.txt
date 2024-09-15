@@ -1,0 +1,14 @@
+Trays Tray dimples - audiology
+ Those dimples in the tray can be formed due to the suction-geometry of audiology parts. The geometry can act as a "plumber tool", which then can leave these dimples in the tray.
+
+Our suggestion in this case would be trying the following:
+
+- Set the Light Intensity in the Advanced Parameters to 2mW
+- Set the Separation Acceleration to 0.1mm/s
+- Run a print with these parameters and see if the dimples reduce or disappear entirely
+- If they do disappear, then you can increase the Separation Acceleration to 0.2mm/s
+
+Important, when doing these adjustments, enable the Fast Print Mode and Separation Detect, to compensate for reduced printing speeds.
+
+Please let us know if that works.
+Regards, 

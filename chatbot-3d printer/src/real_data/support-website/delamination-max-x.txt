@@ -1,0 +1,37 @@
+Delamination 
+
+Delamination, commonly referred to as layer seperation,  is a print defect that occurs when two or more layers have not bonded together properly.This can occur across all 3D printing solutions.Below are a few reasons why this could happen. 
+
+Insufficient Supports 
+
+The number one cause of delamination is incorrect placement of supports.When placing supports, it is important to support the critical areas such as overhangs.An unsupported overhang may cause a print failure. 
+
+Use the clipping tool to find unsupported or floating layers. 
+
+Always refer to the ‘self support angle’ in the support generation dialogue if you are unsure about an overhang requiring supports.
+Delamination
+Delamination, commonly referred to as layer seperation,  is a print defect that occurs when two or more layers have not bonded together properly.This can occur across all 3D printing solutions.Below are a few reasons why this could happen.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/delaminating2.jpg
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/delaminating.jpg
+Insufficient Supports
+The number one cause of delamination is incorrect placement of supports.When placing supports, it is important to support the critical areas such as overhangs.An unsupported overhang may cause a print failure.
+The number one cause of delamination is incorrect placement of supports.
+When placing supports, it is important to support the critical areas such as overhangs.An unsupported overhang may cause a print failure.
+Use the clipping tool to find unsupported or floating layers.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/Clipping-tool.gif
+Always refer to the ‘self support angle’ in the support generation dialogue if you are unsure about an overhang requiring supports.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/Support-Dialogue.jpg
+Low material level 
+
+If the material level is too low you may see delamination.As the printer runs through the print cycle, it will attempt to squeeze the material to the requested layer thickness.If there is not enough material in the tray, the printer will squeeze air instead.This can cause delamination & significantly higher than expected printing times.Asiga recommends filling up the build tray at least 75% or up to the the fill level prior to starting a print.
+Low material level
+If the material level is too low you may see delamination.As the printer runs through the print cycle, it will attempt to squeeze the material to the requested layer thickness.If there is not enough material in the tray, the printer will squeeze air instead.This can cause delamination & significantly higher than expected printing times.Asiga recommends filling up the build tray at least 75% or up to the the fill level prior to starting a print.
+If the material level is too low you may see delamination.As the printer runs through the print cycle, it will attempt to squeeze the material to the requested layer thickness.If there is not enough material in the tray, the printer will squeeze air instead.This can cause delamination & significantly higher than expected printing times.
+This can cause delamination & significantly higher than expected printing times.
+Asiga recommends filling up the build tray at least 75% or up to the the fill level prior to starting a print.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/MAX-lowforce-build-tray.jpg
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/A19I5078_Asiga-MAX-Build-Tray.jpg
+NextTags or flakes MAX XNext
+NextTags or flakes MAX X
+Next
+Tags or flakes MAX X

@@ -1,0 +1,25 @@
+Trays Leaking tray
+ Could you please send us some photos of the damage to the tray?
+
+It is important to support models correctly, to avoid parts detaching during printing as any debris from incorrectly supported prints can be crushed into the film during printing, and cause indentations in the tray, or worst case a leak.
+
+Cleaning the tray is useful to clear any debris from the tray between prints.
+
+If this leaking was due to a print not being set up properly, we cannot replace it, unfortunately.
+
+However, if it is leaking due to a manufacturing error, then we can replace the tray under warranty.
+
+Also, could you load the supported model into composer, and then go to File> Export build ? You will then have a zip file you can attach to the ticket. If we can see what the customer was printing and how it was set up, we can offer advice on how to do this better, which can avoid issues of the tray becoming damaged so much in future.
+
+Over time the trays wear and need to be changed for printing reliability.
+The chip runs out to be sure that the tray will frequently be changed to a new tray with no wear or damage. 
+
+Asiga sells trays with different capacities for the MAX (1L, 2L, 5L, and 10L). If you are confident that you can print a lot without causing damage to the tray, then you can purchase a tray that will print for longer.  
+
+Most customers choose to print with 1L trays because they are never sure when a setup issue might cause damage to a tray. There is always a risk that if a high capacity tray is accidentally damaged, that it will not be possible to use all of the capacity of the tray.
+
+It is important to use a tray with no defects, and changing the tray regularly is a way of ensuring this. If a tray looks worn out, then it is potentially going to affect the quality of the printing, since damage could cause printing problems, or worse, a leak of resin.
+
+If you would like to order the 2L, 5L or 10L trays, please contact your dealer.
+
+Thank you and please let us know if you require any further help. Best regards, 

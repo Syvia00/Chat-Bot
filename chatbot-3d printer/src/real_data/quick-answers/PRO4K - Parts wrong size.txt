@@ -1,0 +1,33 @@
+PRO4K Parts wrong size
+ - Which resin are you printing with?
+
+- Do you check the fit after you print the parts, and clean the models in alcohol?
+Or do you check the fit after having post-cured the models? It is possible that the postcuring process is affecting the sizing.
+
+- Please be sure to avoid trapped volume/suction cups when printing parts (hollow models), as it can affect the size as well.
+
+(For dies only)
+- Which CAD design software do you use? When you design the dies, do you add a clearance (horizontal shaft gap) or a cement gap to your models? For example when using Exocad, a clearance of 20 microns would be necessary.
+If using 3Shape, then a cement gap of 30 microns (0.030mm) would be necessary.
+
+See also if there is a DME file available for your dental software: https://myaccount.asiga.com/accounts/#tab_software
+
+
+For us to check the printer generally, can you please send us the printer.ini file?
+
+To get that file, please open Composer, click New Build, click your target printer, then click the blue globe icon in the top right corner, a web browser will open, please go to the tab System Information and you will see View Printer.ini. Right-click that file and click Save Target As/ Save Link As to download the text file. Please then attach the file to this ticket.
+
+
+We also want to check the following 2 factors:
+
+1. The optical light path of the printer
+
+2. The focus image of the printer
+
+
+To 1: Please first check the basin glass and ensure it's spotlessly clean. We recommend checking it with a torchlight and cleaning it as seen in this video:
+https://support.asiga.com/maintenance-schedule-pro-4k/#cleaning-the-glass-surfaces
+
+
+To 2: Please check the sharpness of the focus image, take the focus plate from the calibration kit and place it on top of the basin glass, wear the orange UV protective glasses, then go to Maintenance> Service> Focus and have a close look at the focus image, to see if you can spot any blurry or unsharp areas in the focus image. Then press the Refresh button in that menu, wait until the focus image is refreshed, and see if you can spot a difference in sharpness.
+Further on, once you have verified if the focus image changed, in that menu, you can use the STEP UP and STEP DOWN buttons and see if you can improve the sharpness by moving the image up and down in increments.

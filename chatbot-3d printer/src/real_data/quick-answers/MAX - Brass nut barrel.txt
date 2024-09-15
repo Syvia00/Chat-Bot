@@ -1,0 +1,13 @@
+MAX Brass nut barrel
+ If there are issues with the platform holder, then you may be able to change just the brass nut, and the calibration screw and washers.
+
+Please borrow one temporarily from another printer to check if this fixes the problem. Otherwise, you would need the entire platform holder which costs a bit more.
+
+The brass nut on the max platform holder is PN/01154 it is dealer price $10usd, and rrp $15.50usd.
+The screw is PN/02849 and is dealer price $0.80 usd, rrp $1usd.
+The stainless washer is PN/00185 and is dealer price $0.40 usd, rrp $0.50usd.
+The brass washer is PN/03251 and is dealer price $0.80 usd, rrp $1usd.
+
+If you need the entire platform holder, it is PN/02480 and is dealer price $185 usd, rrp $285usd.
+
+Regards, 

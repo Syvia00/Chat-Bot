@@ -1,0 +1,15 @@
+MAX LED intensity too low
+ The LED Light Intensity Too Low sometimes can be a firmware bug. Shutting down the printer or restarting it may fix this error message.
+
+Has this error occurred only once or have you encountered it several times now?
+If this is recurring, it would be good to see the Debug Information and Error Log of your machine. Its important to get these logs after you see the message, without restarting or shutting down the printer, else the logs will be emptied.
+
+If the error re-appears, please open Composer and choose your printer, then click the blue globe icon (printers web interface), this will open a web browser. Then go to the tab System Information and you will see the Debug Information and ErrorLog. Please right click both, select Save Target As or Save Link As (depending on the browser), to download the files, please then attach the files onto this ticket.
+
+I would probably need to await those files before I can further comment, to see error and the print failures are related.
+
+Please also check the firmware of your machine is up to date and ensure you are also running the latest Composer version. 
+You can download the latest version from here: https://www.asiga.com/accounts/software/
+
+Also the material ini files, please ensure you are using the latest files from the Asiga page.
+Regards, 

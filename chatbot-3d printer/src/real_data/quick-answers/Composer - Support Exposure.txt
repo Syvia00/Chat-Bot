@@ -1,0 +1,8 @@
+Composer Support Exposure
+ I have clarification on how the settings work, and the short version is that if you would like to expose the supports twice more than the rest of the model, and not double the build time of the entire print, you should use the multi range feature instead of simply adjusting the support exposure time.
+
+If you simply increase the support exposure time to 200%, the only way to double the dosage of light is to increase the exposure time of each layer by a factor of 2 (double the time at 100% intensity). This will apply to every layer in the range. I agree this is not the optimal way to achieve the result you want.
+
+To help you achieve the result you want, lets use the example of a 0.5mm thick baseplate, 4mm supports, and a 10mm thick model to print. On the advanced parameters page if you click on add range, you can see another column labelled 2. If you change the 'print range from' value to 4.5mm you will have separate settings to control how each of the 2 parts of the print job are exposed. This will mean you need only double part of the print time, which would be the first 4.5mm for the baseplate and supports.
+
+That way you even print the supports with a different layer thickness to the rest of the print job, any setting can be set how you want.

@@ -1,0 +1,12 @@
+PRO4K Failed to home front group
+ Hello 
+
+With the message "Failed to home front group motor" please check the following.
+
+If you remove the side panels of the printer, there are 15 white nylon tubes in 5 groups of three round the lens barrel.  These guide the lens as the focus changes, or the image size changes.
+Please check they are all in place, that none are missing.
+
+Next see the attached pictures that show the metal tang which lines up with the sensor for the front lens group home position. Please inspect, and check the metal tang is perpendicular to the lens barrel, and not bent to one side. 
+
+Finally, please turn off and unplug the printer. Then try to rotate the front part of the projector lens. It should turn about 1/4 of a turn. If it moves relatively freely, please turn the printer on again, clear the error message, and check if you can refresh the lens position without encountering any error.
+

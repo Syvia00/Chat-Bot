@@ -1,0 +1,27 @@
+Misprints & Print Defects Prints detaching
+ A failed print on your Asiga 3D printer can occur from multiple causes such as a dirty basin glass where the build tray sits, zero position calibration is out of alignment, or debris in the resin. Hollow models directly placed on the build platform can be another reason. As well as an incorrect setup in Composer (wrong material file, no base plate added to supported models, nesting issue etc). 
+
+If your print has come away from the build platform, then redo the platform calibration and validate it with a piece of paper. The most important thing is to ensure that the build platform is parallel with the basin glass, or else it can cause partial detachments. When you do the platform calibration put downward pressure on the black knob as you tighten the calibration screw, and then also use a piece of paper to check that there are no gaps under the corners of the platform while it making full contact with the basin glass, to be sure that it is perfectly parallel. Please also please stir the resin thoroughly before printing, as this too can cause issues.
+
+To help get you up and running please perform the following steps:
+
+Step 1: Clean the Resin Vat bottom:
+Max- https://support.asiga.com/maintaining-the-build-tray-max/#cleaning-the-build-tray
+4K- https://support.asiga.com/maintaining-the-build-tray-pro-4k/#cleaning-the-build-tray
+
+Step 2: Inspect and clean the basin glass where the resin vat sits while using a torchlight. Clean the glass with an optical cloth and isopropyl alcohol. Make sure the glass is streak free before continuing:
+MAX- https://support.asiga.com/maintenance-schedule-max/#cleaning-the-glass-surfaces
+4K- https://support.asiga.com/maintenance-schedule-pro-4k/#cleaning-the-glass-surfaces
+
+Step 3: Set the Zero Position Calibration and validate the calibration with a piece of paper:
+Max- https://support.asiga.com/maintenance-schedule-max/#platform-validation
+4K- https://support.asiga.com/maintenance-schedule-pro-4k/#platform-validation
+
+Step 4: Thoroughly mix the resin in the build tray every morning before starting the first print of the day, using a teflon spatula or business card:
+https://support.asiga.com/starting-a-print-max/#stirring-material
+
+Step 5: Resubmit the print job from the Asiga Composer software confirming that the correct material is selected and the objects are nested or supported properly.
+
+For us to check the printer generally, can you please send us the printer.ini file and the build log of your printer?
+
+To get these files, please open Composer, click New Build, click your target printer, then click the blue globe icon in the top right corner, a web browser will open, please go to the tab System Information and you will see the requested files. Right-click each file and click Save Target As/ Save Link As to download the text files. Please then attach the files to this ticket.

@@ -1,0 +1,52 @@
+Duplicated facets 
+
+What does the ‘duplicated facets’ error message mean & how to proceed when encountering it. 
+
+Click ‘Show Details’ 
+
+STM file error 
+
+This error message means there are overlapping supports on the model & can be ignored or discarded. 
+
+STL file errors 
+
+This means there are duplicated facets in the model itself & can only be rectified within a CAD program.Typical names for this repair function are:Mesh repairMesh healBolean repair
+Duplicated facets
+What does the ‘duplicated facets’ error message mean & how to proceed when encountering it.
+See the following image https://support.asiga.com/wp-content/uploads/2022/09/duplicated-facets.jpg
+Click ‘Show Details’
+See the following image https://support.asiga.com/wp-content/uploads/2022/09/duplicated-facets_details.jpg
+STM file error
+This error message means there are overlapping supports on the model & can be ignored or discarded.
+STL file errors
+This means there are duplicated facets in the model itself & can only be rectified within a CAD program.Typical names for this repair function are:Mesh repairMesh healBolean repair
+This means there are duplicated facets in the model itself & can only be rectified within a CAD program.Typical names for this repair function are:
+Mesh repairMesh healBolean repair
+Mesh repair
+Mesh heal
+Bolean repair
+Faulty slices 
+
+What does the ‘faulty slices’ error message mean & how to proceed when encountering it. 
+
+This error message means that the model contains multiple faulty layers.Composer will attempt to repair faulty slices but if there are too many faulty slices, unusual print outcomes can be expected.This can only be rectified within a CAD program.Typical names for this repair function are:Mesh repairMesh healBolean repair
+Faulty slices
+What does the ‘faulty slices’ error message mean & how to proceed when encountering it.
+See the following image https://support.asiga.com/wp-content/uploads/2022/09/faulty-slices.jpg
+This error message means that the model contains multiple faulty layers.Composer will attempt to repair faulty slices but if there are too many faulty slices, unusual print outcomes can be expected.This can only be rectified within a CAD program.Typical names for this repair function are:Mesh repairMesh healBolean repair
+This error message means that the model contains multiple faulty layers.
+Composer will attempt to repair faulty slices but if there are too many faulty slices, unusual print outcomes can be expected.
+This can only be rectified within a CAD program.Typical names for this repair function are:
+please launch a support ticket via the button below.
+PrevPreviousNetwork troubleshooting – PRO 4K 
+
+NextMulti-Range-featureNext
+PrevPreviousNetwork troubleshooting – PRO 4K
+Prev
+PreviousNetwork troubleshooting – PRO 4K
+Previous
+Network troubleshooting – PRO 4K
+NextMulti-Range-featureNext
+NextMulti-Range-feature
+Next
+Multi-Range-feature

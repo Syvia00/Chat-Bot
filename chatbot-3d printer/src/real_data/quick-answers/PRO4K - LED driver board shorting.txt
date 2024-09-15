@@ -1,0 +1,22 @@
+PRO4K LED driver board shorting
+ It looks like one component is causing the printer to not boot up. 
+
+Please have a look at the attached picture "heater and projector plugs". This power board is located behind the right side panel, towards the bottom of the printer.
+
+First, disconnect the 2 heater power cables on the left, circled in green and see if the printer can boot up.
+
+If it can't, re-connect the 2 heater power cables, and disconnect the 2 projector power cables on the right-hand side, circled in red. Then see if the printer can boot up.
+
+If the printer can boot up, then it will be due to an issue with the LED driver board of the projector.
+
+In addition, we need to check that no other related part has been affected.  
+
+Please see pictures 2 and 3, and check if the "Q1" chip appears to be burned out or if there is any discoloration around the chip that indicates thermal damage.
+
+Then pictures 4 and 5, when the 2 projector cables are disconnected, see if you can spot any thermal damage on the male connectors of both cables (4) or any thermal damage on the female connectors on the power board (5).
+
+Picture 6, see if there is any thermal damage around the 2 big green connectors.
+
+And lastly picture 7, see if there is any thermal damage on the black or red wire, and when you gently pull on them, that they're sitting firmly and don't have any play. 
+
+Please let us know the results and your findings, and let us know if you have any questions.

@@ -1,0 +1,27 @@
+Trays Trays getting damaged and dont last
+ Hello
+
+If you are always ensuring the tray is cleaned, and the platform is parallel to the glass, it will help to avoid the Approach Fail message. 
+
+Marks on the tray may be due to other factors; The setup and orientation of parts to be printed can be a factor. 
+
+If there is a detachment of part of the print, it can cause a mark if later printing pushes the debris into the film, or worst case, a hole.
+
+Cleaning the tray is important to do after a misprint.
+It will be necessary to clean any resin from the glass, use IPA, and a soft cloth, and then use window cleaner to remove any streaks. If the tray has developed a hole, you will need to use a new tray to continue printing.
+
+Sometimes dimples in the tray can be formed due to the suction-geometry of parts. The geometry can act as a plumber tool, which then can leave dimples in the tray. Sometimes this can be reduced by changing the orientation of the parts being printed.
+
+It is important to allow resin to flow, and to avoid trapped volume when printing. Use supports or drain holes on prints that would otherwise be an enclosed loop, to allow resin to flow well during printing, and avoid pressure build up.
+
+When using supports, be sure to use a baseplate.
+
+For us to check the printer generally, can you please give us the printer ini file?
+
+To get that file, please open Composer, click New Build, click your target printer, then click the blue globe icon in the top right corner, a web browser will open, please go to the tab System Information and you will see View Printer.ini. Right click that file and click Save Target As/ Save Link As to download the text file. Please then attach the file onto this ticket.
+
+For us to see how your print jobs are set up, please load the supported part in Composer, then go to File> Export Build, you will have a zip file you can attach to the ticket, then we can offer more specific advice about setting up the part to avoid any tray damage in the future.
+
+https://www.asiga.com/accounts/resources/PRO%204K/5%20-%20Maintenance/How%20To%20Clean%20Build%20Tray.movie
+
+Regards, 

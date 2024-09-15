@@ -1,0 +1,8 @@
+Misprints & Print Defects Print has incomplete supports
+ The picture you have sent show a range of problems, which are caused by different factors.
+
+The splitting in picture 9000 is caused by a trapped volume of resin on a hollow model. The customer had the right approach to include drain holes, but they could be larger, and lower down at the base of the model where it meets the platform.
+
+The detachment in picture 9017 is probably due to the platform calibration being incorrect. If the platform is not perfectly parallel, then the thickness of the resin can be greater in one corner, and then the curing of the first layer will not be correct. It is important to apply downward pressure on the black knob when tightening the calibration screw.
+
+In picture 9019, the supports are incomplete. Please try to make the supports 4mm long, with a spacing of 2mm, and a contact width of 0.6mm - 0.7mm.

@@ -1,0 +1,23 @@
+MAX Failed to Initialise Error
+ 
+This error message comes up if there is an issue with the microSD card causing the printer to be unable to boot.
+
+Can you try removing the Micro SD card from the motherboard, make sure that all the contacts on the card are clean, reinsert it and see if this makes a difference? 
+
+Please see the attached photos for how to access the microSD card.
+
+If the printer still doesn't boot after checking the Micro SD, then it is likely the microSD card is faulty. 
+
+Can you then remove the microSD card from the printer, and recover the printer ini file? 
+
+There is a printer ini file recovery tool attached. 
+
+You will need to put the microSD card in a card reader on a Windows PC, and then run the recovery tool.
+
+When it sees the card, it will ask where to save the printer ini file to on the PC.
+
+Please do not format any partitions, which windows may ask when the microSD card is inserted.
+
+Then attach the printer ini file to the support ticket, we will the printer ini need it to prepare a replacement Micro SD card for the printer.
+
+Regards, 

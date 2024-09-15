@@ -1,0 +1,23 @@
+MAX Instructions after alignment (detailed written)
+ You can see the video for the entire procedure here: https://myaccount.asiga.com/accounts/distributor/maintenance/MAX%20Maintenance/How%20to%20calibrate%20the%20projector%20in%20a%20MAX.movie
+
+
+1. First adjust the focus image under Maintenance> Focus, so that it's sharp and crisp
+
+2. Next you need to load the light intensity mask from the projector onto the printer. For this go to Maintenance> Service> Projector Calibration> Load Calibration
+
+3. Then you need to double check the light intensity and change if necessary. Show the projector light under Control> LED. Place the radiometer reading head on five spots on the glass: top left corner, top right corner, center, bottom left corner and bottom right corner (make sure the area is well illuminated and the radiometer head not sticking into the non-illuminated area, otherwise the light intensity will drop). Take the lowest value you have measured and change it under Maintenance> Service> LED> Calibrate Radiometer 
+
+4. Next you need to determine if the build extents have changed with that new projector. Usually the build X and Y extents will be very similar to the previous projector alignment, but there will be differences. In that case you need to print 4 corners, the file is in the samples folder, usually in the default installation folder of Composer, by default located here:
+C:\Program Files\Asiga\Composer\Samples  -> for MAX machines: corner_15mm.STL
+
+Here would be a video on the procedure. It is a bit outdated and we're using corners instead of cubes nowadays, but the principle remains the same: https://www.asiga.com/accounts/resources/PICO2/pico%20build%20extents%20calibration.movie
+
+For this calibration print, you can either use SuperCAST V3 or DentaModel, chose 50 microns layer thickness and choose a Full Base Plate. When you measure the corners, make sure the model is well rinsed with alcohol, otherwise excess resin will falsify the caliper reading. Also leave the print on the build platform, which will make it easier to measure the dimensions.
+
+Measure both sides of X and take the average, and measure both sides of Y and take the average value.
+Lastly, go into the printers web interface> Settings tab, there you will see the Build Extents. When you tick Lock Aspect Ratio (which is ticked by default), the interface will automatically give you the calculated value for Y, when you enter the average value into X (and vice versa). This can help to check if the measured Y extent is approx. correct.
+
+I would recommend to use your measured X values and stick to the recommended Y value given by the interface
+
+5. Last step, because the the light intensity and the build extents are directly related, re-measure the light intensity under Control> LED and change the value under Maintenance> Service> LED> Calibrate Radiometer if necessary

@@ -1,0 +1,23 @@
+Composer DME files
+ We currently have DME files for 3Shape, Exocad, and Dental-Wings, you can download the files from the Software tab in your Asiga account, here is the direct link: https://myaccount.asiga.com/accounts/#tab_software
+
+If you are looking for DME files for non-Asiga resins, please check with the resin manufacturer if the resin has been validated with the Dental-design software, and if there is a DME file available.
+
+
+STAFF NOTE:
+Resin needs to be validated by 3shape
+Ours was, if we have the DME file for it
+
+Vasthu Syahbani: 
+-I believe the resin maker would approach 3shape if they wish to validate their material
+- 3shape will provide test / sample files to be printed and sent to 3shape
+- the process above may occur many times
+- ultimately the goal is to fine-tune the 3shape export parameters to yield accurate printing results
+
+(9:17:31 AM) Phillip Wylie: if dme files exist for a resin, to help 3 shape size parts optimally, then the dme files should presumably be with the resin supplier?
+(9:17:51 AM) Vasthu Syahbani: I suppose either party can host it
+(9:18:07 AM) Vasthu Syahbani: DME files are to be loaded into the 3Shape program
+
+(9:19:46 AM) Vasthu Syahbani: okay so a quick search for example with Straumann
+https://www.straumann.com/ca/en/dental-professionals/products-and-solutions/cares-digital-solutions/cares-connectivity/third-party-systems/3shape.html
+(9:19:59 AM) Vasthu Syahbani: looks like they allow people to download it from their website

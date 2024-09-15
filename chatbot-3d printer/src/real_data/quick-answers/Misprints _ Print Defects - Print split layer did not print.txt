@@ -1,0 +1,30 @@
+Misprints & Print Defects Print split layer did not print
+ Splitting like this can be due to having not enough resin in the tray. It is recommended to have the tray 1/2 to 3/4 full when printing, to help resin to flow under the print job as it prints. If the customer disables separation detect, the platform will be raised more between layers, which can help with this issue, but it is best to ensure there is plenty of resin in the tray before starting printing.
+
+Also, trapped volume can play a part in this splitting. As these are hollow models, please ensure that the supports are 4mm high, which will help to allow resin to flow as the part is being printed, to avoid pressure build up. An alternative is to use drain holes for hollow parts, which allows them to be printed without supports and a baseplate.
+
+Please let us know if any further help is needed.
+
+Regards,
+
+
+The delamination you have can be caused by a few things. Trapped volume is the biggest culprit, please try to place the drain hole lower down on the model. In fact, you could try to remove the supports, and the base plate, and then add drain holes to the bottom of the model. Place the model directly on to the build platform. This will give good adhesion. If you have drain holes, then the resin can flow and will not be trapped, and so you print results will improve.
+
+Also, please be sure to use plenty of resin in the tray, at least 1/2 but preferably 3/4 full.
+Additionally, for testing, you can try to turn off the fast print and separation detect options. Particularly the separation detect being turned off will mean that the platform will move further away from the glass between printing layers, and then you are guaranteed to have the resin flow underneath the model, and this will reduce the possibility of the layer not being printed properly.
+
+Please let us know if this helps, and if you have any further questions.
+
+Regards,
+
+This looks rather like an issue with trapped volume and suction effect, delaminating the layers of the model.
+
+Could you please send us the model as you sent it to the printer?
+To do so, please load the model into Composer, click FILE> EXPORT BUILD, this will create a ZIP file, please then attach the ZIP file onto this ticket.
+
+I can see that you have added drain holes onto your models, but ideally the drain holes should be at the base of the model, so that air and resin can escape at any time. Please see attached pictures for comparison. 
+
+Have you been using the Fast Print Mode and Separation Detect for those prints?
+When you use both features, do you ensure to have enough resin in the build tray, we would recommend to fill it up at least half way, better 3/4, so there is no issue with resin-flow-back.
+
+You could try to run the print without fast print mode and separation detect and see if this makes a difference and if you can see the same defects on the printed models.

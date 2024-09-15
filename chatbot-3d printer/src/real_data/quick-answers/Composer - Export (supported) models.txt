@@ -1,0 +1,2 @@
+Composer Export (supported) models
+ To do so, have the (fully supported) models nested in Composer, then in the top left corner of Composer, click FILE> EXPORT BUILD, this will generate a ZIP file, please then attach the ZIP to this ticket. 

@@ -1,0 +1,16 @@
+General General Questions
+ To give you some proper advice and be able to solve your problem we will need as much information as possible:
+
+1. Which material (+batch number) are you using?
+2. Which INI File are you using (+where did you get it from)?
+3. Is Composer at latest version?
+4. Is Firmware at latest version?
+5. What were the conditions of your last successful print?
+6. What changed in between (hardware, software, material)?
+7. Please export and attach the Debuglog, Errorlog and Printer.ini
+(-go to the web interface of the printer (in composer the little blue "world" icon)
+-then go to systeminformation tab
+-then right click on Debuglog and save as "debuglog.txt"
+-do the same for the Buildlog, Errorlog and printer.ini
+(depending on your language setting they might be called different, but are highlighted in light blue and found below the "Printer System time: ...")
+8. Please export and attach the print you are trying to print.

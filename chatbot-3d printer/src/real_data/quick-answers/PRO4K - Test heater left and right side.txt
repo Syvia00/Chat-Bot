@@ -1,0 +1,18 @@
+PRO4K Test heater left and right side
+ Hello, 
+
+Thanks for narrowing down the issue to the heating circuit.
+
+If the printer is otherwise functioning when the heaters are unplugged, its ok to continue to use it without the heater plugged in, as long as the resin is not requiring a high temperature to lower its viscosity, or for some other reason.
+
+There is a heater control board and heat element on each side of the printer, it would be good to work out which side the fault is on.
+
+Turn the printer off, then plug in bottom heater plug on the power board at the bottom of the printer. This should be for the left hand side heater. Then turn the printer on, and test if the heater causes any shutdown issue, when only the left side (bottom heater cable and plug) is plugged in. 
+
+If it runs ok, turn the printer off, unplug the bottom plug, and plug in the other cable into the top position. This is for the right side. Then turn the printer on, and test if the heater causes any shutdown issue, when only the right side (top heater cable and plug) is plugged in. 
+
+This will help us establish that the issue is only on one side of the printer, and provide a way for the customer to still have some heating function while waiting for the spare parts. 
+
+Please let us know the testing results.
+
+Regards, 

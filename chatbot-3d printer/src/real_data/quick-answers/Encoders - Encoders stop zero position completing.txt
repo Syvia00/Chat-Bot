@@ -1,0 +1,25 @@
+Encoders Encoders stop zero position completing
+ If there are issues performing the platform calibration that stop it proceeding past the detecting step the encoders may not be responding properly.
+
+Is the printer near any vibrating machine, such as a milling machine? if so the vibrations may be upsetting the encoders.
+
+Ensure the printer is in a place free of vibrations. Then, if you go to Maintenance> Position Encoders> Zero Position Encoders, with the platform raised, and the resin tray removed, does the zeroing the encoders return the blue dot to the middle for a while?
+If so, the behaviour is normal, you can then press on each corner of the basin in turn, and the blue dot will move to the appropriate corner. Then zero again.
+
+If the encoders are immediately causing the blue dot to jump around after zeroing, then you should remove the basin and inspect the encoders for any issues, eg foreign objects, or a resin spill.
+
+Then perform the encoder calibration, as shown in the max manual, starting at page 56.
+
+https://myaccount.asiga.com/accounts/resources/MAX/1%20-%20Quick%20Start%20Guide/MAX%20User%20Guide%2020210712.pdf
+
+Please let us know if there are an issues with this.
+
+Do you have the calibration weight to perform this process?
+
+For us to check the printer generally, can you please give us the printer ini file?
+
+To get that file, please open Composer, click New Build, click your target printer, then click the blue globe icon in the top right corner, a web browser will open, please go to the tab System Information and you will see View Printer.ini. Right click that file and click Save Target As/ Save Link As to download the text file. Please then attach the file onto this ticket.
+
+Also, if you recalibrate the encoders, please send the updated printer ini file for us to check.
+
+Regards, 

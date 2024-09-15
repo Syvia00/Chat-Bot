@@ -1,0 +1,18 @@
+Encoders Calibrate Encoders
+ Please go to Maintenance> Service> Position Encoders> Calibrate Position Encoders.
+
+Enter the weight, but please do not have the weight on any of the encoders, just have the basin removed. 
+
+Then after entering the value for the weight, the printer will ask for the weight to be placed on each of the encoders in turn, front left, front right, back right, back left. Press the screen gently so as not to disturb the weight reading much.
+
+After doing this, remove the weight, and zero the encoders. Then test each of them by putting pressure on each of them in turn. The blue dot should go to each respective corner and return to the centre.  After checking, you can zero again. Replace the basin, ensure screws are tight, and zero again.
+
+Also it is necessary to perform the deflection calibration.
+
+These procedures are in the max manual, starting at page 56.
+
+https://www.asiga.com/accounts/resources/MAX/1%20-%20Quick%20Start%20Guide/MAX%20User%20Guide%2020210712.pdf
+
+Turn the printer off, then on, and then please send the updated printer ini for us to check.
+
+Regards, 

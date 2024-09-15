@@ -1,0 +1,25 @@
+MAX Heater issues
+ The heater in the Max printer can get to about 10 degrees C above ambient. The heater is tested to reach temperatures of about 35C degrees.
+
+For your better understanding, Asiga has tested the impact of temperature on a range of different resins and found it is not as critical, meaning Asiga has reduced the printing temperature for most resins down to 28C or 26C, or disabled it entirely.
+
+Which resin are you using?
+Most resins will print well in the 20 C - 30 C range. Please consider the instructions for the resin you are using. The range of acceptable temperatures for printing most resins is very broad. This means that temperature is not so critical, usually it is only required to be above a certain temperature, that is, to take the chill off the resin if you are in a very cool environment. 
+
+The best option to maintain a temperature suitable for printing is by manually turning on the heater, under Settings> Temperature.  Usually you can skip the heating process, especially if the ambient temperature is mid 20s and you will still get excellent results.
+
+Although the material.ini file suggests a temperature of 40C, this would in most of the cases not be necessary, lower temperatures will have a similar impact.
+
+We could either send you a replacement heater board and heater element to exchange in this machine, but even then we cant assure the printer will reach temperatures greater than 35C. You might consider explaining to the customer the situation and that for future prints the heat-up process can be skipped once the printer reaches 26C or 30C degrees.
+
+It could be due to lower ambient temperatures, the heater is tested to reach temperatures of about 35 degrees C, but in lower ambient temperatures can only heat so much above room temperature. It is only meant to heat a little above ambient to reduce viscosity of thick resins a little.
+
+Some resellers have a cover to insulate the printer, which helps keep it warm in particularly cold environments: https://www.protoproducts.com/store/Build-Envelope-Temp-Stabilizer-p129584988
+
+The printer, when it says 29.9C, is very close to the target and it may have just switched off for a little while to avoid overshooting. In practical terms, the sensor is at 30C. This is within normal parameters for margin of error and it has no effect on operation.
+
+The temperature will usually vary a little in the build chamber, which is normal and the temperature of the resin itself will often be a little different again. Fortunately, exact temperature control is almost always not needed for successful printing.
+
+Please let us know if you have any further questions.
+
+Regards

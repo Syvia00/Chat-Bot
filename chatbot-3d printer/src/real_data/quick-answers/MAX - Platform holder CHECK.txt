@@ -1,0 +1,6 @@
+MAX Platform holder CHECK
+ It is possible that the build platform holder can lose grip, usually due to consistent over-tightening over the years. Please ensure to exactly follow the instructions as seen in this calibration video to not overtighten the calibration screw and wear out the barrel nut and calibration screw: https://support.asiga.com/maintenance-schedule-max/#platform-calibration
+
+To test if the platform holder has possibly lost grip, place one hand around the build platform while it's installed in the machine, and while applying moderate force, see if you can tilt the build platform left and right or front and back. Left-right movement is usually not done easily, so if you can do it, means the holder has lost grip. A front-to-back movement is done a bit more easily with enough force.
+
+Please also remove the build platform and take a close-up photo from each side of the platform holder, to see if the holder is possibly slightly bent.

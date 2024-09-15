@@ -1,0 +1,26 @@
+Encoders Encoder Faulty
+ Hello 
+
+If the rear right encoder is not responding, the cause of the issue may be that the encoder is faulty, or possibly the board is faulty and not working with the encoder plugged in that receptacle (2).
+
+Can you please temporarily swap the two rear encoders where they plug into the board, and see if the rear right encoder will respond when plugged into the other position on the encoder board? This will help to determine if it is the encoder or the encoder board that is at fault.
+
+Perform the calibration as a way of checking the encoder.
+
+If the back right encoder 2 responds when plugged into the other receptacle 3, then the issue would be the board, not the encoder.
+
+However, if the back right encoder does not respond regardless of which receptacle it is plugged into, then the issue will be the encoder, not the board.
+
+Also, inspect the wires going into the plug, that none are broken.
+
+The encoder calibration is shown in the max manual, starting at page 56.
+
+https://www.asiga.com/accounts/resources/MAX/1%20-%20Quick%20Start%20Guide/MAX%20User%20Guide%2020210712.pdf
+
+Please let us know your testing results, and we will arrange to send the correct repair part to you.
+
+Regards, 
+
+Also, there is a no-return fee of $350USD for the exchange board which does not need to be paid unless the board is not returned within 30 days. Once we receive the faulty board back, we will remove the no-return fee.
+
+Please let us know if you require further help or have any questions.

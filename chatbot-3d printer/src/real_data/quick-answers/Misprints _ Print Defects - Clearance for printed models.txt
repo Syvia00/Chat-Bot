@@ -1,0 +1,7 @@
+Misprints & Print Defects Clearance for printed models
+ As for the clearance/cement gap that I mentioned above, this can vary from software to software.
+I know for example that Exocad requires a clearance of 20 microns and 3Shape calls it cement gap, and requires a gap of 30 microns (or 0.030mm).
+
+Since Asiga doesnt use any CAD/CAM program here in-house, were unfortunately not able to guide you through your software. But seeing that 3Shape is working together with Asiga, perhaps you could contact 3Shape to ask what cement gap would be necessary and where to adjust it.
+You could also ask them about the DME file, which can be downloaded from the Asiga page here: https://www.asiga.com/accounts/resources/Software/3Shape/
+This DME file can be imported into the 3Shape software and should have all default clearances already set for Asiga resins.

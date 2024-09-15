@@ -1,0 +1,25 @@
+MAX Encoder blue dot jumping
+ To check the general printer and encoder settings, can you please send us the printer.ini of this machine?
+
+To get that file, please open Composer, click New Build, click your target printer, then click the blue globe icon in the top right corner, a web browser will open, please go to the tab System Information and you will see View Printer.ini. Right-click that file and click Save Target As/ Save Link As to download the text file. Please then attach the file to this ticket.
+
+Further on, whenever you zero the encoders, is it always the same encoder [ENCODER NUMBER] that causes the issue? 
+Does the dot always move to the [DIRECTION DOT MOVES] corner after you zero the encoders repeatedly?
+
+The question is whether the issue is with the actual encoder or with the connector on the encoder board.
+
+1. It's possible that the wires on the encoder either are not inserted far enough or are inserted too far so the insulation prevents a reliable reading or one of the wires could be damaged or broken.
+So you can disconnect that encoder from the board and have a close look at all the wires, and check for the above. 
+Please see attached pictures. 
+Picture 02 shows what it looks like when a wire is inserted too deep (red wire). Picture 04 shows how the wires are all seating properly.
+If you want to reseat the wires, insert a thin object as seen in picture 03 to open the contacts and reseat the wire.
+
+In your case, you need to inspect encoder [ENCODER NUMBER].
+
+
+2. If you still have issues, you can swap around 2 encoders on the encoder board, for example encoders [AFFECTED ENCODER AND OTHER ENCODER].
+Then go back to the encoder menu and zero the encoders repeatedly, and see if the encoder still moves to the [DIRECTION] corner, or if the dot starts moving to the [DIRECTION] corner.
+
+- If the encoder starts moving to the [DIRECTION] corner, then the issue is with the actual position encoder and we can send a replacement
+
+- If after swapping the encoders, the dot still moves to the [DIRECTION] corner, then the issue is with the connector on the encoder board, and we will need to exchange the encoder board

@@ -1,0 +1,24 @@
+PRO4K Turns on randomly
+ Please check with the red switch on the rear panel on and the printer turned off by the front panel.
+
+Remove the right side panel, and unplug the power switch as shown in the picture.
+
+If the printer turns on when the button is unplugged, we will know it is not due to the button, as it is removed as a factor. 
+
+If after a few nights testing like this, e.g over the weekend, it is clear that having the button unplugged prevents the random starting issue, then the culprit will probably be the power button.
+
+Would it be possible for you to provide a photo of the button for us to check? Thanks.
+
+Please let us know your testing results.
+
+Regards
+
+This case has been raised with the management and the engineers.
+Asiga is aware of this occurrence and is working on a solution, which will not be immediate but will come.
+
+For the time being, please rest assured that there will be no safety concerns if this happens.
+But at the moment we cant offer a fix to this occurrence.
+
+We can only suggest if you don't use the printer overnight or during the weekend, to switch off the power at the back of the machine, so the printer doesn't turn on by itself.
+
+Regards

@@ -1,0 +1,35 @@
+Misprints & Print Defects Print not sticking to build platform
+ Hello ,
+
+It is important to be sure that the platform is perfectly parallel to the glass, as if it is crooked, then the part further away will have attachment problems.
+
+https://www.asiga.com/accounts/resources/PRO2/Zero%20Position.movie
+
+If your print has come away from the build platform, then the platform calibration probably needs to be done again. The most important thing is to ensure that the build platform is parallel, as if it is not, it can cause partial detachments as you describe. When you do the platform calibration put downward pressure on the black knob as you tighten the calibration screw, and then also you can use a piece of paper to check that there are no gaps under the corners of the platform to be sure that it is perfectly parallel. Please also please stir the resin thoroughly before printing, as this too can cause issues.
+
+If your print is still not sticking to the build platform, you can increase the adhesion of the first few layers by adjusting the burn in exposure time. Please add 30 seconds to whatever you are using now, and the initial layers will take a bit longer to print, but will be more firmly cured. If it still doesn't stick, add another 30 seconds.
+
+This should prevent the print detaching midway through printing.
+
+Increasing the burn in exposure is a bit of a workaround. The default should work, but a non parallel platform may be the underlying cause.
+
+A failed print on your Asiga 3D Printer can occur from multiple causes such as a dirty glass where the resin vats sits, zero position calibration is out of alignment, or even debris in the resin. 
+
+To help get you up and running please perform the following steps:
+
+Step 1: Clean the Resin Vat Bottom
+Asiga Max- https://www.youtube.com/watch?v=i5Ed6t5njcg
+
+Step 2: Clean the Glass Optics where the resin vat sits. Do this using a soft paper towel and isopropyl alcohol. Make sure the glass is streak free before continuing. https://www.youtube.com/watch?v=YgfsFpGwpak
+
+Step 3: Set the Zero Position Calibration
+Asiga Max- https://www.youtube.com/watch?v=xb1uFDrJLEM
+
+Step 4: Confirm the Zero Position is Correct
+Asiga Max- https://www.youtube.com/watch?v=FZFNrLsO0hY
+
+Step 5: Resend the print job from the Asiga Composer software confirming that correct material is selected and the objects are supported properly.
+
+Please let us know if you need any more help.
+
+Regards, 

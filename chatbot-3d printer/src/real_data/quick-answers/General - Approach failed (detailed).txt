@@ -1,0 +1,23 @@
+General Approach failed (detailed)
+ The approach fail message is usually caused by debris in the resin, or not aligning the platform parallel to the glass. Please see the following common reasons for this message.
+
+1. Incorrect build platform calibration/ calibration screw is too loose.
+2. Debris/ layers stuck to the bottom of the tray from a previous print, so the build platform can't reach its target position
+3. Parts of the model or the entire model detached from the build platform during print, for example due to insufficient support structures or incorrect exposure times for the resin, preventing the platform to reach its target position
+
+To 1: Please repeat the build platform calibration and verify the correct platform position with the help of the position encoders. Please find attached PDF file for your reference.
+As for the calibration screw, we would recommend to tighten the screw until you feel its biting, then turn the screw by another half turn or full turn if you can. Or if you have a torque wrench, you can try 2.5 - 3 newton meter. When doing the platform calibration, put downward pressure on the black knob as you tighten the calibration screw, to be sure that the platform stays parallel.
+
+To 2: Ensure the bottom of the build tray is clear and free of any debris or layers. You can use following method to clean out the build tray: https://myaccount.asiga.com/accounts/resources/MAX/3%20-%20General/How%20to%20clean%20Build%20Tray.movie
+
+To 3: It could be related to the supports or the model, please let us know which resin exactly youre using. Please also send us the fully supported build file (if any supports have been used) and attach it to this ticket. The best way would be to load the (fully supported) models into Composer, click File> Export Build, this will create a ZIP file, please then attach the ZIP file into this ticket
+
+
+4. Another factor could be the Suction cup effect/ Trapped volume, means cavities which increase the approach and separation forces. In this case the orientation needs to be changed, drain holes added onto the base of the model or using support structures to avoid trapped volumes
+
+5. Using FAST PRINT MODE and not having enough resin in the build tray. In that case we need to ensure that _at least_ have the build tray is 1/2 filled with resin, even better 3/4.
+
+6. Please ensure the printer is not sitting next to a vibrating source such an ultra sonic unit, a compressor, air condition or similar, as this will interfere with the position encoders of the machine.
+
+
+If you clean the tray, and perform the platform calibration, you should be able to print again.

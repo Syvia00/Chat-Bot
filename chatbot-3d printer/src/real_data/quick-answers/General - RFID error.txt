@@ -1,0 +1,12 @@
+General RFID error
+ Hello ,
+
+Did the RFID error only happen once, or has it happened repeatedly? Also, If only one tray is causing this issue, then the fault would be the tag on on the tray. If this problem reoccurs with multiple trays, then the reader in the printer could be the culprit. 
+
+Can you please test with other trays to help determine where the problem lies?
+
+If you go in the menu to System > Tray data, you will be able to see when the printer reads the tray. Then you could swap in and out a few times with some other trays to test.
+
+Please get back to us with your testing results.
+
+

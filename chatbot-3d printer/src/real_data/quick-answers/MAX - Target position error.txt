@@ -1,0 +1,6 @@
+MAX Target position error
+ With the Target position error, the printer thinks the platform is in a different place to where it is.
+
+When you zero the platform, tighten the black knob, loosen the calibration screw, and move the platform down until it just touches the glass. Then move it just a little further. NB Do not move the platform down ALL the way when you move it down. Then put pressure on the black knob and tighten the calibration screw. Next ask the printer to detect the zero position.
+
+It is possible the printer gets confused when you try to zero it if you move the platform as far as it can go before tightening the calibration screw.

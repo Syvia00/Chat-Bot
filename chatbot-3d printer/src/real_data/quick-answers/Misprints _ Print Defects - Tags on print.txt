@@ -1,0 +1,16 @@
+Misprints & Print Defects Tags on print
+ Hello,
+
+Thanks for the photo.
+
+The cause of the extra cured material is due to light scattering, this is typical for a dirty optical light path. What happens when the light path is dirty is that the "smudges" will scatter the projector light and will cure areas which are not supposed to be cured.
+
+In this case please take a torch light or the light from your smart phone and shine it onto the glass from different angles to detect any smudges, there should be no streaks, resin residue or smears, fingerprints, dust or any other "smudges". You can clean the glass with IPA alcohol and a soft, lint free cloth or optical cloth and give it a final wipe with window cleaner. Afterwards we recommend to check the glass with the torch light one last time.
+
+See the video on this page:
+MAX: https://support.asiga.com/maintenance-schedule-max/#cleaning-the-glass-surfaces
+PRO4K: https://support.asiga.com/maintenance-schedule-pro-4k/#cleaning-the-glass-surfaces
+
+Please then run a print and see if the skinning disappears.
+If it's still there, then it's possible the mirror below the basin with glass is too dirty, or there is something on the bottom of the tray, or there are already skins and tags floating in the resin.
+To check the mirror, you can shine straight down through the glass into the mirror and see if you can see a thicker layer of dust.

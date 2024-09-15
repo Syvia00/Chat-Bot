@@ -1,0 +1,29 @@
+Uncategorised New User workflow
+ Please contact your reseller first for introduction and setting up your printer. 
+
+In addition, you can have a look at the Asiga Support Center for some further information and details:
+https://support.asiga.com/
+
+Have a look at this page on how to unbox and install the printer, under the section "Setting up the PRO 4K" / "Setting up the MAX"
+MAX: https://support.asiga.com/max/
+PRO4K: https://support.asiga.com/pro-4k/
+
+Then have a look at section "Printing on the PRO 4K" / "Printing on the MAX":
+MAX: https://support.asiga.com/starting-a-print-max/
+PRO4K: https://support.asiga.com/starting-a-print-pro-4k/
+
+If you're using third-party resins, you can download the material.ini files (material settings) from the Asiga material library:
+https://myaccount.asiga.com/accounts/#tab_material
+
+Connect the printer to your local network using a Wired network, Wireless network, or Wireless direct, in the printers Menu> Settings.
+
+Ensure the build platform calibration has been done and validated with a piece of paper, as seen in this video:
+MAX: Calibration: https://support.asiga.com/maintenance-schedule-max/#platform-calibration
+MAX: Validation: https://support.asiga.com/maintenance-schedule-max/#platform-validation
+PRO4K: https://support.asiga.com/maintenance-schedule-pro-4k/#platform-validation
+
+Fill enough resin into the build tray, at least to the Resin Level indicator in the build tray, and ensure the resin is well mixed before starting a new print: https://support.asiga.com/starting-a-print-pro-4k/#stirring-material
+
+Then you can then setup and submit the print job from Composer.
+
+Please let us know if you have any further questions.

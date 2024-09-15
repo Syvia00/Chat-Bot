@@ -1,0 +1,28 @@
+MAX X Reset power level
+ In the printer ini file above, the values are
+
+Platform Intensity=
+Platform Intensity Adjusted=
+Power Level=
+
+To fix this, please go to Maintenance> Service> LED> Power level and set it to 100%
+
+Then go to Maintenance> Service> LED> calibrate radiometer, and set it to 17.54, which is what it was before.
+
+Then go to Maintenance> Service> LED> Power level and set the percentage down until the reading is 12.02.
+
+This is what the printer was set to when it left the factory. These settings put the output back to 12.02, which should work well.
+
+Then send us printer ini again please, so we can check the changes.
+
+Please let us know if you need any further help.
+
+
+The factory value of the LED in your projector should be ~36.2mW, but your printer thinks it has a light intensity of 30mW. This could lead to an incorrect calculation of the exposure times and therefore leading to failed prints.
+
+We can fix that and see if this makes a difference.
+First please go to Maintenance> Service> LED> Power Level and increase the power level back to 100%
+Then go to Maintenance> Service> LED> Calibrate Radiometer, and enter the value of 36.2mW and save it.
+Now go back to Maintenance> Service> LED> Power Level and reduce the power, so you can see a light intensity of around +-30mW and save it. Then upload a new job and see if this makes any difference.
+
+Best regards, 

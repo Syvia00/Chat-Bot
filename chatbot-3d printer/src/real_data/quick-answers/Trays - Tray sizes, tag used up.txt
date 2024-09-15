@@ -1,0 +1,21 @@
+Trays Tray sizes, tag used up
+ Hello ,
+
+Over time the trays wear, and need to be changed for printing reliability.
+The chip runs out to be sure that the customer will frequently change to a new tray with no wear or damage.
+
+Asiga sells trays with different capacities for the max (1L, 2L, 5L, and 10L). If your customer is confident that they can print a lot without causing damage to the tray, then you can offer to sell them a tray that will print for longer.
+
+Most customers choose to print with 1L trays because they are never sure when a setup issue might cause damage to a tray. There is always a risk that if a high capacity tray is accidentally damaged, that it will not be possible to use all of the capacity of the tray.
+
+It is important to use a tray with no defects, and changing the tray regularly is a way of ensuring this. If a tray looks worn out, then it is potentially going to affect the quality of the printing, since damage could cause printing problems, or worse, a leak of resin.
+
+If you would like to order the 2L, 5L or 10L trays, please contact orders@asiga.com.
+
+Regards, 
+
+
+Please consider, once you purchased the Asiga printer, you don't have any other ongoing costs, such as service or warranty fees, software license fees, parts that wear out overtime or any other hidden costs, compared to some other manufacturers. The only costs that you have are for consumables, resin and build trays. And even for the resin, Asiga is fully open source, meaning you can use any suitable third party resin, and would not be locked to Asiga resins only.
+
+You will see the lifetime of the build tray after having finished a print, displayed on the front screen in percent, once the tray reaches 100%, the lifetime would be expired.
+You can also manually verify the RFID tag, by placing the build tray into the machine and then go to the printers Menu> System> Tray Data.

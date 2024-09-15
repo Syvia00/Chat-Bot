@@ -1,0 +1,547 @@
+Part setup for Dentistry 
+
+Below is a guide to help optimise print accuracy and accuracy for a range of dental appliances.
+Part setup for Dentistry
+Below is a guide to help optimise print accuracy and accuracy for a range of dental appliances.
+DentaMODEL
+With its high accuracy and excellent surface detail, Asiga DentaMODEL is the ultimate material for 3d printing crown and bridge removable die models and implant analogue models. With its stone-like almond colour, you will quickly be able to find margin lines and view crisp anatomical details with ease.						
+
+How to manufacture a Dental Model
+
+Indication listRecommended Layer ThicknessRecommended Part Orientation
+
+Crown and Bridge Models50 µmHorizontal
+
+Dental Implant models50 µmHorizontal
+
+RPD and Denture Models50 µmHorizontal
+
+Diagnostic Wax-up Models100 µmVertical
+
+Study models100 µmVertical
+
+Dental Thermoforming models100-150 µmVertical
+
+Part Orientation 
+
+Part orientation will determine how many parts you can get on a single build.More importantly it will also be a factor in achieving the highest accuracy.Horizontal orientations will produce higher precision. 
+
+HorizontalCrown and Bridge ModelsDental Implant ModelsRPD and Denture Models 
+
+VerticalStudy ModelsDiagnostic Wax-up ModelsDental Thermoforming Models 
+
+Design tips 
+
+Hollow ModelsMake sure hollow models have drain holes at the base of the models to prevent volumetric pressures from occuring.Learn more here >Hollow models can still carry a lot of liquid resin in their cavities after printing. Especially with higher viscous materials. This can lead to increased cleaning efforts and quicker contamination of your cleaning solution.Consider printing solid models over hollow models for process optimisation.Always use the appropriate design settings, which can be found here >
+DentaMODEL
+With its high accuracy and excellent surface detail, Asiga DentaMODEL is the ultimate material for 3d printing crown and bridge removable die models and implant analogue models. With its stone-like almond colour, you will quickly be able to find margin lines and view crisp anatomical details with ease.
+DentaMODEL
+See the following image https://support.asiga.com/wp-content/uploads/2023/06/Asiga-DentaMODEL-web.jpg
+How to manufacture a Dental Model
+Indication listRecommended Layer ThicknessRecommended Part Orientation
+
+Crown and Bridge Models50 µmHorizontal
+
+Dental Implant models50 µmHorizontal
+
+RPD and Denture Models50 µmHorizontal
+
+Diagnostic Wax-up Models100 µmVertical
+
+Study models100 µmVertical
+
+Dental Thermoforming models100-150 µmVertical
+Indication listRecommended Layer ThicknessRecommended Part Orientation
+Indication list
+Recommended Layer Thickness
+Recommended Part Orientation
+Crown and Bridge Models50 µmHorizontal
+
+Dental Implant models50 µmHorizontal
+
+RPD and Denture Models50 µmHorizontal
+
+Diagnostic Wax-up Models100 µmVertical
+
+Study models100 µmVertical
+
+Dental Thermoforming models100-150 µmVertical
+Crown and Bridge Models50 µmHorizontal
+Crown and Bridge Models
+50 µm
+Horizontal
+Dental Implant models50 µmHorizontal
+Dental Implant models
+RPD and Denture Models50 µmHorizontal
+RPD and Denture Models
+Diagnostic Wax-up Models100 µmVertical
+Diagnostic Wax-up Models
+100 µm
+Vertical
+Study models100 µmVertical
+Study models
+Dental Thermoforming models100-150 µmVertical
+Dental Thermoforming models
+100-150 µm
+Part Orientation
+Part orientation will determine how many parts you can get on a single build.More importantly it will also be a factor in achieving the highest accuracy.Horizontal orientations will produce higher precision.
+HorizontalCrown and Bridge ModelsDental Implant ModelsRPD and Denture Models
+Crown and Bridge ModelsDental Implant ModelsRPD and Denture Models
+Dental Implant Models
+See the following image https://support.asiga.com/wp-content/uploads/2022/10/dentamodel-horizontal.jpg
+VerticalStudy ModelsDiagnostic Wax-up ModelsDental Thermoforming Models
+Study ModelsDiagnostic Wax-up ModelsDental Thermoforming Models
+Study Models
+Dental Thermoforming Models
+See the following image https://support.asiga.com/wp-content/uploads/2022/10/dentamodel-vertical.jpg
+Design tips
+Hollow ModelsMake sure hollow models have drain holes at the base of the models to prevent volumetric pressures from occuring.Learn more here >Hollow models can still carry a lot of liquid resin in their cavities after printing. Especially with higher viscous materials. This can lead to increased cleaning efforts and quicker contamination of your cleaning solution.Consider printing solid models over hollow models for process optimisation.Always use the appropriate design settings, which can be found here >
+Hollow Models
+Make sure hollow models have drain holes at the base of the models to prevent volumetric pressures from occuring.Learn more here >Hollow models can still carry a lot of liquid resin in their cavities after printing. Especially with higher viscous materials. This can lead to increased cleaning efforts and quicker contamination of your cleaning solution.Consider printing solid models over hollow models for process optimisation.Always use the appropriate design settings, which can be found here >
+Make sure hollow models have drain holes at the base of the models to prevent volumetric pressures from occuring.Learn more here >Hollow models can still carry a lot of liquid resin in their cavities after printing. Especially with higher viscous materials. This can lead to increased cleaning efforts and quicker contamination of your cleaning solution.Consider printing solid models over hollow models for process optimisation.
+Make sure hollow models have drain holes at the base of the models to prevent volumetric pressures from occuring.Learn more here >
+Learn more here >
+Hollow models can still carry a lot of liquid resin in their cavities after printing. Especially with higher viscous materials. This can lead to increased cleaning efforts and quicker contamination of your cleaning solution.Consider printing solid models over hollow models for process optimisation.
+Always use the appropriate design settings, which can be found here >
+here >
+DentaFORMAsiga DentaFORM is a high heat resistant material with unique ‘Anti-Stick’ surface release chemistry making it perfect for vacuum and pressure thermoforming. Asiga’s ‘Anti-Stick’ formula resists sticking to the heated substrate allowing you to remove the formed appliance without breakage to the model or appliance. 
+
+How to manufacture a clear aligner
+
+Indication listRecommended Layer ThicknessRecommended Part Orientation
+
+Clear Aligners50-150 µm, depending on desired surface detailHorizontal/Vertical
+
+Night Guards50-150 µm, depending on desired surface detailHorizontal/Vertical
+
+Splints50-150 µm, depending on desired surface detailHorizontal/Vertical
+
+Sportsguards50-150 µm, depending on desired surface detailHorizontal/Vertical
+
+Part Orientation 
+
+Part orientation will determine how many parts you can get on a single build.More importantly it will also be a factor in achieving the highest accuracy.Horizontal orientations will produce higher precision. 
+
+Design tips 
+
+Hollow ModelsMake sure hollow models have drain holes at the base of the models to prevent volumetric pressures from occuring.Learn more here >Hollow models can still carry a lot of liquid resin in their cavities after printing. Especially with higher viscous materials. This can lead to increased cleaning efforts and quicker contamination of your cleaning solution.Consider printing solid models over hollow models for process optimisation.Always use the appropriate design settings, which can be found here >A Flat surface at the “heels” of the model will help create a flat surface for printing in vertical orientation.
+DentaFORMAsiga DentaFORM is a high heat resistant material with unique ‘Anti-Stick’ surface release chemistry making it perfect for vacuum and pressure thermoforming. Asiga’s ‘Anti-Stick’ formula resists sticking to the heated substrate allowing you to remove the formed appliance without breakage to the model or appliance.
+DentaFORM
+Asiga DentaFORM is a high heat resistant material with unique ‘Anti-Stick’ surface release chemistry making it perfect for vacuum and pressure thermoforming. Asiga’s ‘Anti-Stick’ formula resists sticking to the heated substrate allowing you to remove the formed appliance without breakage to the model or appliance.
+See the following image https://support.asiga.com/wp-content/uploads/2023/06/Asiga-DentaFORM-web.jpg
+How to manufacture a clear aligner
+Indication listRecommended Layer ThicknessRecommended Part Orientation
+
+Clear Aligners50-150 µm, depending on desired surface detailHorizontal/Vertical
+
+Night Guards50-150 µm, depending on desired surface detailHorizontal/Vertical
+
+Splints50-150 µm, depending on desired surface detailHorizontal/Vertical
+
+Sportsguards50-150 µm, depending on desired surface detailHorizontal/Vertical
+Clear Aligners50-150 µm, depending on desired surface detailHorizontal/Vertical
+
+Night Guards50-150 µm, depending on desired surface detailHorizontal/Vertical
+
+Splints50-150 µm, depending on desired surface detailHorizontal/Vertical
+
+Sportsguards50-150 µm, depending on desired surface detailHorizontal/Vertical
+Clear Aligners50-150 µm, depending on desired surface detailHorizontal/Vertical
+Clear Aligners
+50-150 µm, depending on desired surface detail
+Horizontal/Vertical
+Night Guards50-150 µm, depending on desired surface detailHorizontal/Vertical
+Night Guards
+Splints50-150 µm, depending on desired surface detailHorizontal/Vertical
+Splints
+Sportsguards50-150 µm, depending on desired surface detailHorizontal/Vertical
+Sportsguards
+See the following image https://support.asiga.com/wp-content/uploads/2022/10/models_horizontal.jpg
+See the following image https://support.asiga.com/wp-content/uploads/2022/10/models_vertical.jpg
+Hollow ModelsMake sure hollow models have drain holes at the base of the models to prevent volumetric pressures from occuring.Learn more here >Hollow models can still carry a lot of liquid resin in their cavities after printing. Especially with higher viscous materials. This can lead to increased cleaning efforts and quicker contamination of your cleaning solution.Consider printing solid models over hollow models for process optimisation.Always use the appropriate design settings, which can be found here >A Flat surface at the “heels” of the model will help create a flat surface for printing in vertical orientation.
+Make sure hollow models have drain holes at the base of the models to prevent volumetric pressures from occuring.Learn more here >Hollow models can still carry a lot of liquid resin in their cavities after printing. Especially with higher viscous materials. This can lead to increased cleaning efforts and quicker contamination of your cleaning solution.Consider printing solid models over hollow models for process optimisation.Always use the appropriate design settings, which can be found here >A Flat surface at the “heels” of the model will help create a flat surface for printing in vertical orientation.
+A Flat surface at the “heels” of the model will help create a flat surface for printing in vertical orientation.
+DentaSTUDYAsiga DentaSTUDY model material was developed with diagnostics in mind. With it is vibrant white colour and high precision, it is perfect for producing digital diagnostic wax-up models, study models, and orthodontic models.Use this material to help show your patient what their smile could really look like. 
+
+How to manufacture a study model
+
+Indication listRecommended Layer ThicknessRecommended Part Orientation
+
+Diagnostic Wax-up Models50-100 micron depending on desired surface detail.Horizontal/Vertical
+
+Orthodontic Models50-100 micron depending on desired surface detail.Horizontal/Vertical
+
+Study Models50-100 micron depending on desired surface detail.Horizontal/Vertical
+
+Part Orientation 
+
+Part orientation will determine how many parts you can get on a single build.More importantly it will also be a factor in achieving the highest accuracy.Horizontal orientations will produce higher precision. 
+
+Design tips 
+
+Hollow ModelsMake sure hollow models have drain holes at the base of the models to prevent volumetric pressures from occuring.Learn more here >Hollow models can still carry a lot of liquid resin in their cavities after printing. Especially with higher viscous materials. This can lead to increased cleaning efforts and quicker contamination of your cleaning solution.Consider printing solid models over hollow models for process optimisation.Always use the appropriate design settings, which can be found here >
+DentaSTUDYAsiga DentaSTUDY model material was developed with diagnostics in mind. With it is vibrant white colour and high precision, it is perfect for producing digital diagnostic wax-up models, study models, and orthodontic models.Use this material to help show your patient what their smile could really look like.
+DentaSTUDY
+Asiga DentaSTUDY model material was developed with diagnostics in mind. With it is vibrant white colour and high precision, it is perfect for producing digital diagnostic wax-up models, study models, and orthodontic models.
+Use this material to help show your patient what their smile could really look like.
+See the following image https://support.asiga.com/wp-content/uploads/2023/06/Asiga-DentaSTUDY-web.jpg
+How to manufacture a study model
+Indication listRecommended Layer ThicknessRecommended Part Orientation
+
+Diagnostic Wax-up Models50-100 micron depending on desired surface detail.Horizontal/Vertical
+
+Orthodontic Models50-100 micron depending on desired surface detail.Horizontal/Vertical
+
+Study Models50-100 micron depending on desired surface detail.Horizontal/Vertical
+Diagnostic Wax-up Models50-100 micron depending on desired surface detail.Horizontal/Vertical
+
+Orthodontic Models50-100 micron depending on desired surface detail.Horizontal/Vertical
+
+Study Models50-100 micron depending on desired surface detail.Horizontal/Vertical
+Diagnostic Wax-up Models50-100 micron depending on desired surface detail.Horizontal/Vertical
+50-100 micron depending on desired surface detail.
+Orthodontic Models50-100 micron depending on desired surface detail.Horizontal/Vertical
+Orthodontic Models
+Study Models50-100 micron depending on desired surface detail.Horizontal/Vertical
+DentaCASTAsiga DentaCAST is an ‘Ash-Free’ direct-cast material for lost-wax casting. No more hand wax-ups as with digital design and 3D printing you can digitally produce your metal partial frameworks, gold crowns, bridges or even press lithium disilicate quickly and accurately.Asiga DentaCAST provides an exceptionally accurate output for dimension critical appliances. 
+
+How to manufacture partial framework
+
+Indication listRecommended Layer ThicknessRecommended Part Orientation
+
+Crown and Bridge Metal Prosthetics50 µmThe occlusal surface should be facing the build platform. 
+Patient interfacing areas should face away from the build platform.
+
+Crown and Bridge Lithium Disilicate Prosthetics50 µmThe occlusal surface should be facing the build platform. 
+Patient interfacing areas should face away from the build platform.
+
+Metal Partial Frameworks75 µmThe intaglio surface should be facing away from the build platform. 
+
+Part Orientation 
+
+Part orientation will determine how many parts you can get on a single build.More importantly it will also be a factor in achieving the highest accuracy.Horizontal orientations will produce higher precision. 
+
+Design tips 
+
+It is recommended to not have wall thicknesses below 0.4mm as this could distort when investing.Always use the appropriate design settings, which can be found here >
+DentaCASTAsiga DentaCAST is an ‘Ash-Free’ direct-cast material for lost-wax casting. No more hand wax-ups as with digital design and 3D printing you can digitally produce your metal partial frameworks, gold crowns, bridges or even press lithium disilicate quickly and accurately.Asiga DentaCAST provides an exceptionally accurate output for dimension critical appliances.
+DentaCAST
+Asiga DentaCAST is an ‘Ash-Free’ direct-cast material for lost-wax casting. No more hand wax-ups as with digital design and 3D printing you can digitally produce your metal partial frameworks, gold crowns, bridges or even press lithium disilicate quickly and accurately.
+Asiga DentaCAST provides an exceptionally accurate output for dimension critical appliances.
+See the following image https://support.asiga.com/wp-content/uploads/2023/06/Asiga-DentaCAST-web.jpg
+How to manufacture partial framework
+Indication listRecommended Layer ThicknessRecommended Part Orientation
+
+Crown and Bridge Metal Prosthetics50 µmThe occlusal surface should be facing the build platform. 
+Patient interfacing areas should face away from the build platform.
+
+Crown and Bridge Lithium Disilicate Prosthetics50 µmThe occlusal surface should be facing the build platform. 
+Patient interfacing areas should face away from the build platform.
+
+Metal Partial Frameworks75 µmThe intaglio surface should be facing away from the build platform.
+Crown and Bridge Metal Prosthetics50 µmThe occlusal surface should be facing the build platform. 
+Patient interfacing areas should face away from the build platform.
+
+Crown and Bridge Lithium Disilicate Prosthetics50 µmThe occlusal surface should be facing the build platform. 
+Patient interfacing areas should face away from the build platform.
+
+Metal Partial Frameworks75 µmThe intaglio surface should be facing away from the build platform.
+Crown and Bridge Metal Prosthetics50 µmThe occlusal surface should be facing the build platform. 
+Patient interfacing areas should face away from the build platform.
+Crown and Bridge Metal Prosthetics
+The occlusal surface should be facing the build platform. 
+Patient interfacing areas should face away from the build platform.
+Crown and Bridge Lithium Disilicate Prosthetics50 µmThe occlusal surface should be facing the build platform. 
+Patient interfacing areas should face away from the build platform.
+Crown and Bridge Lithium Disilicate Prosthetics
+Metal Partial Frameworks75 µmThe intaglio surface should be facing away from the build platform.
+Metal Partial Frameworks
+75 µm
+The intaglio surface should be facing away from the build platform.
+away
+See the following image https://support.asiga.com/wp-content/uploads/2022/10/dentacast.jpg
+It is recommended to not have wall thicknesses below 0.4mm as this could distort when investing.Always use the appropriate design settings, which can be found here >
+It is recommended to not have wall thicknesses below 0.4mm as this could distort when investing.
+DentaGUIDEAsiga DentaGUIDE is a rigid, clear, autoclavable, biocompatible material engineered for the fabrication of surgical guides. Optimised for UV (385nm) printers, Asiga DentaGUIDE accurately realises glue channels, positioning windows, and drill holes allowing clinicians to effectively place implants accurately and with ease.Asiga DentaGUIDE can also be used for gingivectomy guides and bone reduction guides. 
+
+How to manufacture a Surgical Guide
+
+Indication listRecommended Layer ThicknessRecommended Part Orientation
+
+Implant Surgical Guides100 µmSee below
+
+Gingivectomy Surgical Guides100 µmSee below
+
+Bone Reduction Guides100 µmSee below
+
+Implant Abutment Positioning Guides100 µmSee below
+
+Part Orientation 
+
+Part orientation will determine how many parts you can get on a single build.More importantly it will also be a factor in achieving the highest accuracy.Horizontal orientations will produce higher precision.Parts should be oriented so the implant drilling hole is horizontal to the build platform.If a guide has more than one implant drilling hole, position the guide so all the holes are as horizontal as possible. 
+
+Design tips 
+
+Always use the appropriate design settings, which can be found here >
+DentaGUIDEAsiga DentaGUIDE is a rigid, clear, autoclavable, biocompatible material engineered for the fabrication of surgical guides. Optimised for UV (385nm) printers, Asiga DentaGUIDE accurately realises glue channels, positioning windows, and drill holes allowing clinicians to effectively place implants accurately and with ease.Asiga DentaGUIDE can also be used for gingivectomy guides and bone reduction guides.
+DentaGUIDE
+Asiga DentaGUIDE is a rigid, clear, autoclavable, biocompatible material engineered for the fabrication of surgical guides. Optimised for UV (385nm) printers, Asiga DentaGUIDE accurately realises glue channels, positioning windows, and drill holes allowing clinicians to effectively place implants accurately and with ease.
+Asiga DentaGUIDE can also be used for gingivectomy guides and bone reduction guides.
+See the following image https://support.asiga.com/wp-content/uploads/2023/06/Asiga-DentaGUIDE-web.jpg
+How to manufacture a Surgical Guide
+Indication listRecommended Layer ThicknessRecommended Part Orientation
+
+Implant Surgical Guides100 µmSee below
+
+Gingivectomy Surgical Guides100 µmSee below
+
+Bone Reduction Guides100 µmSee below
+
+Implant Abutment Positioning Guides100 µmSee below
+Implant Surgical Guides100 µmSee below
+
+Gingivectomy Surgical Guides100 µmSee below
+
+Bone Reduction Guides100 µmSee below
+
+Implant Abutment Positioning Guides100 µmSee below
+Implant Surgical Guides100 µmSee below
+Implant Surgical Guides
+See below
+Gingivectomy Surgical Guides100 µmSee below
+Gingivectomy Surgical Guides
+Bone Reduction Guides100 µmSee below
+Bone Reduction Guides
+Implant Abutment Positioning Guides100 µmSee below
+Implant Abutment Positioning Guides
+Part orientation will determine how many parts you can get on a single build.More importantly it will also be a factor in achieving the highest accuracy.Horizontal orientations will produce higher precision.Parts should be oriented so the implant drilling hole is horizontal to the build platform.If a guide has more than one implant drilling hole, position the guide so all the holes are as horizontal as possible.
+Parts should be oriented so the implant drilling hole is horizontal to the build platform.If a guide has more than one implant drilling hole, position the guide so all the holes are as horizontal as possible.
+horizontal
+See the following image https://support.asiga.com/wp-content/uploads/2022/10/dentaguide.jpg
+Always use the appropriate design settings, which can be found
+DentaBASEHigh impact resistance, ease of finishing and high stain resistance make Asiga DentaBASE a robust solution for manufacturing denture bases. Asiga DentaBASE serves in producing the base to your two-part denture by combining with 3D printed denture teeth, milled denture teeth or carded denture teeth.High strength and rigidity, ease of finishing and excellent adhesion characteristics for bonding Asiga DentaTOOTH Denture Tooth resin. For a patient compliant and comfortable digital denture, it all starts with Asiga DentaBASE. 
+
+How to manufacture a 3D printed denture
+
+Indication listRecommended Slice ThicknessRecommended part orientation
+
+Denture Base                                    50-100 µm
+50 µm for higher quality surface
+100 µm for quicker print speed60-80 Degree inclination with the intaglio surface towards the build platform. 
+
+Upper Dentures should be oriented so that the posterior region is closest to the build platform. 
+
+Lower Dentures should be oriented so that the anterior region is closest to the build platform. 
+
+Part Orientation 
+
+Part orientation will determine how many parts you can get on a single build.More importantly it will also be a factor in achieving the highest accuracy.Horizontal orientations will produce higher precision. 
+
+Design tips 
+
+A 50-100 µm spacing between the denture base & tooth is recommended for best fitment.At least 1 bar connecting the two sides of the arch is necessary to prevent warping of the model. This is especially true for Lower Dentures.Always use the appropriate design settings, which can be found here >
+DentaBASEHigh impact resistance, ease of finishing and high stain resistance make Asiga DentaBASE a robust solution for manufacturing denture bases. Asiga DentaBASE serves in producing the base to your two-part denture by combining with 3D printed denture teeth, milled denture teeth or carded denture teeth.High strength and rigidity, ease of finishing and excellent adhesion characteristics for bonding Asiga DentaTOOTH Denture Tooth resin. For a patient compliant and comfortable digital denture, it all starts with Asiga DentaBASE.
+DentaBASE
+High impact resistance, ease of finishing and high stain resistance make Asiga DentaBASE a robust solution for manufacturing denture bases. Asiga DentaBASE serves in producing the base to your two-part denture by combining with 3D printed denture teeth, milled denture teeth or carded denture teeth.
+High strength and rigidity, ease of finishing and excellent adhesion characteristics for bonding Asiga DentaTOOTH Denture Tooth resin. For a patient compliant and comfortable digital denture, it all starts with Asiga DentaBASE.
+See the following image https://support.asiga.com/wp-content/uploads/2023/06/Asiga-DentaBASE-web.jpg
+How to manufacture a 3D printed denture
+Indication listRecommended Slice ThicknessRecommended part orientation
+
+Denture Base                                    50-100 µm
+50 µm for higher quality surface
+100 µm for quicker print speed60-80 Degree inclination with the intaglio surface towards the build platform. 
+
+Upper Dentures should be oriented so that the posterior region is closest to the build platform. 
+
+Lower Dentures should be oriented so that the anterior region is closest to the build platform.
+Indication listRecommended Slice ThicknessRecommended part orientation
+Recommended Slice Thickness
+Recommended part orientation
+Denture Base                                    50-100 µm
+50 µm for higher quality surface
+100 µm for quicker print speed60-80 Degree inclination with the intaglio surface towards the build platform. 
+
+Upper Dentures should be oriented so that the posterior region is closest to the build platform. 
+
+Lower Dentures should be oriented so that the anterior region is closest to the build platform.
+Denture Base                                    50-100 µm
+50 µm for higher quality surface
+100 µm for quicker print speed60-80 Degree inclination with the intaglio surface towards the build platform.
+Denture Base
+50-100 µm
+50 µm for higher quality surface
+100 µm for quicker print speed
+60-80 Degree inclination with the intaglio surface towards the build platform.
+Upper Dentures should be oriented so that the posterior region is closest to the build platform.
+Lower Dentures should be oriented so that the anterior region is closest to the build platform.
+See the following image https://support.asiga.com/wp-content/uploads/2022/10/dentabase.jpg
+A 50-100 µm spacing between the denture base & tooth is recommended for best fitment.At least 1 bar connecting the two sides of the arch is necessary to prevent warping of the model. This is especially true for Lower Dentures.Always use the appropriate design settings, which can be found here >
+A 50-100 µm spacing between the denture base & tooth is recommended for best fitment.
+At least 1 bar connecting the two sides of the arch is necessary to prevent warping of the model. This is especially true for Lower Dentures.
+DentaTOOTHAsiga DentaTOOTH is a high strength, high-wear and stain resistant 3D printable resin for the production of Denture Teeth. When producing a digital denture in two-parts (base and teeth separated) 3D printing denture teeth is the ultimate way to create a highly detailed and customized smile.With advantages over milled denture teeth and carded teeth, you can produce more, save time, and reduce costs with 3D printing. Asiga DentaTOOTH is available in Vita colours A1, A2, A3, B1, B2, and B3. 
+
+How to manufacture a 3D printed denture
+
+Indication listRecommended ThicknessRecommended part orientation
+
+Denture Teeth50 µm45-90 Degree Orientation so the occlusal surface is pointing away from the build platform, allowing supports to be generated on the socketing side of the teeth. 
+
+Part Orientation 
+
+Part orientation will determine how many parts you can get on a single build.More importantly it will also be a factor in achieving the highest accuracy.Horizontal orientations will produce higher precision. 
+
+Design tips 
+
+A 50-100 µm spacing between the denture base & tooth is recommended for best fitment.Always use the appropriate design settings, which can be found here >
+DentaTOOTHAsiga DentaTOOTH is a high strength, high-wear and stain resistant 3D printable resin for the production of Denture Teeth. When producing a digital denture in two-parts (base and teeth separated) 3D printing denture teeth is the ultimate way to create a highly detailed and customized smile.With advantages over milled denture teeth and carded teeth, you can produce more, save time, and reduce costs with 3D printing. Asiga DentaTOOTH is available in Vita colours A1, A2, A3, B1, B2, and B3.
+DentaTOOTH
+Asiga DentaTOOTH is a high strength, high-wear and stain resistant 3D printable resin for the production of Denture Teeth. When producing a digital denture in two-parts (base and teeth separated) 3D printing denture teeth is the ultimate way to create a highly detailed and customized smile.
+With advantages over milled denture teeth and carded teeth, you can produce more, save time, and reduce costs with 3D printing. Asiga DentaTOOTH is available in Vita colours A1, A2, A3, B1, B2, and B3.
+See the following image https://support.asiga.com/wp-content/uploads/2023/06/Asiga-DentaTOOTH-web.jpg
+Indication listRecommended ThicknessRecommended part orientation
+
+Denture Teeth50 µm45-90 Degree Orientation so the occlusal surface is pointing away from the build platform, allowing supports to be generated on the socketing side of the teeth.
+Indication listRecommended ThicknessRecommended part orientation
+Recommended Thickness
+Denture Teeth50 µm45-90 Degree Orientation so the occlusal surface is pointing away from the build platform, allowing supports to be generated on the socketing side of the teeth.
+Denture Teeth
+45-90 Degree Orientation so the occlusal surface is pointing away from the build platform, allowing supports to be generated on the socketing side of the teeth.
+See the following image https://support.asiga.com/wp-content/uploads/2022/10/dentatooth.jpg
+A 50-100 µm spacing between the denture base & tooth is recommended for best fitment.Always use the appropriate design settings, which can be found here >
+DentaTRYThe production of a Try-In Denture is the first step in verifying that your digital denture design has an optimised fit and desired aesthetic for your patient. Reduce patient visits and obtain patient approval prior to manufacturing a full denture.Asiga DentaTRY is available in a range of Vita Colour shades including A1, A2, A3, B1, B2, B3. Asiga DentaTRY is easy to carve, adjust, and add wax to make the required adjustments in the Try-In phase. This will help guide further design steps for producing the perfect final prosthetic. 
+
+How to manufacture a denture try in
+
+Indication listRecommended layer thicknessRecommended part orientation
+
+Try-in Dentures100 µm60-80 Degree Inclination with the intaglio surface facing towards the build platform. 
+
+Upper Try-in Dentures should be oriented so that the posterior region is closest to the build platform. 
+
+Lower Try-in Dentures should be oriented so that the anterior region is closest to the build platform. 
+
+Part Orientation 
+
+Part orientation will determine how many parts you can get on a single build.More importantly it will also be a factor in achieving the highest accuracy.Horizontal orientations will produce higher precision. 
+
+Design tips 
+
+At least 1 bar connecting the two sides of the arch is necessary to prevent warping of the model. This is especially true for Lower Dentures.Always use the appropriate design settings, which can be found here >
+DentaTRYThe production of a Try-In Denture is the first step in verifying that your digital denture design has an optimised fit and desired aesthetic for your patient. Reduce patient visits and obtain patient approval prior to manufacturing a full denture.Asiga DentaTRY is available in a range of Vita Colour shades including A1, A2, A3, B1, B2, B3. Asiga DentaTRY is easy to carve, adjust, and add wax to make the required adjustments in the Try-In phase. This will help guide further design steps for producing the perfect final prosthetic.
+DentaTRY
+The production of a Try-In Denture is the first step in verifying that your digital denture design has an optimised fit and desired aesthetic for your patient. Reduce patient visits and obtain patient approval prior to manufacturing a full denture.
+Asiga DentaTRY is available in a range of Vita Colour shades including A1, A2, A3, B1, B2, B3. Asiga DentaTRY is easy to carve, adjust, and add wax to make the required adjustments in the Try-In phase. This will help guide further design steps for producing the perfect final prosthetic.
+See the following image https://support.asiga.com/wp-content/uploads/2023/06/Asiga-DentaTRY-A1-web.jpg
+How to manufacture a denture try in
+Indication listRecommended layer thicknessRecommended part orientation
+
+Try-in Dentures100 µm60-80 Degree Inclination with the intaglio surface facing towards the build platform. 
+
+Upper Try-in Dentures should be oriented so that the posterior region is closest to the build platform. 
+
+Lower Try-in Dentures should be oriented so that the anterior region is closest to the build platform.
+Indication listRecommended layer thicknessRecommended part orientation
+Recommended layer thickness
+Try-in Dentures100 µm60-80 Degree Inclination with the intaglio surface facing towards the build platform. 
+
+Upper Try-in Dentures should be oriented so that the posterior region is closest to the build platform. 
+
+Lower Try-in Dentures should be oriented so that the anterior region is closest to the build platform.
+Try-in Dentures100 µm60-80 Degree Inclination with the intaglio surface facing towards the build platform.
+Try-in Dentures
+60-80 Degree Inclination with the intaglio surface facing towards the build platform.
+Upper Try-in Dentures should be oriented so that the posterior region is closest to the build platform.
+Lower Try-in Dentures should be oriented so that the anterior region is closest to the build platform.
+See the following image https://support.asiga.com/wp-content/uploads/2022/10/dentatry.jpg
+At least 1 bar connecting the two sides of the arch is necessary to prevent warping of the model. This is especially true for Lower Dentures.Always use the appropriate design settings, which can be found here >
+DentaTRAYTake the perfect impression with Asiga DentaTRAY. Asiga DentaTRAY is an accurate, rigid and stable 3D printing material to aid the reproduction of a patient’s anatomy.Compatible with all types of impression materials, Asiga DentaTRAY provides a precise and fast solution for complex cases. 
+
+How to manufacture a Custom Impression Tray
+
+Indication listRecommended slice thicknessRecommended part orientation
+
+Custom Impression Trays100-150 µm.Custom Impression Trays should be oriented so that the intaglio surface of the tray is facing away from the build platform. Angulation of the custom tray is not crucial. 
+
+Part Orientation 
+
+Part orientation will determine how many parts you can get on a single build.More importantly it will also be a factor in achieving the highest accuracy.Horizontal orientations will produce higher precision. 
+
+Design tips 
+
+Always use the appropriate design settings, which can be found here >
+DentaTRAYTake the perfect impression with Asiga DentaTRAY. Asiga DentaTRAY is an accurate, rigid and stable 3D printing material to aid the reproduction of a patient’s anatomy.Compatible with all types of impression materials, Asiga DentaTRAY provides a precise and fast solution for complex cases.
+DentaTRAY
+Take the perfect impression with Asiga DentaTRAY. Asiga DentaTRAY is an accurate, rigid and stable 3D printing material to aid the reproduction of a patient’s anatomy.
+Compatible with all types of impression materials, Asiga DentaTRAY provides a precise and fast solution for complex cases.
+See the following image https://support.asiga.com/wp-content/uploads/2023/06/Asiga-DentaTRAY-web.jpg
+How to manufacture a Custom Impression Tray
+Indication listRecommended slice thicknessRecommended part orientation
+
+Custom Impression Trays100-150 µm.Custom Impression Trays should be oriented so that the intaglio surface of the tray is facing away from the build platform. Angulation of the custom tray is not crucial.
+Indication listRecommended slice thicknessRecommended part orientation
+Recommended slice thickness
+Custom Impression Trays100-150 µm.Custom Impression Trays should be oriented so that the intaglio surface of the tray is facing away from the build platform. Angulation of the custom tray is not crucial.
+Custom Impression Trays
+100-150 µm.
+Custom Impression Trays should be oriented so that the intaglio surface of the tray is facing away from the build platform. Angulation of the custom tray is not crucial.
+See the following image https://support.asiga.com/wp-content/uploads/2022/10/dentatray.jpg
+DentaIBTAsiga DentaIBT is a biocompatible material for manufacturing Indirect Bonding Trays. Indirect Bonding Trays are used to accurately position orthodontic brackets onto the patient’s teeth. DentaIBT is a clear material that allows UV transmission for curing the brackets in place.The rubber-like characteristic of Asiga DentaIBT provide a firm hold during the bonding process and then flexibility when peeling away, without tearing or discomfort to the patient. 
+
+Indication listRecommended layer thicknessRecommended part orientation
+
+Indirect Bonding Trays100 µmHorizontal: Indirect bonding trays should be oriented so that they are horizontal touching the build platform on a flat plain. 
+
+Part Orientation 
+
+Part orientation will determine how many parts you can get on a single build.More importantly it will also be a factor in achieving the highest accuracy.Horizontal orientations will produce higher precision. 
+
+Design tips 
+
+When designing, it is best to have a flat plain so the part can sit directly on the build platform.Always use the appropriate design settings, which can be found here >
+DentaIBTAsiga DentaIBT is a biocompatible material for manufacturing Indirect Bonding Trays. Indirect Bonding Trays are used to accurately position orthodontic brackets onto the patient’s teeth. DentaIBT is a clear material that allows UV transmission for curing the brackets in place.The rubber-like characteristic of Asiga DentaIBT provide a firm hold during the bonding process and then flexibility when peeling away, without tearing or discomfort to the patient.
+DentaIBT
+Asiga DentaIBT is a biocompatible material for manufacturing Indirect Bonding Trays. Indirect Bonding Trays are used to accurately position orthodontic brackets onto the patient’s teeth. DentaIBT is a clear material that allows UV transmission for curing the brackets in place.The rubber-like characteristic of Asiga DentaIBT provide a firm hold during the bonding process and then flexibility when peeling away, without tearing or discomfort to the patient.
+See the following image https://support.asiga.com/wp-content/uploads/2023/06/Asiga-DentaIBT-web.jpg
+Indication listRecommended layer thicknessRecommended part orientation
+
+Indirect Bonding Trays100 µmHorizontal: Indirect bonding trays should be oriented so that they are horizontal touching the build platform on a flat plain.
+Indirect Bonding Trays100 µmHorizontal: Indirect bonding trays should be oriented so that they are horizontal touching the build platform on a flat plain.
+Indirect Bonding Trays
+Horizontal: Indirect bonding trays should be oriented so that they are horizontal touching the build platform on a flat plain.
+See the following image https://support.asiga.com/wp-content/uploads/2022/10/dentaibt.jpg
+When designing, it is best to have a flat plain so the part can sit directly on the build platform.Always use the appropriate design settings, which can be found here >
+When designing, it is best to have a flat plain so the part can sit directly on the build platform.
+DentaGUMAsiga’s DentaGUM is a flexible pink material developed to replicate the patient’s gingiva and an essential component when producing a dental implant case. Asiga DentaGUM offers excellent accuracy and rebound.Whether you are placing an implant and need to see tissue compression or would like a more realistic / complete model, Asiga’s DentaGUM is your solution. 
+
+How to manufacture a Gingiva Mask
+
+Indication listRecommended slice thicknessRecommended part orientation
+
+Gingiva Mask100-150 µmHorizontal: Gingiva Masks should be oriented so that they are horizontal touching the build platform on a flat plain. 
+
+Part Orientation 
+
+Part orientation will determine how many parts you can get on a single build.More importantly it will also be a factor in achieving the highest accuracy.Horizontal orientations will produce higher precision. 
+
+Design tips 
+
+When designing, it is best to have a flat plain so the part can sit directly on the build platform.Always use the appropriate design settings, which can be found here >
+DentaGUMAsiga’s DentaGUM is a flexible pink material developed to replicate the patient’s gingiva and an essential component when producing a dental implant case. Asiga DentaGUM offers excellent accuracy and rebound.Whether you are placing an implant and need to see tissue compression or would like a more realistic / complete model, Asiga’s DentaGUM is your solution.
+DentaGUM
+Asiga’s DentaGUM is a flexible pink material developed to replicate the patient’s gingiva and an essential component when producing a dental implant case. Asiga DentaGUM offers excellent accuracy and rebound.
+Whether you are placing an implant and need to see tissue compression or would like a more realistic / complete model, Asiga’s DentaGUM is your solution.
+See the following image https://support.asiga.com/wp-content/uploads/2023/06/Asiga-DentaGUM-web.jpg
+How to manufacture a Gingiva Mask
+Indication listRecommended slice thicknessRecommended part orientation
+
+Gingiva Mask100-150 µmHorizontal: Gingiva Masks should be oriented so that they are horizontal touching the build platform on a flat plain.
+Gingiva Mask100-150 µmHorizontal: Gingiva Masks should be oriented so that they are horizontal touching the build platform on a flat plain.
+Gingiva Mask
+Horizontal: Gingiva Masks should be oriented so that they are horizontal touching the build platform on a flat plain.
+See the following image https://support.asiga.com/wp-content/uploads/2022/10/dentagum.jpg
+PrevPreviousContacting Technical Support
+Prev
+PreviousContacting Technical Support
+Previous
+Contacting Technical Support

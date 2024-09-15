@@ -1,0 +1,19 @@
+General Network troubleshooting
+ Are you using a cable to connect or wireless?
+
+Please go on the printer to Settings, and check that wireless direct is disabled.
+
+Then if you are using a cable, go to wired network. Check automatic configuration is on. If there is an IP address showing, then you should be able to connect to your printer.
+
+If you are using wireless, go to wireless network. Check that wireless network is enabled, and that automatic configuration is on. Then select network name and select your connection. Enter the password, and go back to the wireless settings page. If there is an IP address showing, you should be able to connect to your printer. Also check that there is no network cable plugged in, as the software prioritises the cable connection over the wifi connection.
+
+To verify the connection, please go your your web browser on your PC, and type in the IP address of the printer in the address bar. You should then be able to see the web interface of the printer. If this connects, then you should be able to use the printer in composer. Click on new, and refresh the list of printers by clicking the circular arrows icon. Your printer may take a few minutes to show up. After the list refreshes, you should be able to connect to your printer by clicking on it in the list.
+
+If the printer IP address is saved in Composer, then later changed by the router, the printer may not be visible to Composer anymore. This can happen if you have marked the printer as Favorite in Composer, meaning that you ticked the yellow star in front of the printer name. Please untick the printer as favorite, wait up to 5 minutes, refresh the Target Printer list and see if the printer appears after up to 5 minutes. The router sometimes redistributes IP addresses, also for your printer, if the machine is marked as favorite, it may not show up in the list with the new IP address.
+
+If you did not see an IP address on the Settings page, there may be a problem with your network. Please check the cabling, and verify that other devices are able to connect to your network without issues. If using wireless, ensure that the network name, and password are correct, on the printer as well as the PC. 
+
+It may be helpful to check the printer by testing if you can connect wirelessly to a phone hotspot, and bring up the web interface through the phone browser. This will help to determine if the issue is on the printer, or somewhere else on the network.
+
+Please let us know if any further help is needed.
+Best regards, 

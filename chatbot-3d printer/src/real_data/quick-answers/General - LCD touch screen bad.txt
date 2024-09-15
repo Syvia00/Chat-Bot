@@ -1,0 +1,9 @@
+General LCD touch screen bad
+ It would be good to confirm if the problem is only with the touchscreen or if it is something else, like the computer board freezing.
+
+Could you please check if you are able to access your printer by the web interface? If you open Composer, Click New, select your printer, and ok, and then click on the blue globe icon, you should be able to access it. There is a tab front panel which will show the printers screen and then you can use the mouse to navigate.
+
+If you are able to access the web interface, then it will clarify that everything else in your printer is working well, and that the problem is only the touchscreen. Also, it will provide a way for you to keep using your printer while you wait for the spare part.
+
+Please get back to us with confirmation about this, thanks.
+

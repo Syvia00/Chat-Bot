@@ -1,0 +1,14 @@
+MAX Power board
+ Hello,
+
+We will send a replacement power board for the printer, which should resolve the issue.
+
+Please see this video for how to swap the board.
+
+https://myaccount.asiga.com/accounts/distributor/maintenance/MAX%20Maintenance/How%20to%20replace%20the%20powerboard%20on%20a%20MAX.movie
+
+Remove the curved back panel, then the fan bracket screws. This will allow the fan to move out of the way. There are two screws to remove to get the power board out. Use a shorter t10 screwdriver, as they are a little difficult to access. Unplug the cables, and you can remove the board form the printer. Swap the metal fuse cover to the replacement board, and reinstall. Please be careful to plug in the cables from where they were removed.
+
+There is no need to return the faulty part.
+
+Regards, 

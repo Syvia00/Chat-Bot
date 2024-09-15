@@ -1,0 +1,6 @@
+Composer Fast print and separation detect
+ The fast print mode will move the platform more quickly when possible and enable separation detect by default. It does not affect the accuracy of the printing.
+
+Separation detect will use the encoders to determine when the print has detached from the film. If it is off, the platform will rise more to ensure detachment, which will also ensure resin will flow completely under the printed model.
+
+It's always safe to enable the Fast Print Mode, but the Separation Detect should be disabled for a test if you encounter print issues.

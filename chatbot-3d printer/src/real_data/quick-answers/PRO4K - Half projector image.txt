@@ -1,0 +1,11 @@
+PRO4K Half projector image
+ As sometimes only half of the image is printing, please check the projector image with the focus glass (wear the orange glasses).
+
+Go to Maintenance> Focus while the glass focus plate is on the basin glass, and see if the focus image is displayed in full or in half.
+If the focus image shows in half, the first thing is to try toggling the 4K mode to the other value and back (usually from ON to OFF, and back). 
+
+The 4k mode setting is under Settings> 4K Mode. See if toggling it resolves the issue and see if now the whole image is displayed.
+If the whole image is displayed it could indicate an issue with the projector locking onto the HDMI signal
+If it still only shows half the image, try restarting the printer and showing focus again, to see if you can see the whole focus image.
+
+Please test by restarting the printer and showing the focus image a few times, since it's possible the projector has a glitch and is not properly initializing, or there may be an issue with the HDMI cable in the printer.

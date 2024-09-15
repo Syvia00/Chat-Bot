@@ -1,0 +1,34 @@
+Estimated print time is longer than normal
+The estimated build time can change based on a few factors from previous printing.If this is the first time you start a build on a printer, it is normal that the estimated print time is very wrong. If your previous build failed, it is likely that the estimated print time is wrong.
+The estimated build time can change based on a few factors from previous printing.If this is the first time you start a build on a printer, it is normal that the estimated print time is very wrong.
+The estimated build time can change based on a few factors from previous printing.
+If this is the first time you start a build on a printer, it is normal that the estimated print time is very wrong.
+If your previous build failed, it is likely that the estimated print time is wrong.
+Composer will calculate an estimated print time based on material, exposure settings, part height, etc.If a print takes longer than Composer calculated, this will be communicated & the software will recalculate accordingly.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/Estimated-buildtime.jpg
+Example of when an estimated build time can be wrongIf your models have trapped volume, the printer has to work longer to achieve the correct slice thickness.Composer does not know why this is taking longer and will adjust the estimated print time accordingly.Luckily this is generally an easy fix.1) Clean the build tray
+Example of when an estimated build time can be wrong
+Example
+of when an estimated build time can be wrong
+If your models have trapped volume, the printer has to work longer to achieve the correct slice thickness.Composer does not know why this is taking longer and will adjust the estimated print time accordingly.
+Luckily this is generally an easy fix.
+1) Clean the build tray
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/Clean-build-tray.jpg
+2) Validate the build platform calibration
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/MAX-validate-calibration.jpg
+3) Perform 2 test prints to your choosing.If the first print is successfull, the estimated build time for the second print should be more accurate.
+3) Perform 2 test prints to your choosing.
+If the first print is successfull, the estimated build time for the second print should be more accurate.
+please launch a support ticket via the button below.
+PrevPreviousSPS Position encoders – MAX X 
+
+NextNetwork Troubleshooting – MAX XNext
+PrevPreviousSPS Position encoders – MAX X
+Prev
+PreviousSPS Position encoders – MAX X
+Previous
+SPS Position encoders – MAX X
+NextNetwork Troubleshooting – MAX XNext
+NextNetwork Troubleshooting – MAX X
+Next
+Network Troubleshooting – MAX X

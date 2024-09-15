@@ -1,0 +1,6 @@
+General Separation acceleration
+ It would depend how deep or severe the marks are. Indentations in the tray could affect subsequent printing. It would be best to test the tray with a short print to see if the results are good, or if the quality of the print is affected.
+
+I have a suggestion for you that may help, but it will slow down the print speeds a little. But then again, you can enable the Fast Print Mode to compensate for that. Please see my attached picture, you can try changing the Separation Acceleration to 0.2 or even 0.1 for both burn-in and column 1, which will lead to a smoother separation and therefore less potential dimples/bubbles in the tray.
+
+That could be a solution for you in this case. Please let us know if any further help is needed.

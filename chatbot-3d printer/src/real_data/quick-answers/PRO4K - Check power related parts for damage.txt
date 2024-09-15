@@ -1,0 +1,8 @@
+PRO4K Check power related parts for damage
+ We want to check if:
+
+- the Q1 chip on the power board is intact or if there are any signs of thermal damage, pictures 2 and 3
+- if both connectors for the projector power on the power board are intact, picture 4
+- if both projector power cables have any signs of thermal damage, picture 5
+- if the 2 big green connectors have any signs of thermal damage, picture 6
+- and if the 2 wires between the 2 green connectors are possibly slightly loose and have any play went gently pulling on them, picture 7

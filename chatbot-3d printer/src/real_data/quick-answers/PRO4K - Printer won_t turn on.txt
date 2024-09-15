@@ -1,0 +1,16 @@
+PRO4K Printer won't turn on
+ Hello
+
+Are you using an uninterruptible power supply (UPS)? If so, it needs to be at least 600W, preferably 750W.
+
+If you remove the right side panel, the power distribution board is near the bottom of the printer. Please unplug the four power connectors circled in the picture, does the printer then turn on? (leave everything else plugged in)
+
+If so, turn it off, and plug in the two heater power plugs, circled in green on the left, and see if the printer will turn on.
+
+If it does, turn off the printer, unplug the two heater plugs, and plug in the two projector power plugs (circled in red, on the right).
+
+This will help to determine if the issue is with the heater circuit, or the projector, which are the two parts of the printer that draw the most power. If it doesn't turn on at all, it would be the power supply/ or power distribution board at fault.
+
+If the printer is turning on with the heater plugged in, and the projector unplugged, go to Settings> Temperature, and manually turn on the heaters. NB serial will show as zeros if projector power is unplugged, this is normal. This will help to check if the power supply can work well to run the heaters when they are drawing power.
+
+Please let us know your testing results.

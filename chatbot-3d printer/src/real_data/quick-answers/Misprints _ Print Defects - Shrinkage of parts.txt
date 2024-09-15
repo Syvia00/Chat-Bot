@@ -1,0 +1,38 @@
+Misprints & Print Defects Shrinkage of parts
+ This could have several reasons, so we would require more information:
+
+1. What material is being used exactly?
+
+2. Was the fit tested right after printing and right after post curing? Sometimes post-curing can lead to distortion of the models.
+
+3. Has an incorrect fit been observed in the past or is this the first time being observed?
+
+4. Do you typically add a clearance for a good fit for parts, such as removable dies ?
+
+5. Can you please ensure firmware and composer are up to date, and if a third party material is being used, to please check if there is an updated version of that material file.
+
+6. Can you please ensure the optical light path is absolutely clean? If too dirty, it can scatter the light and lead to dimensional inaccuracy. Therefore please check the basin glass from both side, the mirror below and also perhaps the surface of the projector lens, which you can access from the side of the machine
+
+7. If the model uses supports, its possible if incorrect or insufficiently supported parts can distort during printing. Therefore you could please send us the file in question. If it uses supports, please export the entire build via FILE> EXPORT BUILD
+
+8. Lastly, please send us the printer.ini, so we can check the settings to ensure everything is well adjusted.
+
+Regards, 
+
+
+
+
+It will be good to check which CAD design software is being used.
+
+When the dies are designed, is a clearance (horizontal shaft gap) or a cement gap added to the models? For example when using Exocad, a clearance of 20 microns would be necessary.
+If using 3Shape, then a cement gap of 30 microns (0.030mm) would be necessary.
+
+Also, check the fit after only cleaning the models in alcohol, since after post-curing the models the post curing process may be contributing to the sizing issues.
+
+The cleanness of the glass is very important. Ensure the customer checks with a torch to see that there are no smudges or smears on the glass before printing. They can then use a soft cloth or optical cloth and IPA to clean the basin glass, and use window cleaner for a final wipe, to remove any potential streaks left by the IPA. Afterward, once again check the basin glass with a torchlight, to ensure the glass is absolutely clean.
+
+Since trapped volume during printing can cause sizing issues, it is important to orient parts so this will not be a factor.
+
+Please let us know which resin the customer is using, and for us to check the printer generally for any issues can you please give us the printer ini file?
+
+To get that file, please open Composer, click New Build, click your target printer, then click the blue globe icon in the top right corner, a web browser will open, please go to the tab System Information and you will see View Printer.ini. Right click that file and click Save Target As/ Save Link As to download the text file. Please then attach the file onto this ticket.

@@ -1,0 +1,52 @@
+General housekeeping 
+
+Asiga printers require very little preventative maintenance.It’s best practice to keep your Asiga printer as clean as possible. This means cleaning up resin drops or spills with IPA (Isopropyl Alcohol) but also preventing dust build up.Asiga recommends using a microfibre cloth with cold water to wipe down the outside of the printer.Follow all instructions and safety advisories mentioned below.
+General housekeeping
+Asiga printers require very little preventative maintenance.It’s best practice to keep your Asiga printer as clean as possible. This means cleaning up resin drops or spills with IPA (Isopropyl Alcohol) but also preventing dust build up.Asiga recommends using a microfibre cloth with cold water to wipe down the outside of the printer.Follow all instructions and safety advisories mentioned below.
+Asiga printers require very little preventative maintenance.
+It’s best practice to keep your Asiga printer as clean as possible. This means cleaning up resin drops or spills with IPA (Isopropyl Alcohol) but also preventing dust build up.
+resin drops or spills
+Asiga recommends using a microfibre cloth with cold water to wipe down the outside of the printer.
+Follow all instructions and safety advisories mentioned below.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro4k-front-nobg.jpg
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro4k-rear-nobg.jpg
+Cleaning the glass surfaces
+IPA is a flammable chemical.
+.b13ad627-8e2f-46fa-9ae4-d3a112aa17fa{fill:#ffd520;}.e622e3a1-377a-4973-abe4-1f942493b29a{fill:#231f20;}
+Eye or skin contact with uncured resin may cause irritation.					
+
+						Always wear nitrile gloves.
+.a7281554-3fab-45ce-ad7c-74af7e37b99f{fill:#ffd520;}.b84d29f4-9f86-42a4-b2cc-1a9fe90a145b{fill:#231f20;}
+Eye or skin contact with uncured resin may cause irritation.
+Always wear nitrile gloves.
+PRO 4K Basin Glass
+Keeping the basin glass clean on your PRO 4K is extremely important.The projector will reflect the image through this window & smudges or scratches will impact it’s performance.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro-4k-basin-dirty_5.jpg
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro-4k-basin-dirty_4.jpg
+Watch the video below about how to clean the PRO 4K basin glass.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro-4k-clean.jpg
+Platform calibration
+Regular platform calibration will ensure your PRO 4K keeps running smoothly.Asiga recommends validating once a month or ever 20 prints.
+Regular platform calibration will ensure your PRO 4K keeps running smoothly.
+Asiga recommends validating once a month or ever 20 prints.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/pro4k-platform-calibration.jpg
+Firmware & software 
+
+We are continuously working hard to improve our products.There are regular new firm/software releases with exciting features or speed improvements.To check if there is a new firmware available for your printer, click on the “ASIGA” logo in Composer for recent announcements! 
+
+ Download the latest versionUpload the firmware to your PRO 4K here
+Firmware & software
+We are continuously working hard to improve our products.There are regular new firm/software releases with exciting features or speed improvements.To check if there is a new firmware available for your printer, click on the “ASIGA” logo in Composer for recent announcements!
+We are continuously working hard to improve our products.
+There are regular new firm/software releases with exciting features or speed improvements.
+To check if there is a new firmware available for your printer, click on the “ASIGA” logo in Composer for recent announcements!
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/Asiga-announcements.jpg
+Download the latest versionUpload the firmware to your PRO 4K here
+Download the latest version
+Upload the firmware to your PRO 4K here
+here
+See the following image https://support.asiga.com/wp-content/uploads/2022/09/firmware.jpg
+NextMaintaining the build tray – PRO 4KNext
+NextMaintaining the build tray – PRO 4K
+Next
+Maintaining the build tray – PRO 4K

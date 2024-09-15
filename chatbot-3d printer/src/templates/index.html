@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Support Chatbot</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="https://support.asiga.com/favicon.ico" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="/static/style.css" rel="stylesheet">
+  </head>
+  <body>
+
+    <!-- side bar section -->
+    <section class="side-bar" id="sidebar">
+      <div class="btn">
+        <button class="new-chat-btn" role="button">New Chat</button>
+        <button class="control-btn" id="collapseBtn">
+          <img src="/static/resource/sidebar.png" alt="Sidebar Icon">
+        </button>
+      </div>
+
+      <div class="history">
+        {% for session in chat_data|reverse %}
+        <div class="history-item" data-session-id="{{ session.session_id }}">
+            <img class="chat-icon" src="../static/resource/chat1.png" alt="Chat Icon">
+            <p>{{ session.start_timestamp[:19] }}</p>
+            <div class="delete-icon">&#10006;</div>
+        </div>
+        {% endfor %}
+      </div>
+
+      <div class="user-side-bar">
+        <img class="profile-picture" src="../static/resource/user_icon.png" alt="User Profile Picture">
+        <p class="user-name">{{ user }}</p>
+      </div>
+    </section>
+
+  
+    <!-- chat section -->
+    <section class="main">
+      <div class="top-bar">
+        <button class="control-btn" id="openBtn">
+          <img src="/static/resource/sidebar.png" alt="Sidebar Icon">
+        </button>
+        <p class="top-bar-txt">Customer Support | Chat</p>
+      </div>
+      
+      <div class="chat-container">
+        <div class="chatbot-message-wrapper">
+          <img src="../static/resource/robot.png" alt="Robot Icon" class="robot-icon">
+          <div class="chatbot-message message">
+              <p>Asiga GPT: How can I help you?</p>
+          </div>
+      </div>
+      </div>
+
+      <!-- BOTTOM BAR -->
+      <form class="bottom-section" id="chatForm" method="post" action="/submit_message">
+        <div class="common-questions">
+          <button class="common-question" type="button">Can you share the Pro 4K 3D printer user guide? ?</button>
+          <button class="common-question" type="button">What is PRO4K DMD and I2C errors?</button>
+          <button class="common-question" type="button">What is PRO4K Conversion kit prices for both PN/05476 and PN/05217 PRO 4K ?</button>
+          <button class="common-question" type="button">What should I do when the Basin scratched ?</button>
+        </div>
+        <div class="input-container">
+            <input type="hidden" name="user_id" id="user_id" value="{{ user_id }}">
+            <input type="hidden" id="session_id" name="session_id">
+            <textarea class="user-input" name="user_message"></textarea>
+            <input type="submit" id="submit" class="submit-btn" value="➢"></input>
+        </div>
+      </form>
+
+      <!-- optional text -->
+      <p class="copyright">© 2023 Asiga. All rights reserved</p>
+    </section>
+    
+
+
+    
+    <script src="../static/app.js" async defer></script>
+  </body>
+</html>

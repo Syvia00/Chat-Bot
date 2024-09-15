@@ -1,0 +1,8 @@
+PRO4K DMD and I2C errors
+ These error messages indicate that there is an issue with the LED driver board of the projector and will need to be replaced.
+We will therefore send you a replacement board free of charge and shipping.
+Please see attached PDF file on how to perform the exchange.
+
+Please note, there will be a form included with the replacement board, ensure you fill it out and include it with the old driver board.
+
+There will also be a non-return fee of $350USD which is not payable at the time of dispatch and only becomes payable if the old board is not returned to Asiga within 30 days. So please let us know once the exchange is done, so we can generate the RMA documents to return the board and remove the non-return fee once we receive it.

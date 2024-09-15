@@ -1,0 +1,24 @@
+Encoders Swap encoders
+ Hello, 
+
+Thanks for checking the wiring, and sending the printer ini file.
+
+The printer ini file shows that the front left encoder is not reading properly.
+
+If you go to Maintenance> Position Encoders> Zero Position Encoders, you will see the front left encoder is showing  NaN, which is not a number and not reading properly. 
+
+This issue may be due to the encoder or the encoder board. Please turn off the printer, then unscrew the the encoder board from the printer, to make it easier to access the orange plugs.
+
+Temporarily swap encoder 0 and encoder 1, and then turn the printer back on, go to Maintenance> Position Encoders> Zero Position Encoders and see if the Nan reading moves or stays in the same place. See previous picture encoder board numbered to identify encoder 0, and encoder 1 plugs
+
+Please get the printer ini while it is swapped for us to confirm. Be careful not to break any of the wires, as they are fragile. 
+
+This will help to identify if it is the encoder, or the encoder board that needs to be swapped.
+
+If it is the encoder that is needed, it is PN/02477, and is dealer price $18usd, and rrp $25usd.
+
+If it is the encoder board that needs to be replaced, it is PN/02520 and is dealer price $135usd, and  rrp $205usd.
+
+We will wait for your testing results to identify the faulty component.
+
+Regards

@@ -1,0 +1,125 @@
+Composer Modify and resubmit build
+ <!DOCTYPE HTML>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>Asiga Build Uploader</title>
+		<style type="text/css">
+body {
+	font-size: 12pt;
+	line-height: 1.4;
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6 { margin: 2ex 0 1ex; }
+h1, h2, h3, h4, h5, h6, dt {
+	font-weight: bold;
+	opacity: 0.7;
+}
+h1 { font-size: 250%; }
+h2 { font-size: 200%; }
+h3 { font-size: 160%; }
+h4 { font-size: 130%; }
+h5 { font-size: 110%; }
+h6 { font-size: 100%; }
+small { font-size: 90%; }
+dl, p { margin: 0 0 1ex; }
+dd { margin: 0; }
+.container {
+	margin: 0 auto;
+	max-width: 1024px;
+}
+.iframe-responsive { width: 100%; }
+.help-block {
+	display: block;
+	opacity: 0.7;
+}
+.hide { display: none; }
+.text-center { text-align: center; }
+.text-left { text-align: left; }
+		</style>
+	</head>
+	<body>
+		<h1 class="text-center">Asiga Build Uploader</h1>
+		<div class="container">
+			<h2>Disclaimer</h2>
+			<p>The use of this webpage to submit builds onto Asiga 3D printers is not guaranteed to succeed.
+			You must open this webpage from a local file as your web browser will block remote webpage access to local addresses.
+			Asiga does not accept any responsibility for build failures or machine faults caused by the use of this webpage.</p>
+			<p class="text-center">
+			<label>
+				<input type="checkbox"
+				onclick="var d = document.forms[0].parentNode, c = d.className.split(' '); if (this.checked) c.pop(); else c.push('hide'); d.className = c.join(' ');" />
+				I accept full responsibility to use this webpage
+			</label>
+			</p>
+		</div>
+		<div class="container hide">
+			<h2>Uploader</h2>
+			<p>Follow the steps below to submit a custom build onto any Asiga DLP 3D printer.</p>
+			<h3>1. Enter the hostname or IP address of the printer</h3>
+			<form method="GET" target="freeform">
+				<dl>
+					<dt><label for="id_host">Printer</label></dt>
+					<dd>
+					<input id="id_host" type="text" name="_host" value="FREEFORM-" pattern="[^/]+" onchange="this.form.action = 'http://' + this.value + ':80/';" />
+					</dd>
+				</dl>
+				<input type="submit" name="submit" value="Connect" />
+			</form>
+			<h3>2. Verify and control the printer in the frame</h3>
+			<iframe class="iframe-responsive" name="freeform" src="//:0" height="480"
+				onerror="document.forms[0]['_host'].select(); document.forms[1]['submit'].disabled = true;"
+				onload="if (document.forms[1]) { var f = document.forms[1]['submit']; f.disabled = false; f.value = document.forms[0]['_host'].value; }">
+			</iframe>
+			<h3>3. Choose for files to upload and click submit</h3>
+			<form method="POST" enctype="multipart/form-data" target="submission">
+				<dl>
+					<dt><label for="id_file">Build file (ZIP)</label></dt>
+					<dd>
+					<input id="id_file" type="file" name="file" accept=".zip" required="required" />
+					<p class="help-block">The ZIP file must contain a ‘Build.ini’ and PNG files named as ‘slice###.png’.
+					<br />You may download and modify an existing build ZIP file from the printer.</p>
+					</dd>
+					<dt><label for="id_preview">Build preview (PNG)</label></dt>
+					<dd>
+					<input id="id_preview" type="file" name="preview" accept=".png" />
+					<p class="help-block">The PNG image should be within 240 × 150 pixels.</p>
+					</dd>
+					<dt><label for="id_buildinfo">Build info (JSON)</label></dt>
+					<dd>
+					<input id="id_buildinfo" type="file" name="buildinfo" accept=".json" />
+					<p class="help-block">The JSON object should contain ‘created’, ‘build_time’ (seconds), ‘computer_name’, ‘username’ and ‘parts’.
+					<br />Each part in the ‘parts’ array should contain ‘name’, ‘dimension_x’, ‘dimension_y’ and ‘dimension_z’.</p>
+					</dd>
+					<dt><label for="id_sampleinfo">Sample JSON</label></dt>
+					<dd>
+						<textarea disabled="disabled" cols="50" rows="10">{
+	"created": "2017-08-09 10:11:12 AM",
+	"build_time": 3600,
+	"computer_name": "Computer",
+	"username": "User",
+	"parts": [
+		{
+			"name": "Part-1.stl",
+			"dimension_x": 3.0,
+			"dimension_y": 4.0,
+			"dimension_z": 5.0
+		},
+		{
+			"name": "Part-2.stl",
+			"dimension_x": 6.0,
+			"dimension_y": 7.0,
+			"dimension_z": 8.0
+		}
+	]
+}</textarea>
+					</dd>
+				</dl>
+				<input type="submit" name="submit" value="FREEFORM-" disabled="disabled"
+				onclick="if (confirm('Upload to ' + this.value + '?')) { this.form.action = 'http://' + this.value + ':42512/upload'; return true; } else { return false; }" />
+			</form>
+			<h3>4. Check the submission result here</h3>
+			<iframe name="submission" src="//:0" height="64" width="480"></iframe>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,15 @@
+MAX Power turns on or off
+ How frequently does the printer turn on or off?
+
+It is unusual that you have said the printer turns on unexpectedly as well as off unexpectedly.
+
+This would indicate an issue with the power button most likely. To confirm this, if you remove the curved back panel of the printer, you can check if unplugging the power button makes a difference to the condition of the printer. As you said it turns on, please turn it off and unplug the power button. If the power button was causing the issue, then with it unplugged, the printer should not suddenly turn on by itself any more.
+
+Please confirm if this resolves the issue, and then we can send a replacement power button to you.
+
+The printer is under warranty, so there would be no cost for any replacement parts.
+
+Please see the attached photos for guidance on how to unplug the power button. The power button plug is circled in picture 3.
+
+Please let us know the testing results.
+Regards, 

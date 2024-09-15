@@ -1,0 +1,14 @@
+Misprints & Print Defects Print issue always in the same area
+ If you observe this occuring always in a specific area, I would look at 3 factors:
+
+1. Possibly the build platform is damaged (I can see a few marks on it looking at your pictures), so when you do the platform calibration, the platform will sit slightly tilted and will experience attachment issues in that area. This should be easily verified while using a piece of paper and checking for gaps between the build platform and the basin glass, as seen in the second half of the calibration video: https://www.asiga.com/accounts/resources/PRO%204K/1%20-%20Quick%20Start%20Guide/3.Set%20Zero%20Position%20PRO%204K.webm
+
+2. It might be possible that when you tighten the calibration screws, the build platform will end up in a slightly skewed position, this would be an issue related to the build platform holder. Also here you can apply the above procedure, checking with a piece of paper for any gaps between the build platform and the basin glass
+
+3. Lastly, it could be possible that the light intensity in that specific area has dropped, so the models get less LED exposure, are therefore being under-cured, which then lead to print defects in that area. This can only be verified when using an external radiometer and measuring the light intensity in 5 spots, to see if the light intensity in that area has dropped. In this case, we will need to involve your reseller to check the light intensity with an external radiometer
+
+To check the current printer settings in general, can you please send us the printer.ini of this machine?
+To get that file, please open Composer, click New Build, click your target printer, then click the blue globe icon in the top right corner, a web browser will open, please go to the tab System Information and you will find the printer.ini. Right-click that file and click Save Target As/ Save Link As to download the text file. Please then attach the file to this ticket.
+
+Thank you.
+Best regards, 

@@ -1,0 +1,12 @@
+PRO4K General advice
+ I see your printer was only registered recently. Did you receive any training from the dealer in regard to using it?
+
+It will be necessary to clean the tray if you have had a misprint, same as for the Max.
+
+Usually if the print does not stick to the platform, it is the alignment of the platform parallel to the glass not being right. Please check the platform calibration, and apply downward pressure to the platform when tightening the calibration screw, and the grub screw, to avoid the platform shifting during the process. Also double check with a piece of paper to see if there are any gaps under any of the corners of the platform after tightening the screws.
+
+Could you please let us know which resin you are using? Also it would help if we could see the printer ini for your machine. To get that file, please open Composer, click New Build, click your target printer, then click the blue globe icon in the top right corner, a web browser will open, please go to the tab System Information and you will see View Printer.ini. Right click that file and click Save Target As/ Save Link As to download the text file. Please then attach the file onto this ticket.
+
+There have been a few firmware updates for the pro 4k, please also update to the latest firmware.
+Firmware and instructions can be found here:
+https://www.asiga.com/accounts/firmware/21/

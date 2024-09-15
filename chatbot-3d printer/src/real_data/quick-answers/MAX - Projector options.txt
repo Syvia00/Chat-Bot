@@ -1,0 +1,14 @@
+MAX Projector options
+ For a replacement projector for the Max we have the following options:
+
+1. A brand new projector, with a 1 year warranty, for $1350usd plus shipping, the old projector doesn't need to be returned. This will be a high power projector.
+
+2. A refurbished projector, with a 6 months warranty. Asiga will charge $550usd plus shipping, which is payable in full. There will be a non return fee of $1500usd which does not need to be paid, unless the faulty projector is not returned within 30 days.
+
+Before swapping the projector, please ensure the firmware is at the latest version.
+
+The latest firmware, as well as instructions to install it, is here:
+
+https://myaccount.asiga.com/accounts/firmware/28/
+
+Let us know once the exchange is done, so we can generate the RMA documents to return the faulty projector to the Asiga factory.

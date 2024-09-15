@@ -1,0 +1,8 @@
+MAX Platform calibration
+ Please apply downward pressure to the black knob when tightening the calibration screw. This will help to keep the platform parallel to the glass. Then if you check with a piece of paper after completing the platform calibration you should get better results. You should then be able to print without issue.
+
+The encoders are very sensitive, but can provide a way to verify the platform calibration. After the platform calibration, lower the platform, and when it is just above the glass stop lowering. Zero the encoders, then continue to lower the platform to contact the glass. The blue dot should stay near the centre, and the total weight should be under 0.05. If the platform is not parallel, then one corner will be closer to the glass, and you will see the dot move to the corner that is contacting the glass, also the weight reading will be higher. If this happens, you would need to perform the platform calibration again.
+
+Please see the videos on this page for how to perform and verify the platform calibration on the Max:
+
+https://support.asiga.com/maintenance-schedule-max/#platform-calibration

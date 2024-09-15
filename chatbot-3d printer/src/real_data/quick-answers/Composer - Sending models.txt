@@ -1,0 +1,3 @@
+Composer Sending models
+ 
+Can you please send us the model you're trying to print? If you use supports, we please need to see the fully supported models. To do so, have the (supported) models nested in Composer, then in the top left corner of Composer, click FILE> EXPORT BUILD, this will generate a ZIP file, please then attach the zip file to this ticket.

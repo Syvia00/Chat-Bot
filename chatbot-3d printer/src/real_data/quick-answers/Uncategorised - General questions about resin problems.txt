@@ -1,0 +1,14 @@
+Uncategorised General questions about resin problems
+ 1. Which material are you using?
+
+2. Which material INI file are you using?
+
+3. Is Composer at latest version (at least 1.2.11, latest 1.2.12-6)?
+
+4. Is Firmware at latest version (2020-01-17)
+
+5. Can you send us a picture/video of your problem?
+
+8. Please export the Debuglog, Errorlog and Printer.ini (Printers Web Interface> System Information)
+
+9. Please export the print you are trying to print, by clicking File> Export Build

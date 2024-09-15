@@ -1,0 +1,20 @@
+Resins Keymodel Ultra is dodgy
+ A good build platform calibration and cleanliness of the optical light path is important for good performance of the printer.
+
+As for the resin, the Keymodel Ultra material can be a tricky material to work with, this is unrelated to the performance of the printer, but related to some properties of the resin.
+We have observed that the model tends to shrink, especially at the base, and due to the shrinkage of the base layer, it can lead to detachments due to that shrinkage.
+
+In this case, you can either try increasing the exposure times as you did and see if this is a permanent solution that works for you.
+
+Otherwise, its recommended to place the model onto supports and print with a shadow base plate, which will help with potential detachment issues of the entire model.
+
+The Keymodel Ultra material can be tricky to print with. There are 2 major factors that you need to consider when printing with this resin:
+
+1. As already pointed out, you have seen there are multiple material files for the Model materials, and the files are either ending in 100micron or 50 micron
+-> When using one or the other file, 50 or 100 microns, the models have to be printed at 50 and 100 microns slice thickness, depending on which material files is being used. I have seen that this was not the case for some of the set-up prints.
+
+2. The Keymodel Ultra resin has a high shrinkage rate, especially at the base of the model. That means if you print for example a flat solid model, which we would typically place directly on the build platform, its suggested to place the model onto supports, generate sufficient supports underneath, and print it with a Shadow Type base plate and a base plate thickness of 0.5mm
+
+(3.) And in general, be aware of hollow models, that they are placed on supports, so they wont encounter issues with trapped volume and suction cup effect
+
+Regards, 

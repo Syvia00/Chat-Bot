@@ -1,0 +1,10 @@
+Misprints & Print Defects Wrong size parts printed
+ Can you please send us the printer.ini of your machine so we can have a look at the current settings? To get that file, please open Composer, click New Build, click your target printer, then click the blue globe icon in the top right corner, a web browser will open, please go to the tab System Information and you will see View Printer.ini. Right-click that file and click Save Target As/ Save Link As to download the text file. Please then attach the file to this ticket.
+
+Can you please also tell which resin exactly you're using?
+
+And can you please also send us the part that you're trying to print? If you placed any supports in the model/s, we would please need to see it fully supported. To do so, load the fully supported model/s into Composer, then click FILE> EXPORT BUILD, this will generate a ZIP file, please then attach the ZIP onto this ticket.
+
+Otherwise please ensure that the firmware of the machine is up to date and that you're running the latest Composer version.
+
+Please also check that the optical light path of the printer is absolutely clean. Any "smudges" in the light path will scatter the projector light, and either lead to dimensional inaccuracy or leaving tags/patches on your models. You can use IPA (IsoPropyl Alcohol) and a soft cloth, and then window cleaner for a final wipe, to remove any potential streaks.

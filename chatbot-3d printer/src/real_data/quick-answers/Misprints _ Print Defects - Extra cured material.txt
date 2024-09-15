@@ -1,0 +1,22 @@
+Misprints & Print Defects Extra cured material
+ Thanks for the photos.
+
+The parts themselves look cured well, but in many of the photos there is extra cured material, like tags.
+
+This will be due to light scattering during printing. To resolve this, please ask the customer to clean the glass very thoroughly. Use IPA (IsoPropyl Alcohol) and a soft cloth, then follow up with window cleaner to remove any streaks. Check with a torch, or the light from a smart phone that there are no smudges or smears of resin on the basin glass. It needs to be crystal clear. Be careful not to scratch the glass when cleaning.
+
+Also check the mirror underneath, if it has dust on it, please remove it with a camera lens dust blower. This should resolve the issues with the extra cured resin.
+
+In one picture it looks like the baseplate did not attach to the platform properly at the start. Does the customer mix the resin well before starting printing?
+
+Please check the platform calibration is being done with care, and that downward pressure is put on the black knob when tightening the screw.
+
+Also, confirm that the calibration is verified with a piece of paper to ensure there are no gaps under any corners, which confirms that the platform is parallel to the glass.
+
+For hollow dental models we recommend supports be 4mm, the spacing 2mm-3mm, and the contact width 0.7mm-0.8mm. This allows resin to flow well during printing. Please ask the customer to try these settings.
+
+For us to check the printer generally, can you please give us the printer ini file?
+
+To get that file, please open Composer, click New Build, click your target printer, then click the blue globe icon in the top right corner, a web browser will open, please go to the tab System Information and you will see View Printer.ini. Right click that file and click Save Target As/ Save Link As to download the text file. Please then attach the file onto this ticket.
+
+Regards, 

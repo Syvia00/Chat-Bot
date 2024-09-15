@@ -1,0 +1,6 @@
+Trays Trays imperfect
+ Those would be imperfections in the build tray film and not holes, more precisely those are little dimples in the build tray film which stems from the manufacturing. Those can't be avoided and will be found occasionally on the build tray film (MAX as well as 4K). Those should not be responsible for a leak in the tray. Out of experience here in support, over 95% of the damages on the build tray film are caused during usage (debris/layers at the bottom of the tray when starting a new job, small fractions of the printed model which may have detached during printing, protruding engravings on the model which often don't print complete and will build up in the build tray, etc).
+
+I could offer you to send us one of the prints which last caused damage to the build tray film and I can check if I can find any inconsistencies. If you have used supports, we would please need to see the fully supported model. To do so, please load the fully supported model/s into Composer, then clock FILE> EXPORT BUILD, this will create a ZIP file, please then attach the ZIP file onto this ticket.
+
+Thanks, 

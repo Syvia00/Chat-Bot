@@ -1,0 +1,18 @@
+Composer Clear Composer Settings
+ Reinstalling Composer will not remove any settings for Composer, to clear the settings:
+
+1. Browse to Program Files/Asiga/Composer
+
+2. Press Shift and right click. Select open Powershell window here
+
+3. Run Composer.exe --profile-reset
+
+After clearing the settings, please uninstall then redownload and reinstall Composer from here:
+
+https://www.asiga.com/accounts/software/
+
+Then you will have a fresh installation of Composer, which should work.
+
+Please let us know if this helps.
+
+Regards, 

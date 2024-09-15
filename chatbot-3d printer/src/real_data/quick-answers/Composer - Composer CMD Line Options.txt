@@ -1,0 +1,74 @@
+Composer Composer CMD Line Options
+ Usage: composer [OPTIONS..] [--] [FILES..]
+Asiga Composer version 1.2.12 built Tue Oct 20 2020
+
+Options:
+  --                             End of options marker, treat next arguments as files.
+  --version                      Print application version to standard output and exit.
+  --help                         Print this message and exit.
+  --headless                     Run composer without any window.
+  --cache=[DIR]                  Use specific cache path.
+  --profile=[DIR]                Use specific CONF path to store settings.
+  --profile-reset[=DIR]          Clears all settings and optionally backup to CONF.
+  --locale=LOCALE                Start with the specified language.
+  --window-size=[WIDTH,HEIGHT]   Start with the specified size rather than maximized.
+  --output-log=FILENAME          Saves Composer log output to file, defaults to temp folder.
+  --output-debug[=CLASSFUNC]     Specify class functions or leave blank for everything.
+  --output-msec                  Output timestamps with milliseconds accuracy.
+  --output-utc                   Output timestamps in UTC timezone rather than localtime.
+  --properties-import=FILENAME   Applies dialog properties on show event.
+  --properties-export=FILENAME   Incrementally exports dialog properties on show event.
+  --ipc-log=FILENAME             Saves IPC / JSONRPC messages to file, defaults to temp folder.
+  --ipc-timeout=MSEC             Tune IPC / JSONRPC message timeout (4000).
+  --ipc-socket=FILENAME          Socket name for IPC / JSONRPC messaging or disabled if empty.
+  --jsonrpc-server               Enables Javascripting over JSONRPC over socket.
+  --jsonrpc-request=[FILENAME|-] Javascript input to send to a running server and exit.
+  --jsonrpc-params=ARG           JSON params to bind into Javascript input on server.
+  --threads=COUNT                Tune maximum number of threads to use.
+  --output-ipc=FILENAME          Deprecated, use --ipc-log.
+
+The options above (except help & version) are subject to change between versions.
+
+Files:
+  *.combld                      Composer project file.
+  *.zip                         Composer exported project / build / files archive.
+  *.printRequest                Exocad print request file.
+  *.ply                         ASCII / binary Polygon files.
+  *.stl                         ASCII / binary triangles files.
+  *.slc                         Sliced layer contour files.
+
+Download the latest version from www.asiga.com
+
+Profiles:
+  You can share a single profile path for multiple concurrent users.
+  The actual configuration file will be located inside DIR/Asiga/Composer.conf
+  Specify empty DIR to use Composer application path for portable install.
+  Advisory file locking is used to ensure data integrity.
+
+Localisations:
+  Translation files are installed in Locale.
+  You will be asked to choose a language if your locale does not exist.
+
+Materials:
+  Built-in materials are installed in Materials.
+  You can download third-party material files online.
+
+Build Logging:
+  Composer updates all build logs from all printers and can be resource intensive.
+  It is advisable to run a separate process to specifically handle build logging.
+  Combine --profile=DIR, --ipc-socket=- and --headless to run as a separate process.
+  Alternatively, increase --threads=COUNT if you experience hung processes.
+
+Properties:
+  Composer will attempt to load Composer.ini in the Composer application path.
+  Properties are exported and imported whenever a window dialog is opening.
+
+Scripting:
+  The first Composer instance will own the socket even if jsonrpc-server is not on.
+  Specify --jsonrpc-client=- for interactive scripting in the command line interface.
+  Parameters can be positional %1, %2, ... or named %(a), %(b), ...
+
+Returns:
+  1: arguments redirected to a running instance
+  2: missing bundled files
+  3: missing libraries or unsupported architecture

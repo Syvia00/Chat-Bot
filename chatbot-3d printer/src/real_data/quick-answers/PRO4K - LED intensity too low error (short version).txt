@@ -1,0 +1,11 @@
+PRO4K LED intensity too low error (short version)
+ (delete if LED power level is already at 80%)
+
+Can you please try to reduce the LED power level? Go to Maintenance> LED> Power Level, reduce it to 80% and save it, and see if the error message reappears.
+
+Otherwise we will need to exchange the LED driver board of the projector. We will therefore send you a replacement board free of charge and shipping.
+Please see attached PDF file on how to perform the exchange.
+
+Please note, there will be a form included with the replacement board, ensure you fill it out and include it with the old driver board.
+
+There will also be a non-return fee of $350USD which is not payable at the time of dispatch and only becomes payable if the old board is not returned to Asiga within 30 days. So please let us know once the exchange is done, so we can generate the RMA documents to return the board and remove the non-return fee once we receive it.

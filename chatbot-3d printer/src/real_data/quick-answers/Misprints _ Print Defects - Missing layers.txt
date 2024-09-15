@@ -1,0 +1,3 @@
+Misprints & Print Defects Missing layers
+ There are a few reasons for missing layers, firstly please check for a trapped volume, if your model is not solid, or does not have drain holes, then air or resin can be trapped, and lead to delamination issues. Also please be sure to have the resin tray at least half full, preferably 3/4 full when printing to help the resin to flow quickly back to the center of the tray. 
+Please also try disabling the Separation Detect, to see if your results improve. 

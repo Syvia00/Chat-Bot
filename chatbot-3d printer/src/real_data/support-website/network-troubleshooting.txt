@@ -1,0 +1,81 @@
+Wired connection 
+
+If you are experiencing network connection issues, follow the troubleshooting steps below. 
+
+Select ‘Settings’ from Main Menu. 
+
+Select ‘Wired Network’. 
+
+Make sure ‘Automatic Configuration’ is turned on. If there is an IP Address showing, your printer is connected to the network. 
+
+If this did not work, check the following things:Check the network cable for any damage or loose connections. Use a different cable if any damage is visible.Check the router if any lights are on. Restart the router & printer if no activity is detected. Your printer should now be connected to your network. If this did not work, please launch a support ticket here >
+Wired connection
+If you are experiencing network connection issues, follow the troubleshooting steps below.
+Select ‘Settings’ from Main Menu.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/MM-Settings.jpg
+Select ‘Wired Network’.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/settings-wired-selected.jpg
+Make sure ‘Automatic Configuration’ is turned on. If there is an IP Address showing, your printer is connected to the network.
+Make sure ‘Automatic Configuration’ is turned on.
+If there is an IP Address showing, your printer is connected to the network.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Settings-Wired-Menu.jpg
+If this did not work, check the following things:Check the network cable for any damage or loose connections. Use a different cable if any damage is visible.Check the router if any lights are on. Restart the router & printer if no activity is detected. Your printer should now be connected to your network. If this did not work, please launch a support ticket here >
+If this did not work, check the following things:
+Check the network cable for any damage or loose connections. Use a different cable if any damage is visible.Check the router if any lights are on. Restart the router & printer if no activity is detected.
+Check the network cable for any damage or loose connections. Use a different cable if any damage is visible.
+Check the router if any lights are on. Restart the router & printer if no activity is detected.
+Your printer should now be connected to your network. If this did not work, please launch a support ticket here >
+support ticket here >
+Wireless connection 
+
+Select ‘Settings’ from Main Menu. 
+
+Select ‘Wireless Network’ 
+
+Make sure that wireless network & automatic configuration are enabled.If your printer is showing a network name, it is connected to the network.  
+
+If your printer is not showing a network name:Select ‘Network Name’Search for your networkInput correct password 
+
+If there are no networks being shown, make sure that ‘Wireless Direct’ is turned off.
+Wireless connection
+Select ‘Wireless Network’
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/settings-wireless-selected.jpg
+Make sure that wireless network & automatic configuration are enabled.If your printer is showing a network name, it is connected to the network.
+Make sure that wireless network & automatic configuration are enabled.
+If your printer is showing a network name, it is connected to the network.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Settings-Wireless-Menu.jpg
+If your printer is not showing a network name:Select ‘Network Name’Search for your networkInput correct password
+If your printer is not showing a network name:
+Select ‘Network Name’Search for your networkInput correct password
+Select ‘Network Name’
+Search for your network
+Input correct password
+If there are no networks being shown, make sure that ‘Wireless Direct’ is turned off.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/Settings-Wireless-Direct-Menu-enabled.jpg
+Printer not detected in Composer 
+
+The printer is connected to the network but not showing up in Composer.Composer needs to be connected to the same network as your printer. 
+
+When you favourite (star) a printer, Composer remembers the IP Address.If the IP Address has changed, that connection can be lost.Unfavourite the printer by clicking on the yellow star.Refresh the Build Properties window.Printer should be visible now.
+Printer not detected in Composer
+The printer is connected to the network but not showing up in Composer.Composer needs to be connected to the same network as your printer.
+When you favourite (star) a printer, Composer remembers the IP Address.If the IP Address has changed, that connection can be lost.Unfavourite the printer by clicking on the yellow star.Refresh the Build Properties window.Printer should be visible now.
+When you favourite (star) a printer, Composer remembers the IP Address.If the IP Address has changed, that connection can be lost.
+Unfavourite the printer by clicking on the yellow star.Refresh the Build Properties window.Printer should be visible now.
+Unfavourite the printer by clicking on the yellow star.
+Refresh the Build Properties window.
+Printer should be visible now.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/Build-properties.jpg
+please launch a support ticket via the button below.
+PrevPreviousEstimated print time is longer than normal – MAX 
+
+NextDuplicated facets & faulty slicesNext
+PrevPreviousEstimated print time is longer than normal – MAX
+Prev
+PreviousEstimated print time is longer than normal – MAX
+Previous
+Estimated print time is longer than normal – MAX
+NextDuplicated facets & faulty slicesNext
+NextDuplicated facets & faulty slices
+Next
+Duplicated facets & faulty slices

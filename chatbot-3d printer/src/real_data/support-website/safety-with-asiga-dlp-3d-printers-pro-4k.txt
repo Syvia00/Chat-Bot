@@ -1,0 +1,101 @@
+General Usage 
+
+When operating an Asiga printer be sure to always wear PPE (Personal Protective Equipment) as required.The following symbols are used frequently on our Customer Support pages. 
+
+						Flammable chemical.					
+
+						UV light shown is harmful.            					
+
+						Always wear protective glasses when undergoing maintenance or service of the LED.					
+
+						Wear respirator or fume mask when handling Isopropyl Alcohol (IPA).					
+
+						Wear protective eyewear when handling uncured resin.					
+
+						Wash hands thoroughly in cold soapy water if skin contact with uncured resin occurs.					
+
+						Uncured photopolymer resin is classified as hazardous to aquatic life.					
+
+						Wear disposable nitrile gloves when handling uncured resin.
+General Usage
+When operating an Asiga printer be sure to always wear PPE (Personal Protective Equipment) as required.The following symbols are used frequently on our Customer Support pages.
+When operating an Asiga printer be sure to always wear PPE (Personal Protective Equipment) as required.
+The following symbols are used frequently on our Customer Support pages.
+Flammable chemical.
+.b13ad627-8e2f-46fa-9ae4-d3a112aa17fa{fill:#ffd520;}.e622e3a1-377a-4973-abe4-1f942493b29a{fill:#231f20;}
+UV light shown is harmful.            					
+
+						Always wear protective glasses when undergoing maintenance or service of the LED.
+.ea37c8a4-403c-4b4f-bee0-fc6ae07fb5dc{fill:#ffd520;}.bf173b10-5391-4157-8ecb-a0c0a5ef6459{fill:#231f20;}
+UV light shown is harmful.
+Always wear protective glasses when undergoing maintenance or service of the LED.
+Wear respirator or fume mask when handling Isopropyl Alcohol (IPA).
+.b9ab1a11-bce9-41e9-9d49-47580262c0fd{fill:#ffd520;}.b59be87b-93e4-4738-8697-183f5ca47dec{fill:#231f20;}
+Wear protective eyewear when handling uncured resin.
+.b8f206c7-1bc3-4d29-8919-bdcd2ea9c861{fill:#ffd520;}.eb2b99ae-91c8-449d-9277-1d6206d2ca17{fill:#231f20;}
+Wash hands thoroughly in cold soapy water if skin contact with uncured resin occurs.
+.af0d0be0-979a-4db1-b242-8e02d83bd787{fill:#ffd520;}.b5917ce8-fb16-4923-9422-d2401c000688{fill:#231f20;}
+Uncured photopolymer resin is classified as hazardous to aquatic life.
+.b17f727b-3053-4cc6-84b7-7d7986292497{fill:#ffd520;}.ab5d09a9-e79e-4f4b-8a73-d0572702b517{fill:#231f20;}
+Wear disposable nitrile gloves when handling uncured resin.
+.b29c62c4-badf-498b-936d-ce7daf345567{fill:#ffd520;}.aeb7c84d-a874-4764-b91c-30d73b9175d5{fill:#231f20;}
+LED 
+
+						UV light shown is harmful.            					
+
+						Always wear protective glasses when undergoing maintenance or service of the LED.					
+
+Asiga 3D printers house high-powered UV LED’s. Protective eyewear must be worn at all times when switching on the LED manually.Never look directly into the light source as this could cause vision loss.
+LED
+Asiga 3D printers house high-powered UV LED’s. Protective eyewear must be worn at all times when switching on the LED manually.Never look directly into the light source as this could cause vision loss.
+Asiga 3D printers house high-powered UV LED’s. Protective eyewear must be worn at all times when switching on the LED manually.
+See the following image https://support.asiga.com/wp-content/uploads/2022/07/asiga-support-safety-led-glasses.jpg
+Solvents 
+
+98% Isopropyl Alcohol (IPA) is recommended for washing parts after printing. 
+
+						Flammable chemical.					
+
+						Wear respirator or fume mask when handling Isopropyl Alcohol (IPA).
+Solvents
+98% Isopropyl Alcohol (IPA) is recommended for washing parts after printing.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/video-1920-1080-1.png
+Resin 
+
+						Uncured photopolymer resin is classified as hazardous to aquatic life.					
+
+						Wear disposable nitrile gloves when handling uncured resin.					
+
+Asiga printers require photo reactive liquid polymer resin.When handling 3D printing material (photopolymers) refer to the material Safety Datasheet (SDS) and Instructions For Use (IFU) for correct material handling.Please see our Materials tab for more information on ASIGA resin before printing.General safety: Always consult the SDS as the primary source of information to understand safety and handling of Asiga materials.Seek medical attention if eye contact occurs.If skin contact occurs, wash the area thoroughly with cold soapy water.
+Resin
+Asiga printers require photo reactive liquid polymer resin.When handling 3D printing material (photopolymers) refer to the material Safety Datasheet (SDS) and Instructions For Use (IFU) for correct material handling.Please see our Materials tab for more information on ASIGA resin before printing.General safety: Always consult the SDS as the primary source of information to understand safety and handling of Asiga materials.Seek medical attention if eye contact occurs.If skin contact occurs, wash the area thoroughly with cold soapy water.
+Asiga printers require photo reactive liquid polymer resin.
+When handling 3D printing material (photopolymers) refer to the material Safety Datasheet (SDS) and Instructions For Use (IFU) for correct material handling.
+Please see our Materials tab for more information on ASIGA resin before printing.
+Materials tab
+General safety: Always consult the SDS as the primary source of information to understand safety and handling of Asiga materials.Seek medical attention if eye contact occurs.If skin contact occurs, wash the area thoroughly with cold soapy water.
+General safety:
+Maintenance 
+
+Asiga printers require little preventative maintenance. Follow all instructions and safety advisories before attempting any maintenance on a printer.Supervision: Do not attempt to open or investigate internal components unless under the guidance of an Asiga authorised representative (Asiga technical support or an Asiga reseller).Modification: Do not open Asiga printers and/or investigate internal components unless under the guidance of Asiga or an authorised reseller. Contact Asiga Support or an Authorised reseller for any additional guidance. All steps that involve opening a printer and/ or investigating internal components should be done by skilled persons under the guidance of Asiga Support or an authorised reseller.Unauthorised maintenance: Unauthorised disassembly or repair procedures may damage the printer and void the warranty. For assistance contact an Asiga authorised representative (Asiga technical support or an Asiga reseller).Personal protective equipment: Wear personal protective equipment when performing maintenance tasks. Use tools only as described.Moving parts: Disconnect the power cable before maintenance. Moving parts present crushing and tangling hazards.
+Maintenance
+Asiga printers require little preventative maintenance. Follow all instructions and safety advisories before attempting any maintenance on a printer.Supervision: Do not attempt to open or investigate internal components unless under the guidance of an Asiga authorised representative (Asiga technical support or an Asiga reseller).Modification: Do not open Asiga printers and/or investigate internal components unless under the guidance of Asiga or an authorised reseller. Contact Asiga Support or an Authorised reseller for any additional guidance. All steps that involve opening a printer and/ or investigating internal components should be done by skilled persons under the guidance of Asiga Support or an authorised reseller.Unauthorised maintenance: Unauthorised disassembly or repair procedures may damage the printer and void the warranty. For assistance contact an Asiga authorised representative (Asiga technical support or an Asiga reseller).Personal protective equipment: Wear personal protective equipment when performing maintenance tasks. Use tools only as described.Moving parts: Disconnect the power cable before maintenance. Moving parts present crushing and tangling hazards.
+Asiga printers require little preventative maintenance. Follow all instructions and safety advisories before attempting any maintenance on a printer.
+little preventative maintenance.
+Supervision: Do not attempt to open or investigate internal components unless under the guidance of an Asiga authorised representative (Asiga technical support or an Asiga reseller).
+Supervision:
+Do not attempt to open or investigate internal components unless under the guidance of an Asiga authorised representative (Asiga technical support or an Asiga reseller).
+Modification: Do not open Asiga printers and/or investigate internal components unless under the guidance of Asiga or an authorised reseller. Contact Asiga Support or an Authorised reseller for any additional guidance. All steps that involve opening a printer and/ or investigating internal components should be done by skilled persons under the guidance of Asiga Support or an authorised reseller.
+Modification:
+Unauthorised maintenance: Unauthorised disassembly or repair procedures may damage the printer and void the warranty. For assistance contact an Asiga authorised representative (Asiga technical support or an Asiga reseller).
+Unauthorised maintenance:
+For assistance contact an Asiga authorised representative (Asiga technical support or an Asiga reseller).
+Personal protective equipment: Wear personal protective equipment when performing maintenance tasks. Use tools only as described.
+Personal protective equipment:
+Moving parts: Disconnect the power cable before maintenance. Moving parts present crushing and tangling hazards.
+Moving parts:
+PrevPreviousProduct Breakdown- PRO 4K
+Prev
+PreviousProduct Breakdown- PRO 4K
+Previous
+Product Breakdown- PRO 4K

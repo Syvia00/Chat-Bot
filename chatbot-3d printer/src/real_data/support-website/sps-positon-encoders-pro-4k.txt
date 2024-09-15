@@ -1,0 +1,38 @@
+Position Encoders 
+
+What is SPS technology? 
+
+Position encoders provide platform position feedback ensuring your build platform is where it needs to be for every layer guaranteeing Z height precision. 
+
+Because these sensors are so sensitive, it is normal for them to move around.What’s more important is the values shown in the left column.These values represent the weight  
+
+To check if your encoders are working correctly:Remove the build tray Zero the encoders 
+
+Run your finger along the edge of the basin.The blue dot should follow your finger and turn red.
+Position Encoders
+What is SPS technology?
+Position encoders provide platform position feedback ensuring your build platform is where it needs to be for every layer guaranteeing Z height precision.
+Because these sensors are so sensitive, it is normal for them to move around.What’s more important is the values shown in the left column.These values represent the weight
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/erratic-encoders.gif
+To check if your encoders are working correctly:Remove the build tray Zero the encoders
+To check if your encoders are working correctly:
+Remove the build tray Zero the encoders
+Remove the build tray
+Zero the encoders
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/zero-position-encoder.gif
+Run your finger along the edge of the basin.The blue dot should follow your finger and turn red.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/follow-frame-encoder.gif
+If your position encoders are performing as described in this article, they are working perfectly.
+please launch a support ticket via the button below.
+PrevPreviousParts are not attaching to the build platform – PRO 4K 
+
+NextEstimated print time is longer than normal – PRO 4KNext
+PrevPreviousParts are not attaching to the build platform – PRO 4K
+Prev
+PreviousParts are not attaching to the build platform – PRO 4K
+Previous
+Parts are not attaching to the build platform – PRO 4K
+NextEstimated print time is longer than normal – PRO 4KNext
+NextEstimated print time is longer than normal – PRO 4K
+Next
+Estimated print time is longer than normal – PRO 4K

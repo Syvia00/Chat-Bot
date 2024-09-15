@@ -1,0 +1,56 @@
+Approach failed
+What is the 'Approach Failed' error?
+Asiga 3D printers will attempt to squeeze out resin to the desired layer thickness.If the sensors measure increased resistance, it will display the approach failed error message.This method protects the printer and it’s components and prevents most tray punctures.
+Approach failed is usually the result of five possible issues:
+Debris in the build tray or on the surface of the build platform.Calibration screw is not sufficiently tight.Build platform is incorrectly calibrated.Vibration sources.Trapped volume or Suction cup.
+Debris in the build tray or on the surface of the build platform.
+Calibration screw is not sufficiently tight.
+Build platform is incorrectly calibrated.
+Vibration sources.
+Trapped volume or Suction cup.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/Approach-Fail.jpg
+1. Debris in the build tray or on the surface of the build platform
+Debris can restrict the build platform from reaching it’s destination.This debris can be caused by parts detaching during printing and floating around.The best way to avoid any debris in the build tray is by performing a build tray clean.
+This debris can be caused by parts detaching during printing and floating around.The best way to avoid any debris in the build tray is by performing a build tray clean.
+The best way to avoid any debris in the build tray is by performing a build tray clean.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/Clean-build-tray.jpg
+2. Calibration screw is not sufficiently tight
+The build platform is subject to a lot of forces during the printing process.If the platform is not sufficiently tight & can move during printing, it will cause obstructions.
+If the platform is not sufficiently tight & can move during printing, it will cause obstructions.
+Ensure the calibration screw and the knob are both tight before starting a print.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/MAX_Build-platform-holder.jpg
+If the build platform is not completely flat against the glass, it will cause an obstruction.This means that one side of the platform touches the glass first.Please check the platform calibration by following the video below.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/MAX-validate-calibration.jpg
+If the build platform validation fails – please perform the build platform calibration sequence again.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/MAX-platform-calibration.jpg
+4. Vibration Sources
+Asiga 3D printers have sensors located inside the printer. These sensors are very sensitive and pick up the slightest vibrations and changes.Therefor it’s very important to not place the printer next to potential vibration devices.Please see below for a list of known culprits.
+Asiga 3D printers have sensors located inside the printer. These sensors are very sensitive and pick up the slightest vibrations and changes.Therefor it’s very important to not place the printer next to potential vibration devices.
+Please see below for a list of known culprits.
+Aircon units
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/Aircon.jpg
+Ultrasonic baths
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/Ultrasonic.jpg
+Compressor
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/air-compressor.jpg
+5. Trapped volume or suction cup
+Some part geometries can cause trapped volume.Trapped volume are cavities inside the model that trap air and resin.This can lead to multiple consequences like visible lines on the model or higher printing times.See below for common solutions.
+Some part geometries can cause trapped volume.Trapped volume are cavities inside the model that trap air and resin.This can lead to multiple consequences like visible lines on the model or higher printing times.
+See below for common solutions.
+Orientation of the modelHollow models that are printed flat will cause trapped volume. Try rotating the model 90°.
+Orientation of the model
+Hollow models that are printed flat will cause trapped volume. Try rotating the model 90°.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/Dental-model-orientation.jpg
+Drain holesAdding drain holes will allow the resin to flow freely.Try the cut & punch tool in your favourite CAD program.
+Drain holes
+Adding drain holes will allow the resin to flow freely.Try the cut & punch tool in your favourite CAD program.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/Drain-holes.jpg
+SupportsPlacing supports on models will avoid needing drain holes but still allow the resin to flow freely.
+Supports
+Placing supports on models will avoid needing drain holes but still allow the resin to flow freely.
+See the following image https://support.asiga.com/wp-content/uploads/2022/08/max-supports.jpg
+please launch a support ticket via the button below.
+NextParts are not attaching to the build platform – MAX XNext
+NextParts are not attaching to the build platform – MAX X
+Next
+Parts are not attaching to the build platform – MAX X

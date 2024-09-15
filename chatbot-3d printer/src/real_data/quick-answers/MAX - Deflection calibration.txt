@@ -1,0 +1,15 @@
+MAX Deflection calibration
+ 
+Please check the encoder calibration, and then deflection calibration.
+
+https://myaccount.asiga.com/accounts/resources/MAX/1%20-%20Quick%20Start%20Guide/MAX%20User%20Guide%2020220211.pdf
+
+The encoder calibration is shown on page 56.
+
+The deflection calibration is shown on page 64.
+
+After this, you should be able to perform the platform calibration.
+
+Then send us the updated printer ini file for us to check.
+
+Regards, 

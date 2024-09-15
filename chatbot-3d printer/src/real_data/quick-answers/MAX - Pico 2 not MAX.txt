@@ -1,0 +1,14 @@
+MAX Pico 2 not MAX
+ If the Max printer is being incorrectly identified as a Pico 2, it will be due to the encoders not being detected for some reason. 
+
+Please remove the left hand lower side panel, and check the white USB cable is plugged in properly to to the square board there. 
+
+Also remove the curved back panel and check the other end is plugged in properly into the computer board.
+
+Are you able to try another cable to see if it resolves the issue? If replacing the cable does not resolve the problem, it may be the encoder board or the computer board that has an issue. 
+
+Please check under System> Tray data if the printer can recognise a tray, this will show the USB is working. Then turn the printer off, and temporarily swap the two USB plugs on the computer board to see if the encoders will be recognised when its turned back on. 
+
+This would help to identify if there is an issue with the computer board, or the encoder board, though the cable is the most likely culprit, and should be checked first.
+
+Regards, 
